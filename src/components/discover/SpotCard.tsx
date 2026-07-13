@@ -2,6 +2,9 @@ import type { PointerEventHandler } from "react";
 import type { SpotCardSummary } from "@/domain/spots/dto";
 import { SpotImage } from "@/components/shared/SpotImage";
 
+export const SPOT_CARD_IMAGE_SIZES =
+  "(min-width: 768px) 30rem, min(calc(100vw - 2rem), calc(100dvh - 11.75rem))";
+
 type SpotCardProps = {
   spot: SpotCardSummary;
   dragClass: string;
@@ -42,7 +45,7 @@ export function SpotCard({
       <div className="spot-card__image">
         <SpotImage
           image={spot.mainImage}
-          sizes="(min-width: 768px) 30rem, calc(100vw - 2rem)"
+          sizes={SPOT_CARD_IMAGE_SIZES}
           eager
         />
         <span className="swipe-stamp swipe-stamp--save" aria-hidden="true">

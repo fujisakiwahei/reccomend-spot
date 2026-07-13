@@ -1,6 +1,7 @@
 import type { NextConfig } from "next";
 
 const isDevelopment = process.env.NODE_ENV === "development";
+const deploymentId = getVercelDeploymentId();
 
 const contentSecurityPolicy = [
   "default-src 'self'",
@@ -16,6 +17,7 @@ const contentSecurityPolicy = [
 ].join("; ");
 
 const nextConfig: NextConfig = {
+  deploymentId,
   poweredByHeader: false,
   turbopack: {
     root: process.cwd(),
@@ -59,3 +61,18 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
+
+function getVercelDeploymentId(): string | undefined {
+  const vercelDeploymentId = process.env.VERCEL_DEPLOYMENT_ID;
+
+  if (vercelDeploymentId !== undefined) {
+    const normalizedDeploymentId = vercelDeploymentId.startsWith("dpl_")
+      ? vercelDeploymentId.slice(4)
+      : vercelDeploymentId;
+
+    return normalizedDeploymentId.slice(0, 32);
+  }
+
+  // VercelのデプロイIDが未公開でも、コミットごとに画面と配信アセットを揃える。
+  return process.env.VERCEL_GIT_COMMIT_SHA?.slice(0, 32);
+}

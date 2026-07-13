@@ -1,5 +1,6 @@
 "use client";
 
+import { getImageProps, type ImageLoaderProps } from "next/image";
 import { useRouter } from "next/navigation";
 import {
   useCallback,
@@ -18,7 +19,7 @@ import {
 import { rememberDetailEntry } from "@/infrastructure/navigation/detail-return.client";
 import { useWanderState } from "@/providers/WanderStateProvider";
 import { DiscoverActions } from "./DiscoverActions";
-import { SpotCard } from "./SpotCard";
+import { SPOT_CARD_IMAGE_SIZES, SpotCard } from "./SpotCard";
 
 const AXIS_LOCK_THRESHOLD = 12;
 const HORIZONTAL_COMMIT_THRESHOLD = 96;
@@ -27,6 +28,7 @@ const TAP_SLOP = 8;
 const DRAG_STEP_SIZE = 8;
 const MAX_DRAG_STEP = 12;
 const EXIT_DURATION = 240;
+const IMAGE_PRELOAD_CONCURRENCY = 2;
 
 type DragAxis = "x" | "y" | null;
 type ExitDirection = "left" | "right" | "up";
@@ -56,23 +58,34 @@ export function DiscoverClient({ spots }: DiscoverClientProps) {
   );
   const currentSpotId = selectCurrentSpotId(state);
   const currentSpot = currentSpotId === null ? null : spotById.get(currentSpotId) ?? null;
-  const nextSpotId = state.deckSpotIds[state.currentIndex + 1];
-  const nextSpot = nextSpotId === undefined ? null : spotById.get(nextSpotId) ?? null;
   const [dragClass, setDragClass] = useState("");
   const [dragDirection, setDragDirection] = useState<"left" | "right" | null>(null);
   const [exitDirection, setExitDirection] = useState<ExitDirection | null>(null);
   const activePointerRef = useRef<ActivePointer | null>(null);
   const exitTimerRef = useRef<number | null>(null);
+  const preloadedImageUrlsRef = useRef(new Set<string>());
 
   useEffect(() => {
-    if (nextSpot === null) {
+    if (!isHydrated) {
       return;
     }
 
-    const nextImage = new window.Image();
-    nextImage.decoding = "async";
-    nextImage.src = nextSpot.mainImage.url;
-  }, [nextSpot]);
+    const upcomingImageUrls = state.deckSpotIds
+      .slice(state.currentIndex + 1)
+      .map((spotId) => spotById.get(spotId)?.mainImage.url)
+      .filter((imageUrl): imageUrl is string => imageUrl !== undefined);
+    let isCancelled = false;
+
+    void preloadUpcomingImages(
+      upcomingImageUrls,
+      preloadedImageUrlsRef.current,
+      () => isCancelled,
+    );
+
+    return () => {
+      isCancelled = true;
+    };
+  }, [isHydrated, spotById, state.currentIndex, state.deckSpotIds]);
 
   useEffect(() => {
     return () => {
@@ -317,4 +330,68 @@ function shouldIgnoreKeyboardEvent(event: KeyboardEvent): boolean {
   }
 
   return target.matches("input, textarea, select, button, a, summary, [contenteditable='true']");
+}
+
+async function preloadUpcomingImages(
+  imageUrls: readonly string[],
+  preloadedImageUrls: Set<string>,
+  isCancelled: () => boolean,
+): Promise<void> {
+  let nextImageIndex = 0;
+
+  async function runPreloadWorker() {
+    while (!isCancelled() && nextImageIndex < imageUrls.length) {
+      const imageUrl = imageUrls[nextImageIndex];
+      nextImageIndex += 1;
+
+      if (preloadedImageUrls.has(imageUrl)) {
+        continue;
+      }
+
+      preloadedImageUrls.add(imageUrl);
+      await preloadOptimizedImage(imageUrl);
+    }
+  }
+
+  const workerCount = Math.min(IMAGE_PRELOAD_CONCURRENCY, imageUrls.length);
+  const workers = Array.from({ length: workerCount }, () => runPreloadWorker());
+  await Promise.all(workers);
+}
+
+function preloadOptimizedImage(imageUrl: string): Promise<void> {
+  const { props } = getImageProps({
+    src: imageUrl,
+    alt: "",
+    fill: true,
+    sizes: SPOT_CARD_IMAGE_SIZES,
+    loader: createSpotImageUrl,
+  });
+
+  return new Promise((resolve) => {
+    const preloadImage = new window.Image();
+    preloadImage.decoding = "async";
+    preloadImage.fetchPriority = "low";
+    preloadImage.onload = () => resolve();
+    preloadImage.onerror = () => resolve();
+
+    if (props.sizes !== undefined) {
+      preloadImage.sizes = props.sizes;
+    }
+
+    if (props.srcSet !== undefined) {
+      preloadImage.srcset = props.srcSet;
+    }
+
+    preloadImage.src = props.src;
+  });
+}
+
+function createSpotImageUrl({
+  src,
+  width,
+  quality,
+}: ImageLoaderProps): string {
+  // getImageProps単体ではnext.configのremotePatternsを参照できないため、
+  // 表示中のnext/imageと同じ最適化エンドポイントを明示する。
+  return `/_next/image?url=${encodeURIComponent(src)}&w=${width}&q=${quality ?? 75}`;
 }
