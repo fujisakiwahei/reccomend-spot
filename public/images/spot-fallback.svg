@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title description">
+  <title id="title">観光地画像を準備中</title>
+  <desc id="description">山と太陽を幾何学的に描いたWanderMatchの代替画像</desc>
+  <rect width="1200" height="800" fill="#c9f6f1"/>
+  <circle cx="925" cy="180" r="90" fill="#ffdd52" stroke="#101317" stroke-width="18"/>
+  <path d="M0 665 330 310l190 205 180-240 500 525H0Z" fill="#5278ff" stroke="#101317" stroke-width="18" stroke-linejoin="round"/>
+  <path d="m195 665 255-280 280 310" fill="#43d17a" stroke="#101317" stroke-width="18" stroke-linejoin="round"/>
+  <rect x="72" y="64" width="450" height="112" rx="8" fill="#fffef7" stroke="#101317" stroke-width="18"/>
+  <text x="106" y="137" fill="#101317" font-family="system-ui, sans-serif" font-size="58" font-weight="800">WANDERMATCH</text>
+</svg>

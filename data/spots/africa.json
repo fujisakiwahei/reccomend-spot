@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "spots": [
+    {
+      "id": "great-pyramid-of-giza",
+      "slug": "great-pyramid-of-giza",
+      "name": "ギザの大ピラミッド",
+      "internalEnglishName": "Great Pyramid of Giza",
+      "region": "africa",
+      "country": "エジプト",
+      "city": "ギザ",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "古代エジプト第4王朝のクフ王の墓として築かれた巨大石造建築。古代世界の七不思議で唯一現存する建造物。",
+      "coordinates": {
+        "latitude": 29.979235,
+        "longitude": 31.134202
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=29.979235%2C31.134202",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "カイロ国際空港",
+        "routeSummary": "成田空港 → ドーハまたはドバイ等（1回乗継）→ カイロ国際空港 → 認可タクシーまたは手配車でGiza Plateau",
+        "estimatedDuration": "約19〜24時間",
+        "transferCount": 1,
+        "localTransport": "空港公式案内の定額リムジンまたはメーター制タクシーを利用し、ギザ高原へ移動する。",
+        "note": "空港からの所要時間は交通状況に左右される。乗車前に行き先、車種、料金方式を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Great_Pyramid_Giza_%281%29.jpg/1280px-Great_Pyramid_Giza_%281%29.jpg",
+        "alt": "砂地の向こうにそびえるギザのクフ王の大ピラミッド",
+        "width": 1280,
+        "height": 960,
+        "author": "Radosław Botev",
+        "licenseName": "CC BY 3.0 Poland",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_Giza_(1).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "The Great Pyramid - Discover Egypt's Monuments",
+          "url": "https://egymonuments.gov.eg/en/monuments/the-great-pyramid",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Giza and Ancient Wonders - Experience Egypt",
+          "url": "https://www.experienceegypt.eg/en/attraction-details/290/giza-ancient-wonders",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Giza Pyramids Area - Experience Egypt",
+          "url": "https://www.experienceegypt.eg/en/office/details/58/giza-pyramids-area",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Move From / To Airport - Cairo International Airport",
+          "url": "https://www.cairo-airport.com/en-us/Services/Passenger-Guide/Move-From-To-Airport",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    }
+  ]
+}

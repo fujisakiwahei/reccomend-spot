@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "spots": [
+    {
+      "id": "petra",
+      "slug": "petra",
+      "name": "ペトラ",
+      "internalEnglishName": "Petra",
+      "region": "middle-east-central-asia",
+      "country": "ヨルダン",
+      "city": "ワディ・ムーサ",
+      "categories": ["歴史・遺跡", "建築・街並み", "自然・絶景"],
+      "description": "赤い砂岩の峡谷に築かれたナバテア人の隊商都市遺跡。岩壁を彫り込んだエル・ハズネなどが残る。",
+      "coordinates": {
+        "latitude": 30.33056,
+        "longitude": 35.44333
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=30.330560%2C35.443330",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "クィーンアリア国際空港",
+        "routeSummary": "成田空港 → ドーハまたはドバイ等（1回乗継）→ クィーンアリア国際空港 → タクシーでPetra、またはAmman南バスターミナル経由",
+        "estimatedDuration": "約21〜27時間",
+        "transferCount": 1,
+        "localTransport": "空港からタクシーで直接向かうか、Ammanへ移動してJETTバスまたは公共ミニバスを利用する。Ammanから車で約3時間。",
+        "note": "バス時刻は季節によって変わるため、空港直行タクシーまたは事前送迎も含めて出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al-Khazneh_%28The_Treasury%29%2C_Petra%2C_Jordan.jpg/960px-Al-Khazneh_%28The_Treasury%29%2C_Petra%2C_Jordan.jpg",
+        "alt": "ペトラの赤い砂岩に彫り込まれたエル・ハズネ正面",
+        "width": 960,
+        "height": 1440,
+        "author": "Vyacheslav Argenberg",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Khazneh_(The_Treasury),_Petra,_Jordan.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Petra - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/326",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Getting to Petra",
+          "url": "https://visitpetra.jo/en/GettingtoPetra",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    }
+  ]
+}

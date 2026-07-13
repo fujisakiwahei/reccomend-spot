@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "spots": [
+    {
+      "id": "gardens-by-the-bay",
+      "slug": "gardens-by-the-bay",
+      "name": "ガーデンズ・バイ・ザ・ベイ",
+      "internalEnglishName": "Gardens by the Bay",
+      "region": "asia",
+      "country": "シンガポール",
+      "city": "シンガポール",
+      "categories": ["自然・絶景", "建築・街並み"],
+      "description": "マリーナ湾沿いに広がる巨大植物園。未来的なスーパーツリーと温室群を、都市の景観とともに楽しめる。",
+      "coordinates": {
+        "latitude": 1.281568,
+        "longitude": 103.863613
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=1.281568%2C103.863613",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "シンガポール・チャンギ国際空港",
+        "routeSummary": "羽田空港 → チャンギ国際空港（直行便・約7〜8時間）→ MRTでExpo乗換 → Bayfront駅またはGardens by the Bay駅 → 徒歩",
+        "estimatedDuration": "約9〜11時間",
+        "transferCount": 0,
+        "localTransport": "Changi Airport駅からMRTを利用し、Bayfront駅Exit BまたはGardens by the Bay駅Exit 1から徒歩。",
+        "note": "便・MRTの運行状況と、園内工事による動線変更を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Supertree_Grove%2C_Gardens_by_the_Bay.jpg/1280px-Supertree_Grove%2C_Gardens_by_the_Bay.jpg",
+        "alt": "夜空の下でライトアップされたガーデンズ・バイ・ザ・ベイのスーパーツリー",
+        "width": 1280,
+        "height": 588,
+        "author": "Maksym Kozlenko",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Gardens by the Bay",
+          "url": "https://www.gardensbythebay.com.sg/en.html",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Getting here & Parking",
+          "url": "https://www.gardensbythebay.com.sg/en/plan-your-visit/getting-here.html",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Leaving Changi Airport: Transport Options",
+          "url": "https://www.changiairport.com/en/at-changi/transport-and-directions/leaving-the-airport.html",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "angkor-wat",
+      "slug": "angkor-wat",
+      "name": "アンコール・ワット",
+      "internalEnglishName": "Angkor Wat",
+      "region": "asia",
+      "country": "カンボジア",
+      "city": "シェムリアップ",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "クメール王朝が築いたアンコール遺跡群を代表する石造寺院。堀の向こうに中央祠堂の塔が連なる壮大な景観で知られる。",
+      "coordinates": {
+        "latitude": 13.412469,
+        "longitude": 103.867697
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.412469%2C103.867697",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "シェムリアップ・アンコール国際空港",
+        "routeSummary": "成田空港 → ハノイまたはバンコク（1回乗継）→ シェムリアップ・アンコール国際空港 → 空港送迎でシェムリアップ市内 → トゥクトゥク等で遺跡",
+        "estimatedDuration": "約11〜15時間",
+        "transferCount": 1,
+        "localTransport": "新空港から市内は公式シャトルまたは認可タクシー、市内から遺跡はトゥクトゥクや車を利用する。",
+        "note": "新空港SAIを利用する。旧REP空港の案内を避け、乗継都市と地上交通を出発前に再確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/1280px-Angkor_Wat.jpg",
+        "alt": "夕方の光を受けるアンコール・ワット正面の中央祠堂群",
+        "width": 1280,
+        "height": 870,
+        "author": "Bjørn Christian Tørrissen",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Angkor - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/668/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Siem Reap Angkor International Airport",
+          "url": "https://english.sai-airport.com/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Official Angkor Pass and Visitor Planning",
+          "url": "https://www.angkorenterprise.gov.kh/plan/7",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    }
+  ]
+}

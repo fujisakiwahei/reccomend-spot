@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "spots": [
+    {
+      "id": "sydney-opera-house",
+      "slug": "sydney-opera-house",
+      "name": "シドニー・オペラハウス",
+      "internalEnglishName": "Sydney Opera House",
+      "region": "oceania",
+      "country": "オーストラリア",
+      "city": "シドニー",
+      "categories": ["建築・街並み", "アート・文化"],
+      "description": "シドニー港のベネロング・ポイントに立つ舞台芸術施設。帆や貝殻を思わせる連続屋根が港湾景観を形づくる。",
+      "coordinates": {
+        "latitude": -33.856784,
+        "longitude": 151.215297
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-33.856784%2C151.215297",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "シドニー国際空港",
+        "routeSummary": "羽田空港 → シドニー国際空港（直行便・約9〜10時間）→ Airport Linkで市内 → Circular Quay → 徒歩",
+        "estimatedDuration": "約11〜13時間",
+        "transferCount": 0,
+        "localTransport": "空港鉄道で市内へ移動し、Circular Quay駅または埠頭から徒歩約6分。",
+        "note": "航空便、Airport Linkの運行状況、イベント時の周辺規制を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/SydneyOpera_House.JPG/1280px-SydneyOpera_House.JPG",
+        "alt": "夜のシドニー港で照明に浮かぶシドニー・オペラハウス",
+        "width": 1280,
+        "height": 852,
+        "author": "Bkamprath",
+        "licenseName": "Public domain (released by author)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SydneyOpera_House.JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Visit - Sydney Opera House",
+          "url": "https://www.sydneyoperahouse.com/visit",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Public transport, riding or walking - Sydney Opera House",
+          "url": "https://www.sydneyoperahouse.com/visit/getting-here/public-transport-riding-or-walking",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Transport options - Sydney Airport",
+          "url": "https://www.sydneyairport.com.au/info-sheet/transport-options",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Sydney Opera House - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/166",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "batches": [
+    {
+      "batchId": "phase-2-asia-sample",
+      "region": "asia",
+      "spotIds": ["gardens-by-the-bay", "angkor-wat"],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "batchId": "phase-2-europe-sample",
+      "region": "europe",
+      "spotIds": ["eiffel-tower", "colosseum"],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "batchId": "phase-2-north-america-sample",
+      "region": "north-america",
+      "spotIds": ["statue-of-liberty", "lake-louise"],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "batchId": "phase-2-latin-america-sample",
+      "region": "latin-america",
+      "spotIds": ["machu-picchu"],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "batchId": "phase-2-africa-sample",
+      "region": "africa",
+      "spotIds": ["great-pyramid-of-giza"],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "batchId": "phase-2-middle-east-central-asia-sample",
+      "region": "middle-east-central-asia",
+      "spotIds": ["petra"],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "batchId": "phase-2-oceania-sample",
+      "region": "oceania",
+      "spotIds": ["sydney-opera-house"],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-13"
+    }
+  ]
+}

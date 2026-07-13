@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "datasetStage": "sample",
+  "expectedTotal": 10,
+  "expectedRegionCounts": {
+    "asia": 2,
+    "europe": 2,
+    "north-america": 2,
+    "latin-america": 1,
+    "africa": 1,
+    "middle-east-central-asia": 1,
+    "oceania": 1
+  },
+  "lastUpdatedAt": "2026-07-13"
+}

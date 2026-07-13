@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "spots": [
+    {
+      "id": "statue-of-liberty",
+      "slug": "statue-of-liberty",
+      "name": "自由の女神像",
+      "internalEnglishName": "Statue of Liberty",
+      "region": "north-america",
+      "country": "アメリカ合衆国",
+      "city": "ニューヨーク",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "ニューヨーク港のリバティ島に立つ銅像。自由を象徴するモニュメントで、島へは認可されたフェリーでのみ上陸できる。",
+      "coordinates": {
+        "latitude": 40.689249,
+        "longitude": -74.0445
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=40.689249%2C-74.044500",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ジョン・F・ケネディ国際空港",
+        "routeSummary": "羽田空港 → ジョン・F・ケネディ国際空港（直行便・約13〜14時間）→ 鉄道・地下鉄でLower Manhattan → The Battery → 認可フェリーでLiberty Island",
+        "estimatedDuration": "約16〜19時間",
+        "transferCount": 0,
+        "localTransport": "公共交通でThe Batteryへ移動し、National Park Service認可のStatue City Cruisesフェリーを利用する。",
+        "note": "島へ上陸する船はNational Park Service認可事業者のみ。保安検査と予約時間を考慮する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Statue_of_Liberty%2C_NY.jpg/1280px-Statue_of_Liberty%2C_NY.jpg",
+        "alt": "ニューヨーク港の水面越しに見た自由の女神像",
+        "width": 1280,
+        "height": 960,
+        "author": "William Warby",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty,_NY.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Basic Information - Statue of Liberty National Monument",
+          "url": "https://home.nps.gov/stli/planyourvisit/basicinfo.htm",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Directions - Statue of Liberty National Monument",
+          "url": "https://home.nps.gov/stli/planyourvisit/directions.htm",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "lake-louise",
+      "slug": "lake-louise",
+      "name": "レイク・ルイーズ",
+      "internalEnglishName": "Lake Louise",
+      "region": "north-america",
+      "country": "カナダ",
+      "city": "レイク・ルイーズ",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "バンフ国立公園にある氷河湖。青緑色の湖面と背後の山岳・氷河が一体となるカナディアン・ロッキーの代表景観。",
+      "coordinates": {
+        "latitude": 51.416667,
+        "longitude": -116.216667
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=51.416667%2C-116.216667",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "カルガリー国際空港",
+        "routeSummary": "成田空港 → バンクーバー等（1回乗継）→ カルガリー国際空港 → 予約制シャトルでLake Louise",
+        "estimatedDuration": "約16〜21時間",
+        "transferCount": 1,
+        "localTransport": "カルガリー空港または市内からBanff・Lake Louise方面の季節運行シャトルを利用し、現地ではParks Canada shuttleを優先する。",
+        "note": "季節運行、駐車規制、湖畔シャトルの予約状況を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lake-Louise.JPG/1280px-Lake-Louise.JPG",
+        "alt": "山々に囲まれた青緑色のレイク・ルイーズと湖畔",
+        "width": 1280,
+        "height": 965,
+        "author": "Guenter Wieschendahl",
+        "licenseName": "Public domain (released by author)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake-Louise.JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Plan your visit - Banff National Park",
+          "url": "https://parks.canada.ca/pn-np/ab/banff/visit",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Getting to Banff from Calgary",
+          "url": "https://parks.canada.ca/pn-np/ab/banff/visit/parkbus/calgary",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Banff National Park Visitor Guide",
+          "url": "https://parks.canada.ca/-/media/pn-np/ab/banff/wet4/visit/depliants-brochures/pdf/2025_visitorguide_bnp_en.pdf",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    }
+  ]
+}

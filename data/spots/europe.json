@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "spots": [
+    {
+      "id": "eiffel-tower",
+      "slug": "eiffel-tower",
+      "name": "エッフェル塔",
+      "internalEnglishName": "Eiffel Tower",
+      "region": "europe",
+      "country": "フランス",
+      "city": "パリ",
+      "categories": ["建築・街並み", "歴史・遺跡"],
+      "description": "パリのシャン・ド・マルスに立つ鉄骨塔。展望階から市街を見渡せる、フランスを象徴する建築物。",
+      "coordinates": {
+        "latitude": 48.85837,
+        "longitude": 2.294481
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.858370%2C2.294481",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "パリ・シャルル・ド・ゴール空港",
+        "routeSummary": "羽田空港 → シャルル・ド・ゴール空港（直行便・約14〜15時間）→ 空港鉄道でパリ市内 → 地下鉄6号線Bir-Hakeim駅等 → 徒歩",
+        "estimatedDuration": "約16〜18時間",
+        "transferCount": 0,
+        "localTransport": "地下鉄6号線Bir-Hakeim駅、9号線Trocadéro駅、またはRER C線Champ de Mars-Tour Eiffel駅から徒歩。",
+        "note": "運航状況、入場予約、駅工事の情報を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Eiffel_tower_paris.jpg/960px-Eiffel_tower_paris.jpg",
+        "alt": "青空を背景にシャン・ド・マルス側から見上げたエッフェル塔",
+        "width": 960,
+        "height": 1440,
+        "author": "John Salatas",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eiffel_tower_paris.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Access: getting to the Eiffel Tower",
+          "url": "https://www.toureiffel.paris/en/access-map",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Tips and preparation for your visit",
+          "url": "https://www.toureiffel.paris/en/planning-smooth-visit",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Ticket rates and opening times",
+          "url": "https://www.toureiffel.paris/en/rates-opening-times",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "colosseum",
+      "slug": "colosseum",
+      "name": "コロッセオ",
+      "internalEnglishName": "Colosseum",
+      "region": "europe",
+      "country": "イタリア",
+      "city": "ローマ",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "古代ローマ時代に建設された巨大円形闘技場。重層するアーチと観客席跡から、帝政期ローマの建築技術をたどれる。",
+      "coordinates": {
+        "latitude": 41.89021,
+        "longitude": 12.492231
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.890210%2C12.492231",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ローマ・フィウミチーノ空港",
+        "routeSummary": "羽田空港 → 欧州または中東主要空港（1回乗継）→ フィウミチーノ空港 → 空港鉄道でTermini駅 → 地下鉄B線Colosseo駅",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港鉄道でTermini駅へ移動し、地下鉄B線に乗り換えてColosseo駅で下車する。",
+        "note": "直行便の有無を含む航空便と、地下鉄の運行状況を出発前に再確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Colosseum_-_Rome.jpg/960px-Colosseum_-_Rome.jpg",
+        "alt": "晴天のローマで樹木越しに見たコロッセオの外壁",
+        "width": 960,
+        "height": 1280,
+        "author": "Mattia.masala",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colosseum_-_Rome.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "The Colosseum - Parco archeologico del Colosseo",
+          "url": "https://colosseo.it/en/area/the-colosseum/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Come arrivare - Parco archeologico del Colosseo",
+          "url": "https://colosseo.it/visita/come-arrivare/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Opening times and tickets",
+          "url": "https://colosseo.it/en/visit/orari-e-biglietti/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    }
+  ]
+}

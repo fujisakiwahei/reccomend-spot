@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "spots": [
+    {
+      "id": "machu-picchu",
+      "slug": "machu-picchu",
+      "name": "マチュ・ピチュ",
+      "internalEnglishName": "Machu Picchu",
+      "region": "latin-america",
+      "country": "ペルー",
+      "city": "マチュピチュ（クスコ県）",
+      "categories": ["歴史・遺跡", "自然・絶景"],
+      "description": "アンデス山中の尾根に築かれたインカ時代の都市遺跡。石造建築と段々畑が急峻な山岳景観に溶け込む。",
+      "coordinates": {
+        "latitude": -13.163141,
+        "longitude": -72.544963
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-13.163141%2C-72.544963",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "アレハンドロ・ベラスコ・アステテ国際空港（クスコ）",
+        "routeSummary": "成田空港 → 北米主要空港 → リマ（2回目の航空乗継）→ クスコ → 車でOllantaytambo等 → 鉄道でMachu Picchu Pueblo → シャトルバス",
+        "estimatedDuration": "約28〜35時間",
+        "transferCount": 2,
+        "localTransport": "クスコまたは聖なる谷からPeruRail等でMachu Picchu Puebloへ移動し、遺跡入口行きのバスを利用する。",
+        "note": "高地順応日を別に確保する。列車、入場券、バスは別予約のため、遅延時の再予約規則を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Peru_Machu_Picchu.jpg/1280px-Peru_Machu_Picchu.jpg",
+        "alt": "ワイナ・ピチュを背景に山腹へ広がるマチュ・ピチュ遺跡",
+        "width": 1280,
+        "height": 982,
+        "author": "Entropy1963",
+        "licenseName": "Public domain (released by author)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peru_Machu_Picchu.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Machupicchu - Página Oficial",
+          "url": "https://www.machupicchu.gob.pe/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Boletos de ingreso online - Machupicchu",
+          "url": "https://www.machupicchu.gob.pe/boletos-de-ingreso-online/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Train to Machu Picchu - PeruRail",
+          "url": "https://www.perurail.com/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    }
+  ]
+}
