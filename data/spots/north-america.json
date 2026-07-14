@@ -46,7 +46,7 @@
         {
           "title": "Directions - Statue of Liberty National Monument",
           "url": "https://home.nps.gov/stli/planyourvisit/directions.htm",
-          "type": "official",
+          "type": "transport",
           "checkedAt": "2026-07-13"
         }
       ],
@@ -97,7 +97,7 @@
         {
           "title": "Getting to Banff from Calgary",
           "url": "https://parks.canada.ca/pn-np/ab/banff/visit/parkbus/calgary",
-          "type": "official",
+          "type": "transport",
           "checkedAt": "2026-07-13"
         },
         {
@@ -108,6 +108,1632 @@
         }
       ],
       "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "grand-canyon-south-rim",
+      "slug": "grand-canyon-south-rim",
+      "name": "グランド・キャニオン（サウスリム）",
+      "internalEnglishName": "Grand Canyon South Rim",
+      "region": "north-america",
+      "country": "アメリカ合衆国",
+      "city": "グランド・キャニオン・ビレッジ",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "コロラド川が刻んだ大峡谷を、通年で訪れやすいサウスリムから望む景勝地。展望台やリム沿いの遊歩道から、地層が連なる壮大な景観を楽しめる。",
+      "coordinates": {
+        "latitude": 36.058889,
+        "longitude": -112.109167
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=36.058889%2C-112.109167",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "フェニックス・スカイハーバー国際空港",
+        "routeSummary": "羽田空港 → ロサンゼルス国際空港（直行便）→ フェニックス・スカイハーバー国際空港 → 車で約4時間 → Grand Canyon South Rim",
+        "estimatedDuration": "約18〜23時間",
+        "transferCount": 1,
+        "localTransport": "フェニックスからレンタカーまたは長距離シャトルでサウスリムへ向かい、園内では無料シャトルと徒歩を利用する。",
+        "note": "道路状況やシャトル運行は季節・天候で変わるため、出発前にNational Park Serviceの最新情報を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg/1280px-Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg",
+        "alt": "ホピ・ポイントから望むグランド・キャニオンと虹",
+        "width": 1280,
+        "height": 848,
+        "author": "Tuxyso",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Grand Canyon National Park",
+          "url": "https://www.nps.gov/grca/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Directions and Transportation - Grand Canyon National Park",
+          "url": "https://www.nps.gov/grca/planyourvisit/directions.htm",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "JAL Group FY2026 International Network Schedule",
+          "url": "https://press.jal.co.jp/en/items/uploads/JALJTA%20Announces%20FY2026%20Schedule%20on%20International%20Network-3.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "yellowstone-national-park",
+      "slug": "yellowstone-national-park",
+      "name": "イエローストーン国立公園",
+      "internalEnglishName": "Yellowstone National Park",
+      "region": "north-america",
+      "country": "アメリカ合衆国",
+      "city": "イエローストーン国立公園",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "間欠泉や温泉、渓谷、野生動物の生息地が広がる国立公園。オールド・フェイスフルをはじめ、多様な熱水現象を遊歩道から観察できる。",
+      "coordinates": {
+        "latitude": 44.460478,
+        "longitude": -110.828137
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=44.460478%2C-110.828137",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ボーズマン・イエローストーン国際空港",
+        "routeSummary": "成田空港 → シアトル・タコマ国際空港（直行便）→ ボーズマン・イエローストーン国際空港 → 車で約2〜3時間 → Yellowstone National Park",
+        "estimatedDuration": "約18〜24時間",
+        "transferCount": 1,
+        "localTransport": "空港からレンタカーで北または西入口へ向かい、園内道路を利用して各観光地区を巡る。",
+        "note": "園内は広く車移動が基本。入口や道路の通行可否は季節・積雪・工事で変わるため、直前に公式道路情報を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Old_Faithful_Geyser_--_2022_--_2592.jpg/1280px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Old_Faithful_Geyser_--_2022_--_2592.jpg",
+        "alt": "イエローストーン国立公園で噴出するオールド・フェイスフル間欠泉",
+        "width": 1280,
+        "height": 853,
+        "author": "Dietmar Rabich",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY,_USA),_Old_Faithful_Geyser_--_2022_--_2592.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Old Faithful - Yellowstone National Park",
+          "url": "https://www.nps.gov/yell/planyourvisit/exploreoldfaithful.htm",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Directions & Transportation - Yellowstone National Park",
+          "url": "https://www.nps.gov/yell/planyourvisit/directions.htm",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "JAL Group FY2026 International Network Schedule",
+          "url": "https://press.jal.co.jp/en/items/uploads/JALJTA%20Announces%20FY2026%20Schedule%20on%20International%20Network-3.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "golden-gate-bridge",
+      "slug": "golden-gate-bridge",
+      "name": "ゴールデン・ゲート・ブリッジ",
+      "internalEnglishName": "Golden Gate Bridge",
+      "region": "north-america",
+      "country": "アメリカ合衆国",
+      "city": "サンフランシスコ",
+      "categories": ["建築・街並み"],
+      "description": "サンフランシスコ湾口に架かる、インターナショナル・オレンジ色の吊り橋。歩道や周辺の展望地点から、海峡と街の象徴的な景観を望める。",
+      "coordinates": {
+        "latitude": 37.819929,
+        "longitude": -122.478255
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=37.819929%2C-122.478255",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "サンフランシスコ国際空港",
+        "routeSummary": "羽田空港 → サンフランシスコ国際空港（直行便・約10時間）→ BARTで市内 → 路線バスでGolden Gate Bridge Welcome Center",
+        "estimatedDuration": "約13〜16時間",
+        "transferCount": 0,
+        "localTransport": "市中心部からGolden Gate TransitまたはMuniのバスを利用し、橋南端のウェルカムセンター周辺で下車する。",
+        "note": "橋周辺の駐車場は非常に限られるため、公式案内では公共交通の利用が推奨されている。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Golden_Gate_Bridge_as_seen_from_Marshall%E2%80%99s_Beach%2C_March_2018.jpg/1280px-Golden_Gate_Bridge_as_seen_from_Marshall%E2%80%99s_Beach%2C_March_2018.jpg",
+        "alt": "マーシャルズ・ビーチから見たゴールデン・ゲート・ブリッジ",
+        "width": 1280,
+        "height": 720,
+        "author": "Frank Schulenburg",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Marshall%E2%80%99s_Beach,_March_2018.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Visiting the Bridge - Golden Gate Bridge",
+          "url": "https://www.goldengate.org/bridge/visiting-the-bridge/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Public Transit - Visiting the Bridge",
+          "url": "https://www.goldengate.org/bridge/visiting-the-bridge/public-transit/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "JAL Group FY2026 International Network Schedule",
+          "url": "https://press.jal.co.jp/en/items/uploads/JALJTA%20Announces%20FY2026%20Schedule%20on%20International%20Network-3.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "french-quarter-new-orleans",
+      "slug": "french-quarter-new-orleans",
+      "name": "フレンチ・クオーター",
+      "internalEnglishName": "French Quarter, New Orleans",
+      "region": "north-america",
+      "country": "アメリカ合衆国",
+      "city": "ニューオーリンズ",
+      "categories": ["建築・街並み", "アート・文化", "グルメ・市場"],
+      "description": "ニューオーリンズ最古の歴史地区。鋳鉄のバルコニーが並ぶ街路、ジャズ、クレオール料理、市場が重なり合う、徒歩で巡りやすい地区。",
+      "coordinates": {
+        "latitude": 29.957443,
+        "longitude": -90.062949
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=29.957443%2C-90.062949",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ルイ・アームストロング・ニューオーリンズ国際空港",
+        "routeSummary": "羽田空港 → ダラス・フォートワース国際空港（直行便）→ ルイ・アームストロング・ニューオーリンズ国際空港 → 空港バス・タクシーでFrench Quarter",
+        "estimatedDuration": "約17〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港から市中心部へ移動し、地区内は徒歩を基本にRiverfrontやRampartの路面電車を組み合わせる。",
+        "note": "祭事やパレード時は路面電車・バスの迂回があるため、New Orleans RTAの当日情報を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bourbon_St%2C_French_Quarter%2C_New_Orleans%2C_USA2.jpg/1280px-Bourbon_St%2C_French_Quarter%2C_New_Orleans%2C_USA2.jpg",
+        "alt": "歴史的な建物と鋳鉄のバルコニーが並ぶフレンチ・クオーターのバーボン・ストリート",
+        "width": 1280,
+        "height": 853,
+        "author": "Diego Delso",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bourbon_St,_French_Quarter,_New_Orleans,_USA2.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "French Quarter: The Vieux Carré - New Orleans & Company",
+          "url": "https://www.neworleans.com/plan/neighborhoods/french-quarter/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "New Orleans Streetcar Guide",
+          "url": "https://www.neworleans.com/plan/transportation/streetcars/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "JAL Group FY2026 International Network Schedule",
+          "url": "https://press.jal.co.jp/en/items/uploads/JALJTA%20Announces%20FY2026%20Schedule%20on%20International%20Network-3.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "old-quebec",
+      "slug": "old-quebec",
+      "name": "オールド・ケベック",
+      "internalEnglishName": "Old Quebec",
+      "region": "north-america",
+      "country": "カナダ",
+      "city": "ケベック・シティ",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "城壁、石造建築、石畳の道が残るケベック・シティの歴史地区。高台のアッパータウンと川沿いのロウアータウンを歩いて巡れる。",
+      "coordinates": {
+        "latitude": 46.812043,
+        "longitude": -71.206191
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.812043%2C-71.206191",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ケベック・シティ・ジャン・ルサージ国際空港",
+        "routeSummary": "羽田空港 → トロント・ピアソン国際空港（直行便）→ ケベック・シティ・ジャン・ルサージ国際空港 → 路線バスまたはタクシーでOld Quebec",
+        "estimatedDuration": "約17〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港からRTCの路線バスまたはタクシーで市中心部へ向かい、歴史地区内は徒歩で巡る。",
+        "note": "空港バスの接続や冬季の歩道状況は変動するため、RTCと公式観光情報を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ch%C3%A2teau_Frontenac_National_Historic_Site_of_Canada-Quebec_City-Quebec-CRHP1320-RPCQ101243-NHSC676-20230107.jpg/1280px-Ch%C3%A2teau_Frontenac_National_Historic_Site_of_Canada-Quebec_City-Quebec-CRHP1320-RPCQ101243-NHSC676-20230107.jpg",
+        "alt": "セントローレンス川側から望むオールド・ケベックとシャトー・フロントナック",
+        "width": 1280,
+        "height": 629,
+        "author": "Mhsheikholeslami",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac_National_Historic_Site_of_Canada-Quebec_City-Quebec-CRHP1320-RPCQ101243-NHSC676-20230107.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Explore Old Québec City - Visit Québec City",
+          "url": "https://www.quebec-cite.com/en/old-quebec-city",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "How to Get to the Old City with or without a Car",
+          "url": "https://www.quebec-cite.com/en/plan-your-trip-quebec-city/how-to-get-old-city",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "From Tokyo to The World - Air Canada",
+          "url": "https://www.aircanada.com/jp/en/aco/home/book/special-offers/network.html",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "niagara-falls-canada",
+      "slug": "niagara-falls-canada",
+      "name": "ナイアガラの滝（カナダ側）",
+      "internalEnglishName": "Niagara Falls, Canada",
+      "region": "north-america",
+      "country": "カナダ",
+      "city": "ナイアガラ・フォールズ",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "カナダ滝の落ち口を間近に望む世界的な景勝地。テーブル・ロック周辺の遊歩道や展望施設から、水量と轟音を体感できる。",
+      "coordinates": {
+        "latitude": 43.07991,
+        "longitude": -79.078601
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=43.079910%2C-79.078601",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "トロント・ピアソン国際空港",
+        "routeSummary": "羽田空港 → トロント・ピアソン国際空港（直行便・約12時間）→ 鉄道・バスまたはシャトルでNiagara Falls → WEGOでTable Rock Centre",
+        "estimatedDuration": "約15〜19時間",
+        "transferCount": 0,
+        "localTransport": "トロントから鉄道・都市間バス等でナイアガラ・フォールズへ移動し、現地ではWEGOでテーブル・ロックへ向かう。",
+        "note": "都市間交通とWEGOの時刻・運行区間は季節で変わるため、各運行事業者の最新情報を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Canadian_Niagara_Wonder_at_Horseshoe_Falls_%2C_Ontario_in_2017.jpg/1280px-Canadian_Niagara_Wonder_at_Horseshoe_Falls_%2C_Ontario_in_2017.jpg",
+        "alt": "カナダ側から見たナイアガラのカナダ滝と大量の水煙",
+        "width": 1280,
+        "height": 770,
+        "author": "Pierre André",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canadian_Niagara_Wonder_at_Horseshoe_Falls_,_Ontario_in_2017.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Table Rock Centre - Niagara Parks",
+          "url": "https://www.niagaraparks.com/visit/welcome-centres/table-rock-centre/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "WEGO Niagara Falls Visitor Transportation",
+          "url": "https://www.niagaraparks.com/getting-around/wego-niagara-falls-bus/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "From Tokyo to The World - Air Canada",
+          "url": "https://www.aircanada.com/jp/en/aco/home/book/special-offers/network.html",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "canadian-museum-for-human-rights",
+      "slug": "canadian-museum-for-human-rights",
+      "name": "カナダ人権博物館",
+      "internalEnglishName": "Canadian Museum for Human Rights",
+      "region": "north-america",
+      "country": "カナダ",
+      "city": "ウィニペグ",
+      "categories": ["建築・街並み", "アート・文化"],
+      "description": "人権をテーマにした展示と、光へ上る動線を象徴的に表現した建築が一体となる国立博物館。ザ・フォークス地区に位置する。",
+      "coordinates": {
+        "latitude": 49.890396,
+        "longitude": -97.131115
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=49.890396%2C-97.131115",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ウィニペグ・ジェームス・アームストロング・リチャードソン国際空港",
+        "routeSummary": "成田空港 → バンクーバー国際空港（直行便）→ ウィニペグ国際空港 → 路線バスまたはタクシーでThe Forks",
+        "estimatedDuration": "約17〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港から市中心部へ移動し、ザ・フォークス内の85 Israel Asper Wayにある博物館へ徒歩またはバスで向かう。",
+        "note": "北米内の乗り継ぎ時間と市内交通は時間帯で変わるため、余裕のある行程にする。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Canadian_Museum_for_Human_Rights.DSCN2397.jpg/1280px-Canadian_Museum_for_Human_Rights.DSCN2397.jpg",
+        "alt": "石とガラスを組み合わせたカナダ人権博物館の外観",
+        "width": 1280,
+        "height": 960,
+        "author": "Intermedichbo - Milorad Dimic M.D.",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canadian_Museum_for_Human_Rights.DSCN2397.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Architecture - Canadian Museum for Human Rights",
+          "url": "https://humanrights.ca/about/architecture",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Visit - Canadian Museum for Human Rights",
+          "url": "https://humanrights.ca/visit",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "From Tokyo to The World - Air Canada",
+          "url": "https://www.aircanada.com/jp/en/aco/home/book/special-offers/network.html",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "stanley-park",
+      "slug": "stanley-park",
+      "name": "スタンレー・パーク",
+      "internalEnglishName": "Stanley Park",
+      "region": "north-america",
+      "country": "カナダ",
+      "city": "バンクーバー",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "バンクーバー中心部に隣接する広大な都市公園。海沿いのシーウォール、温帯雨林の小径、先住民文化に関わるランドマークを巡れる。",
+      "coordinates": {
+        "latitude": 49.304258,
+        "longitude": -123.144252
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=49.304258%2C-123.144252",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "バンクーバー国際空港",
+        "routeSummary": "成田空港 → バンクーバー国際空港（直行便・約9時間）→ Canada Lineで市中心部 → 路線バスまたは徒歩でStanley Park",
+        "estimatedDuration": "約12〜15時間",
+        "transferCount": 0,
+        "localTransport": "空港からSkyTrainでダウンタウンへ移動し、徒歩・自転車・路線バスで公園内を巡る。",
+        "note": "園内施設や道路・遊歩道の利用状況は天候や工事で変わるため、City of Vancouverの案内を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Vancouver_%28BC%2C_Canada%29%2C_Stanley_Park_--_2022_--_1949.jpg/1280px-Vancouver_%28BC%2C_Canada%29%2C_Stanley_Park_--_2022_--_1949.jpg",
+        "alt": "木々に囲まれたスタンレー・パークの遊歩道",
+        "width": 1280,
+        "height": 853,
+        "author": "Dietmar Rabich",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vancouver_(BC,_Canada),_Stanley_Park_--_2022_--_1949.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Stanley Park - City of Vancouver",
+          "url": "https://vancouver.ca/parks-recreation-culture/stanley-park.aspx",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Get to Stanley Park - City of Vancouver",
+          "url": "https://vancouver.ca/parks-recreation-culture/get-to-stanley-park.aspx",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "From Tokyo to The World - Air Canada",
+          "url": "https://www.aircanada.com/jp/en/aco/home/book/special-offers/network.html",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "ilulissat-icefjord",
+      "slug": "ilulissat-icefjord",
+      "name": "イルリサット・アイスフィヨルド",
+      "internalEnglishName": "Ilulissat Icefjord",
+      "region": "north-america",
+      "country": "グリーンランド",
+      "city": "イルリサット",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "グリーンランド氷床から海へ流れ出す活発な氷河と、巨大な氷山で満たされたフィヨルド。町近郊の遊歩道や認可ツアーから観察できる。",
+      "coordinates": {
+        "latitude": 69.133333,
+        "longitude": -49.5
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=69.133333%2C-49.500000",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "イルリサット空港",
+        "routeSummary": "羽田空港 → コペンハーゲン空港（直行便）→ ヌーク国際空港 → イルリサット空港 → タクシー・ホテル送迎で市内 → 徒歩または現地ツアーでIcefjord",
+        "estimatedDuration": "約26〜36時間",
+        "transferCount": 2,
+        "localTransport": "イルリサット市内からセルメルミウト方面の標識付き遊歩道を歩くか、認可された船・航空ツアーを利用する。",
+        "note": "グリーンランドの都市間を結ぶ道路はなく、航空・船便は天候と季節の影響を受けやすい。余裕のある乗り継ぎが必要。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Blue_iceberg_in_the_Ilulissat_icefjord_-_edited.jpg/1280px-Blue_iceberg_in_the_Ilulissat_icefjord_-_edited.jpg",
+        "alt": "イルリサット・アイスフィヨルドに浮かぶ青い氷山",
+        "width": 1280,
+        "height": 907,
+        "author": "Marcus Engdahl",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_iceberg_in_the_Ilulissat_icefjord_-_edited.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Ilulissat Icefjord - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/1149/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Ilulissat - Visit Greenland",
+          "url": "https://visitgreenland.com/destinations/ilulissat/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Flights from Tokyo to Copenhagen - SAS",
+          "url": "https://www.flysas.com/en/flight-routes/tokyo/copenhagen/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "greenland-national-museum",
+      "slug": "greenland-national-museum",
+      "name": "グリーンランド国立博物館・公文書館",
+      "internalEnglishName": "Greenland National Museum and Archives",
+      "region": "north-america",
+      "country": "グリーンランド",
+      "city": "ヌーク",
+      "categories": ["歴史・遺跡", "アート・文化"],
+      "description": "グリーンランドの文化史を約4500年にわたりたどる国立博物館。ヌーク旧港の歴史的な倉庫群で、考古資料や生活文化の展示を見られる。",
+      "coordinates": {
+        "latitude": 64.17737,
+        "longitude": -51.7461
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=64.177370%2C-51.746100",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ヌーク国際空港",
+        "routeSummary": "羽田空港 → コペンハーゲン空港（直行便）→ ヌーク国際空港 → タクシーまたは路線バスで市中心部 → 徒歩で旧港の博物館",
+        "estimatedDuration": "約22〜30時間",
+        "transferCount": 1,
+        "localTransport": "ヌーク空港から市内へタクシーまたはバスで移動し、旧港のHans Egedesvej 8へ向かう。",
+        "note": "コペンハーゲン発着便と空港アクセスは天候・季節で変動するため、最新の運航情報と博物館の実用案内を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Greenland_National_Museum.jpg/960px-Greenland_National_Museum.jpg",
+        "alt": "ヌーク旧港にあるグリーンランド国立博物館の建物",
+        "width": 960,
+        "height": 720,
+        "author": "David Stanley",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greenland_National_Museum.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Exhibitions - Greenland National Museum and Archives",
+          "url": "https://en.nka.gl/museum/exhibitions/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Practical Information - Greenland National Museum and Archives",
+          "url": "https://en.nka.gl/about/practical-information/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Nuuk's New International Airport - Visit Nuuk",
+          "url": "https://visitnuuk.com/nuuks-new-airport/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Flights from Tokyo to Copenhagen - SAS",
+          "url": "https://www.flysas.com/en/flight-routes/tokyo/copenhagen/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "denali-national-park",
+      "slug": "denali-national-park",
+      "name": "デナリ国立公園",
+      "internalEnglishName": "Denali National Park and Preserve",
+      "region": "north-america",
+      "country": "アメリカ合衆国",
+      "city": "デナリ・パーク",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "北米最高峰デナリを中心に、ツンドラと氷河地形が広がるアラスカの国立公園。園内道路の奥へは主にバスで入り、山岳景観や野生動物を観察できる。",
+      "coordinates": {
+        "latitude": 63.728443,
+        "longitude": -148.886572
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=63.728443%2C-148.886572",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "テッド・スティーブンス・アンカレッジ国際空港",
+        "routeSummary": "羽田空港 → シアトル・タコマ国際空港（直行便）→ テッド・スティーブンス・アンカレッジ国際空港 → 鉄道・バスまたは車でDenali Park Entrance",
+        "estimatedDuration": "約19〜25時間",
+        "transferCount": 1,
+        "localTransport": "アンカレッジから夏季のAlaska Railroad、長距離バスまたは車で入口へ向かい、園内は公式のトランジットバスやツアーバスを利用する。",
+        "note": "園内バスと鉄道・長距離バスは季節運行が中心。道路開通状況と予約条件を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Denali_National_Park_and_Preserve_AK2006-0363.jpg/1280px-Denali_National_Park_and_Preserve_AK2006-0363.jpg",
+        "alt": "雪を頂く山々と川が広がるデナリ国立公園の景観",
+        "width": 1280,
+        "height": 853,
+        "author": "National Park Service Digital Image Archives",
+        "licenseName": "Public domain (U.S. National Park Service)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NPS",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Denali_National_Park_and_Preserve_AK2006-0363.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Basic Information - Denali National Park & Preserve",
+          "url": "https://www.nps.gov/dena/planyourvisit/basicinfo.htm",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Directions & Transportation - Denali National Park & Preserve",
+          "url": "https://home.nps.gov/dena/planyourvisit/directions.htm",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "JAL Group FY2026 International Network Schedule",
+          "url": "https://press.jal.co.jp/en/items/uploads/JALJTA%20Announces%20FY2026%20Schedule%20on%20International%20Network-3.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "pike-place-market",
+      "slug": "pike-place-market",
+      "name": "パイク・プレイス・マーケット",
+      "internalEnglishName": "Pike Place Market",
+      "region": "north-america",
+      "country": "アメリカ合衆国",
+      "city": "シアトル",
+      "categories": ["グルメ・市場", "建築・街並み", "アート・文化"],
+      "description": "1907年開設のシアトルを代表する公設市場。歴史地区の建物群に青果、魚介、飲食店、工芸品店が集まり、地域の食と創作文化を歩いて楽しめる。",
+      "coordinates": {
+        "latitude": 47.609722,
+        "longitude": -122.342222
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.609722%2C-122.342222",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "シアトル・タコマ国際空港",
+        "routeSummary": "羽田空港 → シアトル・タコマ国際空港（直行便・約9時間）→ Link light railでWestlake駅 → 徒歩でPike Place Market",
+        "estimatedDuration": "約12〜14時間",
+        "transferCount": 0,
+        "localTransport": "空港からLink light railでWestlake駅へ向かい、駅から市場まで徒歩約10分。市場内は徒歩で巡る。",
+        "note": "市場周辺では時間帯により車両進入が制限されるため、公共交通と徒歩の利用が便利。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pike_Place_Market_Seattle.jpg/1280px-Pike_Place_Market_Seattle.jpg",
+        "alt": "パイク・プレイス・マーケットの看板と歴史的な市場建物",
+        "width": 1280,
+        "height": 882,
+        "author": "Daniel Schwen",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pike_Place_Market_Seattle.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Plan Your Visit - Pike Place Market",
+          "url": "https://www.pikeplacemarket.org/about-pike-place-market/plan-your-visit/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Plan Your Visit During SEA26 - Pike Place Market",
+          "url": "https://www.pikeplacemarket.org/plan-your-visit-during-sea26/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "JAL Group FY2026 International Network Schedule",
+          "url": "https://press.jal.co.jp/en/items/uploads/JALJTA%20Announces%20FY2026%20Schedule%20on%20International%20Network-3.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "space-center-houston",
+      "slug": "space-center-houston",
+      "name": "スペースセンター・ヒューストン",
+      "internalEnglishName": "Space Center Houston",
+      "region": "north-america",
+      "country": "アメリカ合衆国",
+      "city": "ヒューストン",
+      "categories": ["アート・文化", "アクティビティ"],
+      "description": "NASAジョンソン宇宙センターの公式ビジターセンター。宇宙船や月探査の展示に加え、トラムツアーで訓練施設やサターンVロケットを見学できる。",
+      "coordinates": {
+        "latitude": 29.551917,
+        "longitude": -95.098083
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=29.551917%2C-95.098083",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ジョージ・ブッシュ・インターコンチネンタル空港",
+        "routeSummary": "羽田空港 → ダラス・フォートワース国際空港（直行便）→ ジョージ・ブッシュ・インターコンチネンタル空港 → 車でSpace Center Houston",
+        "estimatedDuration": "約17〜21時間",
+        "transferCount": 1,
+        "localTransport": "空港またはヒューストン市内からレンタカー、タクシー、配車サービスでNASA Parkway沿いの施設へ向かう。",
+        "note": "交通渋滞を見込み、予約制・定員制のツアーは入場時刻と集合時間を事前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Saturn_V_Rocket_--_Johnson_Space_Center.jpg/1280px-Saturn_V_Rocket_--_Johnson_Space_Center.jpg",
+        "alt": "ジョンソン宇宙センターのロケットパークに展示されたサターンVロケット",
+        "width": 1280,
+        "height": 848,
+        "author": "Jim Evans",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saturn_V_Rocket_--_Johnson_Space_Center.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Visitor Information - Space Center Houston",
+          "url": "https://spacecenter.org/visitor-information",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "NASA Tram Tours - Space Center Houston",
+          "url": "https://spacecenter.org/exhibits-and-experiences/nasa-tram-tour/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Contact and Location - Space Center Houston",
+          "url": "https://spacecenter.org/contact/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "JAL Group FY2026 International Network Schedule",
+          "url": "https://press.jal.co.jp/en/items/uploads/JALJTA%20Announces%20FY2026%20Schedule%20on%20International%20Network-3.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "national-museum-african-american-history-culture",
+      "slug": "national-museum-african-american-history-culture",
+      "name": "国立アフリカ系アメリカ人歴史文化博物館",
+      "internalEnglishName": "National Museum of African American History and Culture",
+      "region": "north-america",
+      "country": "アメリカ合衆国",
+      "city": "ワシントンD.C.",
+      "categories": ["歴史・遺跡", "アート・文化", "建築・街並み"],
+      "description": "アフリカ系アメリカ人の歴史、文化、芸術を専門に伝えるスミソニアン博物館。特徴的な三層の外装を持ち、多分野の資料と物語を展示する。",
+      "coordinates": {
+        "latitude": 38.89106,
+        "longitude": -77.032614
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.891060%2C-77.032614",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ロナルド・レーガン・ワシントン・ナショナル空港",
+        "routeSummary": "羽田空港 → シカゴ・オヘア国際空港（直行便）→ ロナルド・レーガン・ワシントン・ナショナル空港 → MetroでSmithsonian駅 → 徒歩で博物館",
+        "estimatedDuration": "約17〜21時間",
+        "transferCount": 1,
+        "localTransport": "空港からMetroで市中心部へ移動し、Smithsonian駅またはFederal Triangle駅から徒歩でNational Mallへ向かう。",
+        "note": "入館方法は日によって異なるため、無料の時間指定パスと保安検査の最新案内を事前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/National_Museum_of_African_American_History_and_Culture_building.jpg/1280px-National_Museum_of_African_American_History_and_Culture_building.jpg",
+        "alt": "ナショナル・モールに立つ国立アフリカ系アメリカ人歴史文化博物館の外観",
+        "width": 1280,
+        "height": 960,
+        "author": "DestinationFearFan",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_African_American_History_and_Culture_building.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "About the Museum - NMAAHC",
+          "url": "https://nmaahc.si.edu/about/about-museum",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Frequently Asked Questions - NMAAHC",
+          "url": "https://nmaahc.si.edu/visit/frequently-asked-questions",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "JAL Group FY2026 International Network Schedule",
+          "url": "https://press.jal.co.jp/en/items/uploads/JALJTA%20Announces%20FY2026%20Schedule%20on%20International%20Network-3.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "south-beach-miami",
+      "slug": "south-beach-miami",
+      "name": "サウス・ビーチ",
+      "internalEnglishName": "South Beach, Miami Beach",
+      "region": "north-america",
+      "country": "アメリカ合衆国",
+      "city": "マイアミ・ビーチ",
+      "categories": ["ビーチ・リゾート", "建築・街並み", "アクティビティ"],
+      "description": "マイアミ・ビーチ南部に延びる砂浜と、オーシャン・ドライブのアール・デコ建築で知られる地区。海辺の散策と街並みを一度に楽しめる。",
+      "coordinates": {
+        "latitude": 25.782612,
+        "longitude": -80.134077
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=25.782612%2C-80.134077",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "マイアミ国際空港",
+        "routeSummary": "羽田空港 → ダラス・フォートワース国際空港（直行便）→ マイアミ国際空港 → 空港バス・公共交通でSouth Beach",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港からMiami Beach方面のバスや配車サービスを利用し、地区内は無料のMiami Beach Trolley、徒歩、自転車で移動する。",
+        "note": "ビーチの安全情報、公共交通の運行変更、強風や高波の注意情報を現地公式案内で確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lifeguard_stand%2C_Miami_Beach.jpg/1280px-Lifeguard_stand%2C_Miami_Beach.jpg",
+        "alt": "白い砂浜に立つカラフルなマイアミ・ビーチのライフガードスタンド",
+        "width": 1280,
+        "height": 853,
+        "author": "Radomianin",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lifeguard_stand,_Miami_Beach.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "The Best Things To Do In South Beach - Greater Miami Convention & Visitors Bureau",
+          "url": "https://www.miamiandbeaches.com/plan-your-trip/insider-guides/south-beach-guide",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting Around Downtown and Miami Beach",
+          "url": "https://www.miamiandbeaches.com/plan-your-trip/transportation/getting-to-and-around-downtown-and-miami-beach",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "JAL Group FY2026 International Network Schedule",
+          "url": "https://press.jal.co.jp/en/items/uploads/JALJTA%20Announces%20FY2026%20Schedule%20on%20International%20Network-3.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "cn-tower",
+      "slug": "cn-tower",
+      "name": "CNタワー",
+      "internalEnglishName": "CN Tower",
+      "region": "north-america",
+      "country": "カナダ",
+      "city": "トロント",
+      "categories": ["建築・街並み", "アクティビティ"],
+      "description": "トロント中心部にそびえる高さ553.33メートルの通信・展望塔。高層展望フロアから市街とオンタリオ湖を見渡せ、外周歩行体験も選べる。",
+      "coordinates": {
+        "latitude": 43.642567,
+        "longitude": -79.387054
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=43.642567%2C-79.387054",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "トロント・ピアソン国際空港",
+        "routeSummary": "成田空港 → トロント・ピアソン国際空港（直行便・約12〜13時間）→ UP ExpressでUnion Station → 徒歩でCN Tower",
+        "estimatedDuration": "約15〜17時間",
+        "transferCount": 0,
+        "localTransport": "空港からUP ExpressでUnion Stationへ移動し、Bremner BoulevardまたはSkyWalk経由で徒歩約10分。",
+        "note": "展望フロアは時間指定入場が基本。天候により眺望や屋外体験の実施状況が変わる。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg/1280px-Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg",
+        "alt": "夕暮れのトロント市街にそびえるCNタワーと湖岸の景観",
+        "width": 1280,
+        "height": 568,
+        "author": "Jchmrt",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Tickets - CN Tower",
+          "url": "https://www.cntower.ca/plan-your-visit/tickets-and-hours/tickets",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting here - CN Tower",
+          "url": "https://www.cntower.ca/plan-your-visit/getting-here",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Japan to Canada - Air Canada",
+          "url": "https://www.aircanada.com/en-jp/flights-from-japan-to-canada",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "lanse-aux-meadows",
+      "slug": "lanse-aux-meadows",
+      "name": "ランス・オ・メドー国定史跡",
+      "internalEnglishName": "L'Anse aux Meadows National Historic Site",
+      "region": "north-america",
+      "country": "カナダ",
+      "city": "セント・ルネール＝グリケ",
+      "categories": ["歴史・遺跡", "アート・文化"],
+      "description": "ニューファンドランド島北端に残る約1000年前のノース人集落跡。木材と芝土の建物跡や復元建物を通して、北米初期のヨーロッパ人到達史を学べる。",
+      "coordinates": {
+        "latitude": 51.595278,
+        "longitude": -55.533056
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=51.595278%2C-55.533056",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ディア・レイク地域空港",
+        "routeSummary": "成田空港 → トロント・ピアソン国際空港（直行便）→ ディア・レイク地域空港 → Viking Trailを車で約5〜6時間 → L'Anse aux Meadows",
+        "estimatedDuration": "約22〜28時間",
+        "transferCount": 1,
+        "localTransport": "ディア・レイク空港でレンタカーを借り、Route 430とRoute 436を北上して史跡へ向かう。",
+        "note": "史跡は季節開館で長距離運転となるため、道路・天候・給油地点と開館期間を事前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/LanseAuxMeadows_LargeBuilding.JPG/1280px-LanseAuxMeadows_LargeBuilding.JPG",
+        "alt": "ランス・オ・メドーに復元された芝土屋根のノース人建物",
+        "width": 1280,
+        "height": 960,
+        "author": "Clinton Pierce",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:LanseAuxMeadows_LargeBuilding.JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Culture and history - L'Anse aux Meadows National Historic Site",
+          "url": "https://parks.canada.ca/lhn-nhs/nl/meadows/culture",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Plan your visit - L'Anse aux Meadows National Historic Site",
+          "url": "https://parks.canada.ca/lhn-nhs/nl/meadows/visit.aspx",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Japan to Canada - Air Canada",
+          "url": "https://www.aircanada.com/en-jp/flights-from-japan-to-canada",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "peggys-cove",
+      "slug": "peggys-cove",
+      "name": "ペギーズ・コーブ",
+      "internalEnglishName": "Peggy's Cove",
+      "region": "north-america",
+      "country": "カナダ",
+      "city": "ペギーズ・コーブ",
+      "categories": ["自然・絶景", "建築・街並み"],
+      "description": "大西洋に面した花崗岩の海岸と白い灯台で知られる漁村。荒々しい波と歴史的な集落がつくる、ノバスコシアを象徴する海辺の景観を望める。",
+      "coordinates": {
+        "latitude": 44.491889,
+        "longitude": -63.915389
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=44.491889%2C-63.915389",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ハリファックス・スタンフィールド国際空港",
+        "routeSummary": "成田空港 → トロント・ピアソン国際空港（直行便）→ ハリファックス・スタンフィールド国際空港 → 車でPeggy's Cove",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "ハリファックス空港からレンタカーでHighway 102、213、Route 333を経由するか、市内発着のツアーを利用する。",
+        "note": "公共路線バスは乗り入れない。濡れた黒い岩は高波にさらわれる危険があるため、現地の安全標識に従う。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lighthouse_DSC01066_-_Peggy%27s_Cove_Lighthouse_%287612052968%29.jpg/1280px-Lighthouse_DSC01066_-_Peggy%27s_Cove_Lighthouse_%287612052968%29.jpg",
+        "alt": "ペギーズ・コーブの花崗岩海岸に立つ白い灯台",
+        "width": 1280,
+        "height": 860,
+        "author": "Dennis G. Jarvis",
+        "licenseName": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lighthouse_DSC01066_-_Peggy%27s_Cove_Lighthouse_(7612052968).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "About Peggy's Cove - Official Website",
+          "url": "https://visitpeggyscove.ca/about-us/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Peggy's Cove Visitor Map and Transportation",
+          "url": "https://visitpeggyscove.ca/visitor-information/peggys-cove-visitor-maps/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Japan to Canada - Air Canada",
+          "url": "https://www.aircanada.com/en-jp/flights-from-japan-to-canada",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "prince-edward-island-national-park",
+      "slug": "prince-edward-island-national-park",
+      "name": "プリンス・エドワード・アイランド国立公園",
+      "internalEnglishName": "Prince Edward Island National Park",
+      "region": "north-america",
+      "country": "カナダ",
+      "city": "キャベンディッシュ",
+      "categories": ["ビーチ・リゾート", "自然・絶景", "アクティビティ"],
+      "description": "島の北岸に砂浜、赤い砂岩の崖、風で形づくられた砂丘が連なる国立公園。海岸沿いの遊歩道や自転車道から大西洋の景観を楽しめる。",
+      "coordinates": {
+        "latitude": 46.498889,
+        "longitude": -63.430833
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.498889%2C-63.430833",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "シャーロットタウン空港",
+        "routeSummary": "成田空港 → トロント・ピアソン国際空港（直行便）→ シャーロットタウン空港 → 車でPrince Edward Island National Park",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "シャーロットタウン空港からレンタカーで約30〜45分。園内の3地区は湾で分かれるため、道路で各入口へ移動する。",
+        "note": "海水浴施設や一部サービスは季節運営。砂丘保護区域、波況、駐車場の最新情報を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Old_Wharf_Posts_on_beach_in_Prince_Edward_Island_National_Park.jpg/1280px-Old_Wharf_Posts_on_beach_in_Prince_Edward_Island_National_Park.jpg",
+        "alt": "プリンス・エドワード・アイランド国立公園の砂浜と海に残る木杭",
+        "width": 1280,
+        "height": 853,
+        "author": "Highstep5",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Wharf_Posts_on_beach_in_Prince_Edward_Island_National_Park.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Prince Edward Island National Park",
+          "url": "https://parks.canada.ca/pn-np/pe/pei-ipe",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Plan your visit - Prince Edward Island National Park",
+          "url": "https://www.parks.canada.ca/pn-np/pe/pei-ipe/visit",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Japan to Canada - Air Canada",
+          "url": "https://www.aircanada.com/en-jp/flights-from-japan-to-canada",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "kluane-national-park",
+      "slug": "kluane-national-park",
+      "name": "クルアニ国立公園・保護区",
+      "internalEnglishName": "Kluane National Park and Reserve",
+      "region": "north-america",
+      "country": "カナダ",
+      "city": "ヘインズ・ジャンクション",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "ユーコン南西部に氷原、山岳、湖が広がる国立公園。ヘインズ・ジャンクションを拠点に、キャスリーン湖周辺のハイキングや展望を楽しめる。",
+      "coordinates": {
+        "latitude": 60.585278,
+        "longitude": -137.205833
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=60.585278%2C-137.205833",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "エリック・ニールセン・ホワイトホース国際空港",
+        "routeSummary": "成田空港 → バンクーバー国際空港（直行便）→ エリック・ニールセン・ホワイトホース国際空港 → 車で約2時間 → Haines Junction",
+        "estimatedDuration": "約18〜23時間",
+        "transferCount": 1,
+        "localTransport": "ホワイトホースでレンタカーを借り、Alaska Highwayを西へ約160キロ走ってヘインズ・ジャンクションやキャスリーン湖へ向かう。",
+        "note": "公園内陸部の多くは徒歩や小型機などでのみ到達可能。天候、道路、トレイル、野生動物情報を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Evening_on_Kathleen_Lake.jpg/1280px-Evening_on_Kathleen_Lake.jpg",
+        "alt": "夕暮れのキャスリーン湖とクルアニ国立公園の山並み",
+        "width": 1280,
+        "height": 848,
+        "author": "Jakub Fryš",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evening_on_Kathleen_Lake.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Plan your visit - Kluane National Park and Reserve",
+          "url": "https://parks.canada.ca/pn-np/yt/kluane/visit",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting here - Kluane National Park and Reserve",
+          "url": "https://parks.canada.ca/pn-np/yt/kluane/visit/directions",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flight Schedules - Air North",
+          "url": "https://flyairnorth.com/flight-schedules/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Japan to Canada - Air Canada",
+          "url": "https://www.aircanada.com/en-jp/flights-from-japan-to-canada",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "independence-hall",
+      "slug": "independence-hall",
+      "name": "独立記念館",
+      "internalEnglishName": "Independence Hall",
+      "region": "north-america",
+      "country": "アメリカ合衆国",
+      "city": "フィラデルフィア",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "アメリカ独立宣言と合衆国憲法が審議・採択されたフィラデルフィアの歴史的建造物。レンジャー案内の内部見学を通して、建国期の議場をたどれる。",
+      "coordinates": {
+        "latitude": 39.948889,
+        "longitude": -75.15
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.948889%2C-75.150000",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ジョン・F・ケネディ国際空港",
+        "routeSummary": "羽田空港 → ジョン・F・ケネディ国際空港（直行便）→ AirTrain・鉄道でNew York Penn Station → AmtrakでPhiladelphia 30th Street Station → 地下鉄・徒歩でIndependence Hall",
+        "estimatedDuration": "約17〜20時間",
+        "transferCount": 0,
+        "localTransport": "JFKからAirTrainとLIRRでNew York Penn Stationへ移動し、Amtrakでフィラデルフィアへ。30th Street StationからSEPTAで5th Street駅へ向かう。",
+        "note": "内部見学は時間指定券が必要となる日がある。保安検査とニューヨークでの鉄道乗継時間を十分に確保する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Independence_Hall%2C_Philadelphia_20240528.jpg/1280px-Independence_Hall%2C_Philadelphia_20240528.jpg",
+        "alt": "青空の下に立つフィラデルフィアの独立記念館",
+        "width": 1280,
+        "height": 853,
+        "author": "颐园居",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Independence_Hall,_Philadelphia_20240528.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Visiting Independence Hall - National Park Service",
+          "url": "https://www.nps.gov/inde/planyourvisit/independencehall.htm",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Directions - Independence National Historical Park",
+          "url": "https://www.nps.gov/inde/planyourvisit/directions.htm",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tokyo (Haneda) - New York Route - JAL",
+          "url": "https://www.jal.co.jp/jp/en/inter/route/hndjfk/index.html",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "white-sands-national-park",
+      "slug": "white-sands-national-park",
+      "name": "ホワイトサンズ国立公園",
+      "internalEnglishName": "White Sands National Park",
+      "region": "north-america",
+      "country": "アメリカ合衆国",
+      "city": "アラモゴード",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "ニューメキシコ州のトゥラロサ盆地に、石膏の白い砂丘が果てしなく続く国立公園。Dunes Driveや短いトレイルから、光で表情を変える砂丘景観を体感できる。",
+      "coordinates": {
+        "latitude": 32.779167,
+        "longitude": -106.171944
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=32.779167%2C-106.171944",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "エルパソ国際空港",
+        "routeSummary": "羽田空港 → ダラス・フォートワース国際空港（直行便）→ エルパソ国際空港 → レンタカーで約1時間30分 → White Sands National Park",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "エルパソ空港でレンタカーを借り、US-54をアラモゴード方面へ進み、US-70経由でビジターセンターへ向かう。",
+        "note": "公園への公共交通はない。ミサイル試験による一時閉鎖、開園時間、強風・高温の情報を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2026_White_Sands_National_Park_Dunes_Clouds_and_Sun.jpg/1280px-2026_White_Sands_National_Park_Dunes_Clouds_and_Sun.jpg",
+        "alt": "雲の広がる空とホワイトサンズ国立公園の白い砂丘",
+        "width": 1280,
+        "height": 960,
+        "author": "Pablorgalindo",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2026_White_Sands_National_Park_Dunes_Clouds_and_Sun.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Basic Information - White Sands National Park",
+          "url": "https://www.nps.gov/whsa/planyourvisit/basicinfo.htm",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Directions - White Sands National Park",
+          "url": "https://home.nps.gov/whsa/planyourvisit/directions.htm",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "JAL Group Announces FY2026 Schedule on International Network",
+          "url": "https://press.jal.co.jp/en/release/202601/009252.html",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "hopewell-rocks",
+      "slug": "hopewell-rocks",
+      "name": "ホープウェル・ロックス",
+      "internalEnglishName": "Hopewell Rocks Provincial Park",
+      "region": "north-america",
+      "country": "カナダ",
+      "city": "ホープウェル・ケープ",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "ファンディ湾の大きな潮位差が削り出した海食柱群。干潮時には海底を歩いて岩を見上げ、満潮時にはカヤックなどで同じ地形を水上から眺められる。",
+      "coordinates": {
+        "latitude": 45.8218,
+        "longitude": -64.5775
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=45.821800%2C-64.577500",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "グレーター・モンクトン・ロメオ・ルブラン国際空港",
+        "routeSummary": "成田空港 → トロント・ピアソン国際空港（直行便）→ グレーター・モンクトン・ロメオ・ルブラン国際空港 → レンタカーで約40〜50分 → Hopewell Rocks",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "モンクトン空港からレンタカーでRoute 114を南下し、Hopewell Capeの州立公園へ向かう。",
+        "note": "干潮時の海底歩行時間は潮汐で毎日変わる。公式の潮汐表、開園期間、濡れた海底での歩行条件を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Parc_Provincial_Hopewell_Rocks_-_Sea_Stack_-_Low_Tide-_New_Brunswick_%281%29.jpg/1280px-Parc_Provincial_Hopewell_Rocks_-_Sea_Stack_-_Low_Tide-_New_Brunswick_%281%29.jpg",
+        "alt": "干潮時の海底から見上げるホープウェル・ロックスの海食柱",
+        "width": 1280,
+        "height": 960,
+        "author": "Mhsheikholeslami",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parc_Provincial_Hopewell_Rocks_-_Sea_Stack_-_Low_Tide-_New_Brunswick_(1).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Hopewell Rocks Provincial Park - New Brunswick Parks",
+          "url": "https://www.nbparks.ca/en/parks/33/hopewell-rocks-provincial-park",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Hopewell Rocks Provincial Park - Tourism New Brunswick",
+          "url": "https://tourismnewbrunswick.ca/listing/hopewell-rocks-provincial-park",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Japan to Canada - Air Canada",
+          "url": "https://www.aircanada.com/en-jp/flights-from-japan-to-canada",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "grasslands-national-park",
+      "slug": "grasslands-national-park",
+      "name": "グラスランズ国立公園",
+      "internalEnglishName": "Grasslands National Park",
+      "region": "north-america",
+      "country": "カナダ",
+      "city": "ヴァル・マリー",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "サスカチュワン州南西部の大草原とバッドランドを守る国立公園。ウエスト・ブロックでは草原を走る景観道路やハイキングで、バイソンやプレーリードッグの生息地を訪ねられる。",
+      "coordinates": {
+        "latitude": 49.245769,
+        "longitude": -107.732181
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=49.245769%2C-107.732181",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "レジャイナ国際空港",
+        "routeSummary": "成田空港 → バンクーバー国際空港（直行便）→ レジャイナ国際空港 → レンタカーで約4〜5時間 → Val Marie Visitor Centre",
+        "estimatedDuration": "約19〜24時間",
+        "transferCount": 1,
+        "localTransport": "レジャイナ空港からレンタカーで南西へ進み、ヴァル・マリーのビジターセンターで道路情報を確認してウエスト・ブロックへ向かう。",
+        "note": "両ブロックへの最終区間は砂利道で、雨天時は通行不能になる場合がある。燃料、紙地図、道路状況を事前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grasslands_National_Park%2C_Saskatchewan.jpg/1280px-Grasslands_National_Park%2C_Saskatchewan.jpg",
+        "alt": "グラスランズ国立公園に広がる草原と丘陵",
+        "width": 1280,
+        "height": 853,
+        "author": "Claude Charbonneau",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grasslands_National_Park,_Saskatchewan.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Grasslands National Park - Parks Canada",
+          "url": "https://parks.canada.ca/pn-np/sk/grasslands",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "How to get here - Grasslands National Park",
+          "url": "https://parks.canada.ca/pn-np/sk/grasslands/visit/directions",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Japan to Canada - Air Canada",
+          "url": "https://www.aircanada.com/en-jp/flights-from-japan-to-canada",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "russell-glacier",
+      "slug": "russell-glacier",
+      "name": "ラッセル氷河",
+      "internalEnglishName": "Russell Glacier",
+      "region": "north-america",
+      "country": "グリーンランド",
+      "city": "カンゲルルススアーク",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "カンゲルルススアークから陸路で到達できるグリーンランド氷床の末端氷河。青みを帯びた氷壁と融氷水がつくる荒涼とした景観を、現地ツアーで間近に観察できる。",
+      "coordinates": {
+        "latitude": 67.118333,
+        "longitude": -50.168056
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=67.118333%2C-50.168056",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "カンゲルルススアーク空港",
+        "routeSummary": "羽田空港 → コペンハーゲン空港（直行便）→ カンゲルルススアーク空港（季節便）→ 事前予約した車両ツアーで約25キロ → Russell Glacier",
+        "estimatedDuration": "約20〜26時間",
+        "transferCount": 1,
+        "localTransport": "カンゲルルススアーク発の四輪駆動車ツアーを予約し、未舗装路を通って氷河展望地点へ向かう。",
+        "note": "コペンハーゲンからの直行便と氷河ツアーは季節・曜日・天候に左右される。運航日と防寒装備を事前確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Russell_Glacier%2C_Kangerlussuaq%2C_Greenland.jpg/1280px-Russell_Glacier%2C_Kangerlussuaq%2C_Greenland.jpg",
+        "alt": "カンゲルルススアーク近郊に広がるラッセル氷河の氷壁",
+        "width": 1280,
+        "height": 961,
+        "author": "kaet44",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Russell_Glacier,_Kangerlussuaq,_Greenland.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Russell Glacier - Visit Greenland",
+          "url": "https://visitgreenland.com/activities/russel-glacier/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Explore Kangerlussuaq - Visit Greenland",
+          "url": "https://visitgreenland.com/destinations/kangerlussuaq/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo to Copenhagen - SAS",
+          "url": "https://www.flysas.com/en/flight-routes/tokyo/copenhagen/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "qaqortoq-stone-and-man",
+      "slug": "qaqortoq-stone-and-man",
+      "name": "カコルトク「石と人」",
+      "internalEnglishName": "Qaqortoq Stone and Man",
+      "region": "north-america",
+      "country": "グリーンランド",
+      "city": "カコルトク",
+      "categories": ["アート・文化", "建築・街並み"],
+      "description": "町全体を野外ギャラリーに見立て、岩肌や街角に約40点の彫刻を配したアートプロジェクト。カラフルな家並みを歩きながら、北欧とグリーンランドの作家による作品を探せる。",
+      "coordinates": {
+        "latitude": 60.720117,
+        "longitude": -46.040317
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=60.720117%2C-46.040317",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "カコルトク空港",
+        "routeSummary": "羽田空港 → コペンハーゲン空港（直行便）→ ヌーク国際空港 → カコルトク空港 → 市内へ移動し徒歩でStone and Manを巡る",
+        "estimatedDuration": "約23〜30時間",
+        "transferCount": 2,
+        "localTransport": "カコルトク空港から運航に合わせた送迎を手配し、中心部到着後は徒歩で町中に点在する彫刻を巡る。",
+        "note": "2026年開港の新空港を利用する経路で、便数や接続は季節・天候で変わる。作品は町内に分散しているため現地案内を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GL-Qaqortoq-Relief-03.jpg/1280px-GL-Qaqortoq-Relief-03.jpg",
+        "alt": "カコルトクの岩肌に彫られた「石と人」のレリーフ",
+        "width": 1280,
+        "height": 848,
+        "author": "Balou46",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:GL-Qaqortoq-Relief-03.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Explore Qaqortoq - Visit Greenland",
+          "url": "https://visitgreenland.com/destinations/qaqortoq/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "How to get to Greenland - Visit Greenland",
+          "url": "https://visitgreenland.com/plan-your-trip/how-to-get-to-greenland/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo to Copenhagen - SAS",
+          "url": "https://www.flysas.com/en/flight-routes/tokyo/copenhagen/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "historic-st-george-bermuda",
+      "slug": "historic-st-george-bermuda",
+      "name": "セント・ジョージ歴史地区",
+      "internalEnglishName": "Historic Town of St George",
+      "region": "north-america",
+      "country": "バミューダ",
+      "city": "セント・ジョージ",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "1612年に築かれたバミューダの旧植民都市。キングス・スクエアを中心に石造建築と細い街路が残り、周辺の要塞群とともに世界遺産に登録されている。",
+      "coordinates": {
+        "latitude": 32.379,
+        "longitude": -64.678
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=32.379000%2C-64.678000",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "L.F.ウェイド国際空港",
+        "routeSummary": "羽田空港 → ジョン・F・ケネディ国際空港（直行便）→ L.F.ウェイド国際空港 → 路線バスまたはタクシーでSt George's",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "L.F.ウェイド国際空港からSt George's方面の路線バスまたはタクシーを利用し、歴史地区内は徒歩で巡る。",
+        "note": "米国での国際線乗継手続きと十分な接続時間を確保する。バスは現金や指定乗車券の条件と最新時刻表を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/St._George%27s-6.jpg/1280px-St._George%27s-6.jpg",
+        "alt": "バミューダのセント・ジョージ歴史地区に並ぶ淡い色の建物",
+        "width": 1280,
+        "height": 850,
+        "author": "Captain-tucker",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._George's-6.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Historic Town of St George and Related Fortifications - UNESCO",
+          "url": "https://whc.unesco.org/en/list/983/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Bermuda's Bus System - Government of Bermuda",
+          "url": "https://www.gov.bm/bermuda-bus-system",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights - L.F. Wade International Airport",
+          "url": "https://bermudaairport.com/flights/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tokyo (Haneda) - New York Route - JAL",
+          "url": "https://www.jal.co.jp/jp/en/inter/route/hndjfk/index.html",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "ile-aux-marins",
+      "slug": "ile-aux-marins",
+      "name": "イル・オ・マラン",
+      "internalEnglishName": "Ile aux Marins",
+      "region": "north-america",
+      "country": "サンピエール島・ミクロン島",
+      "city": "サンピエール",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "サンピエール港の沖合に浮かぶ、かつて漁業で栄えた小島。木造家屋や教会、旧学校を利用した博物館が残り、島の漁業文化と暮らしの歴史を伝える。",
+      "coordinates": {
+        "latitude": 46.783983,
+        "longitude": -56.149873
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.783983%2C-56.149873",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "サンピエール空港",
+        "routeSummary": "羽田空港 → パリ・シャルル・ド・ゴール空港（直行便）→ サンピエール空港（夏季直行便）→ 港へ移動 → 市営船で約10分 → Ile aux Marins",
+        "estimatedDuration": "約23〜30時間",
+        "transferCount": 1,
+        "localTransport": "サンピエール空港から港へ移動し、例年5月中旬〜10月中旬に運航する市営船で島へ渡る。",
+        "note": "パリ便と島への渡船はいずれも季節運航で、風や海況による変更もある。運航日、帰りの便、施設開館日を必ず確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ile_aux_Marins_03_08_2019.jpg/1280px-Ile_aux_Marins_03_08_2019.jpg",
+        "alt": "イル・オ・マランに残る木造家屋と草地の景観",
+        "width": 1280,
+        "height": 848,
+        "author": "Sebastien Mirouze Paulirou",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ile_aux_Marins_03_08_2019.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "L'Ile aux Marins - Saint-Pierre et Miquelon Tourisme",
+          "url": "https://www.spm-tourisme.fr/explorer/vivre-l-histoire-de-l-archipel/l-ile-aux-marins/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting around the archipelago - Saint-Pierre et Miquelon Tourisme",
+          "url": "https://en.spm-tourisme.fr/stay/getting-around-the-archipelago/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flight schedules - Air Saint-Pierre",
+          "url": "https://airsaintpierre.com/flight-schedules",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tokyo (Haneda) - Paris Route - JAL",
+          "url": "https://www.jal.co.jp/jp/en/inter/A350-1000/schedule/hndcdg/index.html",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
     }
   ]
 }

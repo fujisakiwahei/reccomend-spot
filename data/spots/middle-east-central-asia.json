@@ -46,11 +46,1046 @@
         {
           "title": "Getting to Petra",
           "url": "https://visitpetra.jo/en/GettingtoPetra",
-          "type": "official",
+          "type": "transport",
           "checkedAt": "2026-07-13"
         }
       ],
       "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "burj-khalifa",
+      "slug": "burj-khalifa",
+      "name": "ブルジュ・ハリファ",
+      "internalEnglishName": "Burj Khalifa",
+      "region": "middle-east-central-asia",
+      "country": "アラブ首長国連邦",
+      "city": "ドバイ",
+      "categories": [
+        "建築・街並み"
+      ],
+      "description": "ドバイ中心部にそびえる高さ828メートルの超高層建築。複数の展望フロアから砂漠と海岸線まで広がる都市景観を見渡せる、現代ドバイを象徴するランドマーク。",
+      "coordinates": {
+        "latitude": 25.19722,
+        "longitude": 55.27417
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=25.19722%2C55.27417",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ドバイ国際空港",
+        "routeSummary": "成田空港 → ドバイ国際空港（直行便・約11〜12時間）→ ドバイメトロ・レッドラインでBurj Khalifa / Dubai Mall駅 → 徒歩",
+        "estimatedDuration": "約13〜15時間",
+        "transferCount": 0,
+        "localTransport": "空港ターミナル側の駅からドバイメトロ・レッドラインを利用し、Burj Khalifa / Dubai Mall駅から連絡通路とドバイ・モールを経由して向かう。",
+        "note": "展望台は時間指定予約が推奨される。空港ターミナル、メトロの運行時間、ドバイ・モール内の入口を事前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burj_Khalifa_-_Dubai.jpg/960px-Burj_Khalifa_-_Dubai.jpg",
+        "alt": "ドバイの市街地から見上げたブルジュ・ハリファ",
+        "width": 960,
+        "height": 1280,
+        "author": "Nihad Nitz",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burj_Khalifa_-_Dubai.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Burj Khalifa - Visit Dubai",
+          "url": "https://www.visitdubai.com/en/places-to-visit/burj-khalifa/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Dubai Metro and Tram Stations Map - RTA",
+          "url": "https://www.rta.ae/wps/portal/rta/ae/public-transport/metro-stations-map",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "hegra",
+      "slug": "hegra",
+      "name": "ヘグラ",
+      "internalEnglishName": "Hegra",
+      "region": "middle-east-central-asia",
+      "country": "サウジアラビア",
+      "city": "アル・ウラ",
+      "categories": [
+        "歴史・遺跡"
+      ],
+      "description": "アル・ウラの砂岩地帯に残る古代ナバテア王国の都市遺跡。岩山に彫られた110基以上の墓や碑文、水路跡を、保護された見学ルートと公式ツアーでたどれる。",
+      "coordinates": {
+        "latitude": 26.79151,
+        "longitude": 37.95125
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=26.79151%2C37.95125",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "アル・ウラ国際空港",
+        "routeSummary": "成田空港 → ドーハまたはドバイ（1回乗継）→ アル・ウラ国際空港 → タクシーまたは配車サービスでヘグラ・ビジターセンター",
+        "estimatedDuration": "約18〜23時間",
+        "transferCount": 1,
+        "localTransport": "アル・ウラ国際空港からタクシー、レンタカー、またはDarb AlUlaの配車でビジターセンターへ移動し、予約した公式バスまたは4WDツアーに参加する。",
+        "note": "遺跡内の自由運転はできず、ツアーの事前予約が推奨される。国際便は曜日・季節で変わるため、公式運航表を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia.jpg/960px-27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia.jpg",
+        "alt": "ヘグラの砂岩に彫り込まれたナバテア人の墓",
+        "width": 960,
+        "height": 641,
+        "author": "Following Hadrian",
+        "licenseName": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:27,_Hegra_(Mada%27in_Salih),_Saudi_Arabia.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Hegra - Experience AlUla",
+          "url": "https://www.experiencealula.com/en/places-to-go/hegra",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting to and Around AlUla",
+          "url": "https://www.experiencealula.com/en/plan-your-trip/getting-to-and-around-alula",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "museum-of-islamic-art-doha",
+      "slug": "museum-of-islamic-art-doha",
+      "name": "イスラム美術館",
+      "internalEnglishName": "Museum of Islamic Art Doha",
+      "region": "middle-east-central-asia",
+      "country": "カタール",
+      "city": "ドーハ",
+      "categories": [
+        "アート・文化"
+      ],
+      "description": "ドーハの海岸沿いに立つイスラム美術の専門館。I. M. ペイ設計の幾何学的な建築の中で、広い地域と時代にわたる写本、陶器、金工、織物などを鑑賞できる。",
+      "coordinates": {
+        "latitude": 25.29502,
+        "longitude": 51.53912
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=25.29502%2C51.53912",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ハマド国際空港",
+        "routeSummary": "成田空港 → ハマド国際空港（直行便・約12〜13時間）→ ドーハメトロ・ゴールドラインでNational Museum駅 → 徒歩またはタクシー",
+        "estimatedDuration": "約14〜16時間",
+        "transferCount": 0,
+        "localTransport": "空港からメトロでMsheireb駅へ向かい、ゴールドラインに乗り換えてNational Museum駅へ。駅から海岸沿いを歩くか短距離のタクシーを利用する。",
+        "note": "水曜休館など曜日で開館時間が異なる。メトロの運行時間と、館内イベントによる駐車場・入口変更を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Museum_of_Islamic_Art_in_Doha_%283820043632%29.jpg/960px-Museum_of_Islamic_Art_in_Doha_%283820043632%29.jpg",
+        "alt": "夜のドーハ湾に浮かぶように見えるイスラム美術館の外観",
+        "width": 960,
+        "height": 645,
+        "author": "Mohamed Nanabhay from Qatar",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_Islamic_Art_in_Doha_(3820043632).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Plan Your Visit - Museum of Islamic Art",
+          "url": "https://mia.org.qa/en/visit/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Museum of Islamic Art Doha - Visit Qatar",
+          "url": "https://visitqatar.com/intl-en/things-to-do/art-culture/museums/museum-of-islamic-art",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "wadi-shab",
+      "slug": "wadi-shab",
+      "name": "ワディ・シャーブ",
+      "internalEnglishName": "Wadi Shab",
+      "region": "middle-east-central-asia",
+      "country": "オマーン",
+      "city": "ティウィ",
+      "categories": [
+        "自然・絶景",
+        "アクティビティ"
+      ],
+      "description": "石灰岩の崖とヤシの間に透明な天然プールが連なる渓谷。入口で小舟に乗って対岸へ渡り、岩場を歩いた先で泳ぎながら洞窟内の滝を目指せる。",
+      "coordinates": {
+        "latitude": 22.83292,
+        "longitude": 59.23363
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=22.83292%2C59.23363",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "マスカット国際空港",
+        "routeSummary": "成田空港 → ドーハまたはドバイ（1回乗継）→ マスカット国際空港 → レンタカー、タクシー、またはガイドツアーでワディ入口 → 小舟と徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "マスカット国際空港から海岸道路を車で約2〜3時間移動する。入口の駐車場から小舟で渡り、天然プールまで岩の多い道を歩く。",
+        "note": "隠れ滝へは狭い洞窟を泳ぐため泳力が必要。雨後の鉄砲水、船の運航、日没、飲料水と滑りにくい靴を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wadi_Shab%2C_Oman.jpg/960px-Wadi_Shab%2C_Oman.jpg",
+        "alt": "岩山とヤシに囲まれたワディ・シャーブの谷と水路",
+        "width": 960,
+        "height": 640,
+        "author": "Uhooep",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wadi_Shab,_Oman.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Wadi Shab - Experience Oman",
+          "url": "https://experienceoman.om/destinations/al-sharqiyah-south/wadi-shab",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "The Explorer's Guide to Oman",
+          "url": "https://experienceoman.om/media/x2cd2gim/the-wanderlust-oman.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "registan-square",
+      "slug": "registan-square",
+      "name": "レギスタン広場",
+      "internalEnglishName": "Registan Square",
+      "region": "middle-east-central-asia",
+      "country": "ウズベキスタン",
+      "city": "サマルカンド",
+      "categories": [
+        "建築・街並み",
+        "歴史・遺跡"
+      ],
+      "description": "サマルカンド旧市街の中心に三つの壮麗なマドラサが向かい合う広場。青いタイル、幾何学文様、巨大なイーワーンが、シルクロード都市の学問と建築の歴史を伝える。",
+      "coordinates": {
+        "latitude": 39.65483,
+        "longitude": 66.97559
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.65483%2C66.97559",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "タシュケント国際空港",
+        "routeSummary": "成田空港 → ソウル、アルマトイ等（1回乗継）→ タシュケント国際空港 → タシュケント中央駅 → Afrosiyob列車でサマルカンド駅 → タクシー",
+        "estimatedDuration": "約17〜22時間",
+        "transferCount": 1,
+        "localTransport": "タシュケント中央駅から高速列車でサマルカンド駅へ移動し、駅から広場まで路線バスまたはタクシーを利用する。",
+        "note": "Afrosiyobは満席になりやすいため事前購入する。利用駅、列車時刻、広場の入場時間と夜間イベントを確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Registan-Samarkand.jpg/960px-Registan-Samarkand.jpg",
+        "alt": "青いタイルで装飾されたサマルカンドのレギスタン広場とマドラサ",
+        "width": 960,
+        "height": 720,
+        "author": "Farsizabon",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Registan-Samarkand.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Registan Square - Uzbekistan Travel",
+          "url": "https://uzbekistan.travel/en/o/registan/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Uzbekistan Railways Schedule",
+          "url": "https://eticket.railway.uz/en/pages/schedule",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "charyn-canyon",
+      "slug": "charyn-canyon",
+      "name": "チャリン・キャニオン",
+      "internalEnglishName": "Charyn Canyon",
+      "region": "middle-east-central-asia",
+      "country": "カザフスタン",
+      "city": "アルマトイ州",
+      "categories": [
+        "自然・絶景",
+        "アクティビティ"
+      ],
+      "description": "アルマトイ東方に広がるチャリン国立公園の峡谷。風雨が堆積岩を削った「城の谷」では、塔や城壁のような赤褐色の岩峰の間を歩いて景観を間近に観察できる。",
+      "coordinates": {
+        "latitude": 43.3548,
+        "longitude": 79.0805
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=43.3548%2C79.0805",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "アルマトイ国際空港",
+        "routeSummary": "成田空港 → ソウル、北京、タシュケント等（1回乗継）→ アルマトイ国際空港 → 市内発のバスツアー、レンタカー、または専用車で国立公園",
+        "estimatedDuration": "約17〜22時間",
+        "transferCount": 1,
+        "localTransport": "アルマトイから東へ約195〜200キロメートルを車で移動する。公共交通が限定的なため、認可ツアーまたは事前手配車が利用しやすい。",
+        "note": "夏は峡谷内が高温になるため朝夕の行動が適する。入園条件、道路状況、飲料水、日差しと寒暖差への装備を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charyn_canyon.jpg/960px-Charyn_canyon.jpg",
+        "alt": "チャリン国立公園に連なる赤褐色の岩峰と峡谷",
+        "width": 960,
+        "height": 720,
+        "author": "EkaterinaK42",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charyn_canyon.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Kazakhstan Tourism: Charyn Canyon - Government of Kazakhstan",
+          "url": "https://www.gov.kz/article/7442?lang=en",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tourism from Almaty to Charyn Canyon - Government of Kazakhstan",
+          "url": "https://www.gov.kz/article/63300?lang=en",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "issyk-kul-lake",
+      "slug": "issyk-kul-lake",
+      "name": "イシク・クル湖",
+      "internalEnglishName": "Issyk-Kul Lake",
+      "region": "middle-east-central-asia",
+      "country": "キルギス",
+      "city": "チョルポン・アタ",
+      "categories": [
+        "ビーチ・リゾート"
+      ],
+      "description": "天山山脈に囲まれた標高約1600メートルの大湖。北岸のチョルポン・アタ周辺には砂浜とリゾートが集まり、夏は山並みを望みながら湖水浴やボートを楽しめる。",
+      "coordinates": {
+        "latitude": 42.63068,
+        "longitude": 77.11766
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=42.63068%2C77.11766",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "マナス国際空港",
+        "routeSummary": "成田空港 → アルマトイ、タシュケント、イスタンブール等（1回乗継）→ マナス国際空港 → ビシュケク2駅 → 季節列車でバルイクチ → ミニバスまたはタクシー",
+        "estimatedDuration": "約22〜28時間",
+        "transferCount": 1,
+        "localTransport": "夏季はビシュケク2駅からバルイクチ・ビーチ行き列車を利用し、バルイクチから北岸道路のミニバスまたはタクシーでチョルポン・アタへ向かう。",
+        "note": "湖行き列車は季節運行で、2026年は9月中旬までの予定。運行日、道路状況、湖水浴場の風と安全情報を直前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lake_Issyk-Kul%2C_Kyrgyzstan.jpg/960px-Lake_Issyk-Kul%2C_Kyrgyzstan.jpg",
+        "alt": "チョルポン・アタ近郊から見たイシク・クル湖と天山山脈",
+        "width": 960,
+        "height": 640,
+        "author": "Bgag",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Issyk-Kul,_Kyrgyzstan.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "About Kyrgyzstan - Department of Tourism",
+          "url": "https://tourism.gov.kg/about-kyrgyzstan/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Bishkek-Balykchy Train Resumes for the 2026 Tourist Season",
+          "url": "https://en.kabar.kg/news/bishkek-balykchy-train-resumes-as-tourist-season-comes/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "baku-old-city",
+      "slug": "baku-old-city",
+      "name": "バクー旧市街",
+      "internalEnglishName": "Baku Old City",
+      "region": "middle-east-central-asia",
+      "country": "アゼルバイジャン",
+      "city": "バクー",
+      "categories": [
+        "建築・街並み"
+      ],
+      "description": "城壁に囲まれたバクーの歴史地区イチェリシェヘル。迷路のような路地に乙女の塔、シルヴァンシャー宮殿、隊商宿や住宅が重なり、カスピ海沿岸都市の変遷を歩いてたどれる。",
+      "coordinates": {
+        "latitude": 40.3664,
+        "longitude": 49.8352
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=40.3664%2C49.8352",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ヘイダル・アリエフ国際空港",
+        "routeSummary": "成田空港 → イスタンブールまたはドーハ（1回乗継）→ ヘイダル・アリエフ国際空港 → Aero Expressで28 May駅 → 地下鉄でIcherisheher駅 → 徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港からAero Expressで28 May地区へ移動し、地下鉄レッドラインに乗り換えてIcherisheher駅へ。駅出口から城壁内へ歩く。",
+        "note": "城内は石畳と坂が多い。Aero Expressと地下鉄の運行時間、BakıKartの購入方法、博物館ごとの開館日を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Old_city_baku_azerbaijan7.jpg/960px-Old_city_baku_azerbaijan7.jpg",
+        "alt": "乙女の塔付近から見渡した城壁内のバクー旧市街",
+        "width": 960,
+        "height": 720,
+        "author": "Самый древний",
+        "licenseName": "Public domain (released by author)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_city_baku_azerbaijan7.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Explore Baku's Old City - Azerbaijan Travel",
+          "url": "https://azerbaijan.travel/explore-bakus-old-city",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "From Airport by Aero Express",
+          "url": "https://www.airport.az/en/transport/aero-express/from-airport/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Icherisheher Station - Baku Metro",
+          "url": "https://metro.gov.az/en/page/haqqimizda/2022/1967/iceriseher",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "geghard-monastery",
+      "slug": "geghard-monastery",
+      "name": "ゲガルド修道院",
+      "internalEnglishName": "Geghard Monastery",
+      "region": "middle-east-central-asia",
+      "country": "アルメニア",
+      "city": "ゲガルド",
+      "categories": [
+        "アート・文化"
+      ],
+      "description": "アザト渓谷の断崖に囲まれた中世アルメニアの修道院。岩山を直接くり抜いた聖堂や墓室、精緻なハチュカルが一体となり、石造建築と宗教文化の深い伝統を伝える。",
+      "coordinates": {
+        "latitude": 40.14043,
+        "longitude": 44.81839
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=40.14043%2C44.81839",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ズヴァルトノッツ国際空港",
+        "routeSummary": "成田空港 → イスタンブールまたはドーハ（1回乗継）→ ズヴァルトノッツ国際空港 → エレバン市内 → タクシー、専用車、または日帰りツアーでゲガルド",
+        "estimatedDuration": "約17〜21時間",
+        "transferCount": 1,
+        "localTransport": "エレバン中心部から東へ車で約1時間。ガルニ神殿と組み合わせた日帰りツアー、事前手配車、またはタクシーを利用する。",
+        "note": "公共交通だけでは接続が限られるため帰路も手配する。礼拝施設に適した服装、山間部の天候、冬季の路面を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Geghard_Monastery%2C_Church%2C_Armenia.jpg/960px-Geghard_Monastery%2C_Church%2C_Armenia.jpg",
+        "alt": "岩壁に囲まれたゲガルド修道院の石造聖堂",
+        "width": 960,
+        "height": 638,
+        "author": "Vyacheslav Argenberg",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geghard_Monastery,_Church,_Armenia.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Geghard Monastery and Upper Azat Valley - Armenia Travel",
+          "url": "https://armenia.travel/hy/destination/the-monastery-of-geghard-and-the-upper-azat-valley/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Can't-Miss Attractions Within an Hour of Yerevan",
+          "url": "https://armenia.travel/articles/cant-miss-attractions-within-an-hour-of-yerevan/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "manama-souq",
+      "slug": "manama-souq",
+      "name": "マナーマ・スーク",
+      "internalEnglishName": "Manama Souq",
+      "region": "middle-east-central-asia",
+      "country": "バーレーン",
+      "city": "マナーマ",
+      "categories": [
+        "グルメ・市場"
+      ],
+      "description": "歴史的なバーブ・アル・バーレーン門の奥に広がる伝統市場。香辛料、菓子、衣料、香水、金製品などの店が細い通りに並び、港町マナーマの商業文化を体感できる。",
+      "coordinates": {
+        "latitude": 26.2347,
+        "longitude": 50.5757
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=26.2347%2C50.5757",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "バーレーン国際空港",
+        "routeSummary": "成田空港 → ドーハまたはドバイ（1回乗継）→ バーレーン国際空港 → Bahrain Bus 10番でマナーマ・ターミナル → 徒歩",
+        "estimatedDuration": "約15〜19時間",
+        "transferCount": 1,
+        "localTransport": "空港から10番バスでマナーマ中心部のターミナルへ移動し、バーブ・アル・バーレーン門を目印に市場へ歩く。",
+        "note": "2026年7月時点でA1は空港非経由の案内があるため10番を利用する。最新の運休情報、営業時間、金曜礼拝時間を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Manama_Souq_%28Traditional_marketplace%29.jpg/960px-Manama_Souq_%28Traditional_marketplace%29.jpg",
+        "alt": "商品と看板が並ぶマナーマ・スークの通路",
+        "width": 960,
+        "height": 540,
+        "author": "Shibu Parambil Varghese",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manama_Souq_(Traditional_marketplace).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Bab Al Bahrain - Bahrain Authority for Culture and Antiquities",
+          "url": "https://culture.gov.bh/en/authority/infra_projects/BabAlBahrain/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Bahrain Bus Route 10 Timetable",
+          "url": "https://journey.bahrainbus.bh/timings/table/10/en",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Bahrain Bus Service Changes",
+          "url": "https://www.bahrainbus.bh/disruption-info-service-changes",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "goreme-open-air-museum",
+      "slug": "goreme-open-air-museum",
+      "name": "ギョレメ野外博物館",
+      "internalEnglishName": "Goreme Open Air Museum",
+      "region": "middle-east-central-asia",
+      "country": "トルコ",
+      "city": "ギョレメ",
+      "categories": [
+        "歴史・遺跡",
+        "アート・文化"
+      ],
+      "description": "カッパドキアの凝灰岩をくり抜いた教会、礼拝堂、食堂が谷に集まる修道院遺跡。初期キリスト教の幾何学文様や聖書の場面を描いたフレスコ画を巡って鑑賞できる。",
+      "coordinates": {
+        "latitude": 38.638744,
+        "longitude": 34.845289
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.638744%2C34.845289",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "カッパドキア空港",
+        "routeSummary": "羽田空港 → イスタンブール（1回乗継）→ カッパドキア空港 → 予約制シャトルまたはタクシーでギョレメ → 徒歩",
+        "estimatedDuration": "約17〜21時間",
+        "transferCount": 1,
+        "localTransport": "カッパドキア空港からフライト時刻に合わせたシャトル、タクシー、またはレンタカーでギョレメへ向かい、町から博物館入口まで徒歩またはタクシーを利用する。",
+        "note": "空港シャトルは航空便に合わせた運行のため事前予約と降車地確認が必要。開館時間、追加料金区画、宗教画エリアの撮影規則を公式サイトで確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/G%C3%B6reme_Open_Air_Museum_01.jpg/960px-G%C3%B6reme_Open_Air_Museum_01.jpg",
+        "alt": "奇岩の谷に岩窟教会が並ぶギョレメ野外博物館",
+        "width": 960,
+        "height": 640,
+        "author": "Bernard Gagnon",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:G%C3%B6reme_Open_Air_Museum_01.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Goreme Open Air Museum - Turkish Museums",
+          "url": "https://muze.gov.tr/muze-detay?DistId=grm&SectionId=grm01",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Cappadocia Airport Transportation - DHMI",
+          "url": "https://www.dhmi.gov.tr/Sayfalar/Havalimani/Kapadokya/Ulasim.aspx",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "old-tbilisi",
+      "slug": "old-tbilisi",
+      "name": "トビリシ旧市街",
+      "internalEnglishName": "Old Tbilisi",
+      "region": "middle-east-central-asia",
+      "country": "ジョージア",
+      "city": "トビリシ",
+      "categories": [
+        "建築・街並み",
+        "グルメ・市場"
+      ],
+      "description": "ムトクヴァリ川沿いに木彫りのバルコニー、教会、モスク、硫黄浴場、市場の路地が重なる歴史地区。アバノトゥバニからメイダン広場まで、多文化都市の街並みを歩ける。",
+      "coordinates": {
+        "latitude": 41.690144,
+        "longitude": 44.810857
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.690144%2C44.810857",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "トビリシ国際空港",
+        "routeSummary": "成田空港 → イスタンブール、ドーハ等（1回乗継）→ トビリシ国際空港 → 337番バスでFreedom SquareまたはBaratashvili通り → 徒歩",
+        "estimatedDuration": "約17〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港到着ロビー前から市営337番バスで中心部へ移動し、Freedom SquareまたはBaratashvili通りから旧市街を徒歩で巡る。24時間タクシーも利用できる。",
+        "note": "旧市街は石畳、坂、階段が多い。337番バスの最終時刻、交通カードまたは銀行カードの決済条件、浴場や宗教施設の利用規則を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Old_Tbilisi%2C_Georgia_%28Carrie_Kellenberger%2C_2010%29.jpg/960px-Old_Tbilisi%2C_Georgia_%28Carrie_Kellenberger%2C_2010%29.jpg",
+        "alt": "丘の斜面に家並みと教会が連なるトビリシ旧市街",
+        "width": 960,
+        "height": 640,
+        "author": "Carrie Kellenberger",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Tbilisi,_Georgia_(Carrie_Kellenberger,_2010).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Strolling Through the Old City of Tbilisi - Georgia Travel",
+          "url": "https://georgia.travel/strolling-through-the-old-city-of-tbilisi",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Transportation - Tbilisi International Airport",
+          "url": "https://airport.ge/transportation/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "kuwait-towers",
+      "slug": "kuwait-towers",
+      "name": "クウェート・タワー",
+      "internalEnglishName": "Kuwait Towers",
+      "region": "middle-east-central-asia",
+      "country": "クウェート",
+      "city": "クウェート市",
+      "categories": [
+        "建築・街並み"
+      ],
+      "description": "アラビア湾岸に立つ三基の塔からなるクウェートのランドマーク。青いモザイクで覆われた球体と細い塔身が特徴で、回転展望球から首都と湾岸の眺望を楽しめる。",
+      "coordinates": {
+        "latitude": 29.3891,
+        "longitude": 48.0038
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=29.3891%2C48.0038",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "クウェート国際空港",
+        "routeSummary": "成田空港 → ドーハまたはドバイ（1回乗継）→ クウェート国際空港 → 空港タクシーでArabian Gulf Roadのクウェート・タワー",
+        "estimatedDuration": "約15〜19時間",
+        "transferCount": 1,
+        "localTransport": "空港到着階から認可タクシーを利用してクウェート市東部のタワーへ向かう。市内ではタクシーまたは配車サービスでの移動が実用的。",
+        "note": "展望球とレストランは営業時間が異なり、祝日は変更されることがある。運航状況、空港タクシー、展望エリアの当日営業を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kuwait_Towers_%284730605035%29.jpg/960px-Kuwait_Towers_%284730605035%29.jpg",
+        "alt": "アラビア湾岸に立つ球体を備えたクウェート・タワー",
+        "width": 960,
+        "height": 640,
+        "author": "Courtney Collison",
+        "licenseName": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuwait_Towers_(4730605035).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Kuwait Towers - Touristic Enterprises Company",
+          "url": "https://www.tec.com.kw/Attractions/detail/Kuwait-Tower",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Taxis in Kuwait - Kuwait Government Online",
+          "url": "https://www.e.gov.kw/sites/kgoEnglish/Pages/Visitors/TourismInKuwait/MovingAroundInKuwaitTaxies.aspx",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "pamir-highway",
+      "slug": "pamir-highway",
+      "name": "パミール・ハイウェイ",
+      "internalEnglishName": "Pamir Highway",
+      "region": "middle-east-central-asia",
+      "country": "タジキスタン",
+      "city": "ムルガブ",
+      "categories": [
+        "自然・絶景",
+        "アクティビティ"
+      ],
+      "description": "パミール高原を横断する全長700キロメートル超の高地道路。荒涼とした台地、氷河峰、深い峡谷、青い湖を結び、標高4000メートルを超える峠を四輪駆動車でたどる。",
+      "coordinates": {
+        "latitude": 38.1689,
+        "longitude": 73.965
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.1689%2C73.965",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ドゥシャンベ国際空港",
+        "routeSummary": "成田空港 → タシュケントまたはアルマトイ等（1回乗継）→ ドゥシャンベ国際空港 → 四輪駆動車でクリャーブ、ホログを経由してパミール・ハイウェイ",
+        "estimatedDuration": "ムルガブまで約3〜4日",
+        "transferCount": 1,
+        "localTransport": "ドゥシャンベからホログ、ムルガブ方面へ、現地旅行会社の運転手付き四輪駆動車または乗合車で複数日に分けて移動する。",
+        "note": "GBAO許可、道路・国境の開閉、高山病対策、燃料と現金、宿泊を事前手配する。積雪や雪崩で一部道路が長期間閉鎖されるため最新情報が必須。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Panj_river_landscape.jpg/960px-Panj_river_landscape.jpg",
+        "alt": "パミール・ハイウェイ沿いに続くパンジ川の峡谷と岩山",
+        "width": 960,
+        "height": 720,
+        "author": "Benoît Vicart",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panj_river_landscape.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "The Pamir Highway - Travel to Tajikistan",
+          "url": "https://traveltajikistan.tj/en/the-pamir-highway-2/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Travel Information and Roads - Travel to Tajikistan",
+          "url": "https://traveltajikistan.tj/en/information/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "darvaza-gas-crater",
+      "slug": "darvaza-gas-crater",
+      "name": "ダルヴァザ・ガスクレーター",
+      "internalEnglishName": "Darvaza Gas Crater",
+      "region": "middle-east-central-asia",
+      "country": "トルクメニスタン",
+      "city": "ダルヴァザ",
+      "categories": [
+        "自然・絶景",
+        "アクティビティ"
+      ],
+      "description": "カラクム砂漠の陥没地で天然ガスが燃え続ける巨大なクレーター。直径約70メートルの窪地と砂漠の地平線を、運転手付き四輪駆動車のツアーで訪れる。",
+      "coordinates": {
+        "latitude": 40.2525,
+        "longitude": 58.4396
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=40.2525%2C58.4396",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "アシガバート国際空港",
+        "routeSummary": "羽田空港 → イスタンブール等（1回乗継）→ アシガバート国際空港 → 現地旅行会社の四輪駆動車でカラクム砂漠のクレーター",
+        "estimatedDuration": "約22〜28時間",
+        "transferCount": 1,
+        "localTransport": "アシガバートから認可旅行会社の運転手付き四輪駆動車で北へ進み、舗装路を外れて砂漠内のクレーターへ向かう。公共交通だけでの訪問には適さない。",
+        "note": "入国・招請手続き、ガイド、砂漠走行車、飲料水と防寒具を事前手配する。近年は炎の強度が低下しているため、現地状況と立入条件を直前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Darvaza_gas_crater%2C_J%C3%A4hennem_derwezesi%2C_Door_to_Hell%2C_Gates_of_Hell%2C_Derweze%2C_Turkmenistan_at_night.jpg/960px-Darvaza_gas_crater%2C_J%C3%A4hennem_derwezesi%2C_Door_to_Hell%2C_Gates_of_Hell%2C_Derweze%2C_Turkmenistan_at_night.jpg",
+        "alt": "夜の砂漠で赤く燃えるダルヴァザ・ガスクレーター",
+        "width": 960,
+        "height": 640,
+        "author": "Benjamin Goetzinger",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Darvaza_gas_crater,_J%C3%A4hennem_derwezesi,_Door_to_Hell,_Gates_of_Hell,_Derweze,_Turkmenistan_at_night.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Natural Sightseeing of the Karakum - Turkmenistan Government",
+          "url": "https://turkmenistan.gov.tm/index.php/en/post/3462/natural-sightseeing-of-the-karakum",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tourist Train Passengers Visit Darvaza - Turkmenistan Government",
+          "url": "https://turkmenistan.gov.tm/en/post/82440/passengers-orient-silk-road-express-tourist-train-visited-turkmenistan",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Reducing Methane Emissions at Darvaza - Turkmenistan Government",
+          "url": "https://turkmenistan.gov.tm/index.php/en/post/95714/turkmenistans-achievements-reducing-methane-emissions-announced-tesc-2025",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "dead-sea-jordan",
+      "slug": "dead-sea-jordan",
+      "name": "死海（ヨルダン側）",
+      "internalEnglishName": "Dead Sea Jordan",
+      "region": "middle-east-central-asia",
+      "country": "ヨルダン",
+      "city": "スウェイメ",
+      "categories": [
+        "ビーチ・リゾート",
+        "自然・絶景"
+      ],
+      "description": "海面より400メートル以上低い場所にある高塩分の湖。ヨルダン側のスウェイメ周辺にはビーチとスパが集まり、体が自然に浮く湖水浴と塩の結晶がつくる景観を体験できる。",
+      "coordinates": {
+        "latitude": 31.719,
+        "longitude": 35.584
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=31.719%2C35.584",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "クィーンアリア国際空港",
+        "routeSummary": "成田空港 → ドーハまたはドバイ等（1回乗継）→ クィーンアリア国際空港 → 予約送迎、タクシー、またはレンタカーでスウェイメの死海沿岸",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港から死海沿岸までは約60キロメートルで、ホテル送迎、事前手配タクシー、またはレンタカーを利用する。",
+        "note": "指定ビーチまたは宿泊施設の遊泳区域を利用し、目や傷口に湖水を入れない。水位低下による道路・海岸アクセス、気温、施設の営業を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dead_Sea%2C_Jordan_02.jpg/960px-Dead_Sea%2C_Jordan_02.jpg",
+        "alt": "ヨルダン側の死海沿岸に広がる白い塩の結晶と青い湖面",
+        "width": 960,
+        "height": 720,
+        "author": "Bernard Gagnon",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dead_Sea,_Jordan_02.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "The Dead Sea - Jordan Tourism Board",
+          "url": "https://en.visitjordan.com/Wheretogo/The-Dead-Sea?experienceId=9&tabId=81",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Jordan Meeting Planner's Guide - Jordan Tourism Board",
+          "url": "https://international.visitjordan.com/uploads/documents/JordanMPG_LR.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "souq-waqif",
+      "slug": "souq-waqif",
+      "name": "スーク・ワキーフ",
+      "internalEnglishName": "Souq Waqif",
+      "region": "middle-east-central-asia",
+      "country": "カタール",
+      "city": "ドーハ",
+      "categories": [
+        "グルメ・市場"
+      ],
+      "description": "ドーハ中心部に復元された伝統市場。土壁風の建物と細い路地に香辛料、衣料、工芸品、金製品、飲食店が並び、夕方から夜にかけて活気ある街歩きを楽しめる。",
+      "coordinates": {
+        "latitude": 25.2867,
+        "longitude": 51.5333
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2867%2C51.5333",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ハマド国際空港",
+        "routeSummary": "成田空港 → ハマド国際空港（直行便・約12〜13時間）→ ドーハメトロ・レッドラインでMsheireb駅 → ゴールドラインでSouq Waqif駅 → 徒歩",
+        "estimatedDuration": "約14〜16時間",
+        "transferCount": 0,
+        "localTransport": "空港ターミナル1駅からレッドラインに乗り、Msheireb駅でゴールドラインへ乗り換えてSouq Waqif駅で下車する。",
+        "note": "店舗は昼休みを挟み夕方に再開する場合が多く、金曜午前はメトロや店舗の時間が変わる。最新運行時間と個別店舗の営業を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Souq_Waqif%2C_Doha%2C_Catar%2C_2013-08-05%2C_DD_107.JPG/960px-Souq_Waqif%2C_Doha%2C_Catar%2C_2013-08-05%2C_DD_107.JPG",
+        "alt": "伝統的な建物と店舗が並ぶスーク・ワキーフの路地",
+        "width": 960,
+        "height": 711,
+        "author": "Diego Delso",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Souq_Waqif,_Doha,_Catar,_2013-08-05,_DD_107.JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Top Things to Do in Souq Waqif - Visit Qatar",
+          "url": "https://visitqatar.com/intl-en/things-to-do/shopping/souqs/souq-waqif",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Travel on the Doha Metro - Visit Qatar",
+          "url": "https://visitqatar.com/intl-en/plan-your-trip/getting-around/doha-metro",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "sheikh-zayed-grand-mosque",
+      "slug": "sheikh-zayed-grand-mosque",
+      "name": "シェイク・ザイード・グランド・モスク",
+      "internalEnglishName": "Sheikh Zayed Grand Mosque",
+      "region": "middle-east-central-asia",
+      "country": "アラブ首長国連邦",
+      "city": "アブダビ",
+      "categories": [
+        "建築・街並み",
+        "アート・文化"
+      ],
+      "description": "白い大理石のドームとミナレットが水盤に映るアブダビの大モスク。中庭の花模様、精緻な石材装飾、巨大な礼拝空間を、無料の文化ツアーや電子ガイドで学べる。",
+      "coordinates": {
+        "latitude": 24.409819,
+        "longitude": 54.476814
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=24.409819%2C54.476814",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ザイード国際空港",
+        "routeSummary": "成田空港 → ザイード国際空港（直行便・約11〜12時間）→ タクシーまたはアブダビ市内バスでモスク最寄り → Al Salam Gate 6",
+        "estimatedDuration": "約13〜15時間",
+        "transferCount": 0,
+        "localTransport": "空港からタクシーで直接向かうか、市内交通へ乗り継ぎモスク近くのバス停から歩く。モスクにはタクシー乗降場所がある。",
+        "note": "無料のオンライン入場パスを事前取得し、長袖・足首まで覆う服装と女性のスカーフを準備する。金曜、ラマダン、宗教行事は見学時間が変わる。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sheikh_Zayed_Grand_Mosque_%40_Abu_Dhabi_%2815856602738%29.jpg/960px-Sheikh_Zayed_Grand_Mosque_%40_Abu_Dhabi_%2815856602738%29.jpg",
+        "alt": "青空の下に白いドームとミナレットが並ぶシェイク・ザイード・グランド・モスク",
+        "width": 960,
+        "height": 720,
+        "author": "Guilhem Vellut",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sheikh_Zayed_Grand_Mosque_@_Abu_Dhabi_(15856602738).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Sheikh Zayed Grand Mosque Centre",
+          "url": "https://www.szgmc.gov.ae/en/Home",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting Here - Sheikh Zayed Grand Mosque Centre",
+          "url": "https://www.szgmc.gov.ae/en/worshippers/en-to-getting-to-the-mosque",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "bukhara-historic-centre",
+      "slug": "bukhara-historic-centre",
+      "name": "ブハラ歴史地区",
+      "internalEnglishName": "Historic Centre of Bukhara",
+      "region": "middle-east-central-asia",
+      "country": "ウズベキスタン",
+      "city": "ブハラ",
+      "categories": [
+        "建築・街並み",
+        "歴史・遺跡"
+      ],
+      "description": "シルクロードの交易とイスラム文化の中心として2000年以上の歴史を持つ旧市街。カラーン・ミナレット、モスク、マドラサ、交易ドームが残る街路を歩いて巡れる。",
+      "coordinates": {
+        "latitude": 39.77616,
+        "longitude": 64.41492
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.77616%2C64.41492",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "タシュケント国際空港",
+        "routeSummary": "成田空港 → ソウル、アルマトイ等（1回乗継）→ タシュケント国際空港 → タシュケント中央駅 → 高速列車でブハラ駅 → タクシー",
+        "estimatedDuration": "約19〜24時間",
+        "transferCount": 1,
+        "localTransport": "タシュケント中央駅からブハラ行き列車を利用し、郊外のブハラ1駅から旧市街までタクシーで移動する。旧市街内は徒歩で巡る。",
+        "note": "列車は満席になることがあるため事前購入する。列車番号と利用駅、旧市街の車両進入制限、各宗教施設の入場時間を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bukhara_Kalyan_Minaret_Mosque_and_Amir_Alimkhaon_Madrasa_1.jpg/960px-Bukhara_Kalyan_Minaret_Mosque_and_Amir_Alimkhaon_Madrasa_1.jpg",
+        "alt": "ブハラ旧市街のカラーン・ミナレット、モスク、マドラサ",
+        "width": 960,
+        "height": 1280,
+        "author": "Ymblanter",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukhara_Kalyan_Minaret_Mosque_and_Amir_Alimkhaon_Madrasa_1.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Bukhara - Uzbekistan Travel",
+          "url": "https://uzbekistan.travel/en/i/bukhara/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Uzbekistan Railways Passenger Train Schedule",
+          "url": "https://eticket.railway.uz/en/pages/schedule",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
     }
   ]
 }

@@ -114,6 +114,1440 @@
         }
       ],
       "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "itsukushima-shrine",
+      "slug": "itsukushima-shrine",
+      "name": "厳島神社",
+      "internalEnglishName": "Itsukushima Shrine",
+      "region": "asia",
+      "country": "日本",
+      "city": "廿日市",
+      "categories": ["歴史・遺跡", "建築・街並み", "自然・絶景"],
+      "description": "瀬戸内海の潮の満ち引きと一体になるように築かれた神社。海上に立つ朱塗りの大鳥居と社殿が、時間帯ごとに異なる景観を見せる。",
+      "coordinates": {
+        "latitude": 34.295833,
+        "longitude": 132.319722
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=34.295833%2C132.319722",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "広島空港",
+        "routeSummary": "羽田空港 → 広島空港（直行便・約1時間30分）→ リムジンバスで広島駅 → JR山陽本線で宮島口駅 → フェリー → 徒歩",
+        "estimatedDuration": "約4〜5時間",
+        "transferCount": 0,
+        "localTransport": "広島駅からJR山陽本線で宮島口駅へ約30分、徒歩で桟橋へ移動しフェリーで約10分。宮島桟橋から神社まで徒歩約15分。",
+        "note": "航空便、空港バス、JR、フェリーの運行状況と潮位を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20190318_Itsukushima_Shrine.jpg/1280px-20190318_Itsukushima_Shrine.jpg",
+        "alt": "海上に立つ厳島神社の朱塗りの大鳥居",
+        "width": 1280,
+        "height": 853,
+        "author": "Balon Greyjoy",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:20190318_Itsukushima_Shrine.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Itsukushima Shrine | The Official Guide to Hiroshima",
+          "url": "https://dive-hiroshima.com/en/explore/1469/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "From Hiroshima Station to Miyajima",
+          "url": "https://dive-hiroshima.com/en/information/access-miyajima/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "gyeongbokgung-palace",
+      "slug": "gyeongbokgung-palace",
+      "name": "景福宮",
+      "internalEnglishName": "Gyeongbokgung Palace",
+      "region": "asia",
+      "country": "韓国",
+      "city": "ソウル",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "朝鮮王朝の始まりを伝えるソウル最大規模の王宮。正殿の勤政殿や池に面した慶会楼などから、王宮建築と宮廷文化に触れられる。",
+      "coordinates": {
+        "latitude": 37.579617,
+        "longitude": 126.977041
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=37.579617%2C126.977041",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "金浦国際空港",
+        "routeSummary": "羽田空港 → 金浦国際空港（直行便・約2時間30分）→ 空港鉄道・地下鉄を乗り継ぎ → 景福宮駅 → 徒歩",
+        "estimatedDuration": "約4〜5時間",
+        "transferCount": 0,
+        "localTransport": "金浦空港駅から鉄道と地下鉄を乗り継ぎ、地下鉄3号線の景福宮駅へ。5番出口から約200メートル歩く。",
+        "note": "航空便と鉄道の運行状況、王宮の休館日を出発前に公式情報で確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gyeongbokgung_Palace.jpg/1280px-Gyeongbokgung_Palace.jpg",
+        "alt": "山並みを背景に立つ景福宮の勤政殿",
+        "width": 1280,
+        "height": 960,
+        "author": "Janine Dupree",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeongbokgung_Palace.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Gyeongbokgung Palace - Seoul Metropolitan Government",
+          "url": "https://english.seoul.go.kr/gyeongbokgung-palace/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Gyeongbokgung Palace | The Official Travel Guide to Seoul",
+          "url": "https://english.visitseoul.net/attractions/Gyeongbokgung-Palace/ENP000072",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "victoria-peak",
+      "slug": "victoria-peak",
+      "name": "ヴィクトリア・ピーク",
+      "internalEnglishName": "Victoria Peak",
+      "region": "asia",
+      "country": "中国",
+      "city": "香港",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "香港島の高台からヴィクトリア・ハーバーと高層ビル群を一望できる展望地。歴史あるピークトラムの急勾配の車窓も旅の見どころ。",
+      "coordinates": {
+        "latitude": 22.275884,
+        "longitude": 114.145532
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=22.275884%2C114.145532",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "香港国際空港",
+        "routeSummary": "羽田空港 → 香港国際空港（直行便・約5時間）→ エアポート・エクスプレスで香港駅 → 中環から徒歩または公共交通でピークトラム山麓駅 → ピークトラム",
+        "estimatedDuration": "約7〜8時間",
+        "transferCount": 0,
+        "localTransport": "香港駅・中環エリアからガーデンロードのピークトラム山麓駅へ移動し、ピークトラムで山頂側へ上る。",
+        "note": "航空便、エアポート・エクスプレス、ピークトラムの運行状況を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/View_of_Hong_Kong_from_Victoria_Peak.jpg/1280px-View_of_Hong_Kong_from_Victoria_Peak.jpg",
+        "alt": "ヴィクトリア・ピークから見下ろす香港の高層ビル群と港",
+        "width": 1280,
+        "height": 856,
+        "author": "Dennis Tang",
+        "licenseName": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Hong_Kong_from_Victoria_Peak.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Getting To The Peak - Location",
+          "url": "https://www.thepeak.com.hk/en/getting-to-the-peak/location",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Airport Express | Hong Kong International Airport",
+          "url": "https://www.hongkongairport.com/en/transport/to-from-airport/airport-express.page",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "national-palace-museum-taipei",
+      "slug": "national-palace-museum-taipei",
+      "name": "国立故宮博物院",
+      "internalEnglishName": "National Palace Museum, Taipei",
+      "region": "asia",
+      "country": "台湾",
+      "city": "台北",
+      "categories": ["アート・文化", "歴史・遺跡"],
+      "description": "歴代王朝に由来する中国美術の膨大なコレクションを収蔵する博物館。書画、青銅器、陶磁器、玉器などを通して数千年の文化をたどれる。",
+      "coordinates": {
+        "latitude": 25.102355,
+        "longitude": 121.548493
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=25.102355%2C121.548493",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "台北松山空港",
+        "routeSummary": "羽田空港 → 台北松山空港（直行便・約3時間30分）→ 台北MRTで士林駅 → 路線バス → 国立故宮博物院",
+        "estimatedDuration": "約5〜6時間",
+        "transferCount": 0,
+        "localTransport": "MRT淡水信義線の士林駅1番出口から中正路の停留所へ歩き、紅30などの路線バスで約15分。",
+        "note": "航空便、MRT、路線バスの運行状況と展示室の開館状況を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/National_Palace_Museum%2C_Taipei.jpg/1280px-National_Palace_Museum%2C_Taipei.jpg",
+        "alt": "階段の上に立つ台北の国立故宮博物院本館",
+        "width": 1280,
+        "height": 853,
+        "author": "Jason Zhang",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Palace_Museum,_Taipei.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "National Palace Museum - Old Collection & New Additions",
+          "url": "https://www.npm.gov.tw/Articles.aspx?l=2&sno=03001513",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "National Palace Museum - Public transportation",
+          "url": "https://www.npm.gov.tw/Articles.aspx?l=2&sno=02007007",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "ha-long-bay",
+      "slug": "ha-long-bay",
+      "name": "ハロン湾",
+      "internalEnglishName": "Ha Long Bay",
+      "region": "asia",
+      "country": "ベトナム",
+      "city": "ハロン",
+      "categories": ["自然・絶景", "アクティビティ", "ビーチ・リゾート"],
+      "description": "エメラルド色の海に無数の石灰岩の島々が浮かぶ世界遺産。クルーズやカヤックで、奇岩、洞窟、水上集落が織りなす景観を巡れる。",
+      "coordinates": {
+        "latitude": 20.832778,
+        "longitude": 107.161111
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=20.832778%2C107.161111",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ノイバイ国際空港",
+        "routeSummary": "羽田空港 → ノイバイ国際空港（直行便・約5時間30分）→ ハノイ市内または空港からバス・送迎車でハロン市 → 港からクルーズ船",
+        "estimatedDuration": "約9〜11時間",
+        "transferCount": 0,
+        "localTransport": "ハノイ発着の送迎付きクルーズ、またはハロン市までのバスと港までのタクシーを利用する。湾内観光は船で行う。",
+        "note": "航空便、道路交通、クルーズの出港地と運航可否は天候で変わるため、催行会社の案内を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ha_Long_Bay%2C_Vietnam.jpg/1280px-Ha_Long_Bay%2C_Vietnam.jpg",
+        "alt": "ハロン湾の海上に連なる石灰岩の島々",
+        "width": 1280,
+        "height": 853,
+        "author": "Vyacheslav Argenberg",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ha_Long_Bay,_Vietnam.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Ha Long Bay - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/672/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Ha Long | Vietnam Tourism",
+          "url": "https://vietnam.travel/places-to-go/northern-vietnam/ha-long",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "ayutthaya-historical-park",
+      "slug": "ayutthaya-historical-park",
+      "name": "アユタヤ歴史公園",
+      "internalEnglishName": "Ayutthaya Historical Park",
+      "region": "asia",
+      "country": "タイ",
+      "city": "アユタヤ",
+      "categories": ["歴史・遺跡", "建築・街並み", "アクティビティ"],
+      "description": "かつて国際交易で栄えたアユタヤ王朝の都の跡。仏塔や寺院遺構が旧市街に点在し、自転車などで巡りながら往時の都市景観をたどれる。",
+      "coordinates": {
+        "latitude": 14.355814,
+        "longitude": 100.568334
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.355814%2C100.568334",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "スワンナプーム国際空港",
+        "routeSummary": "羽田空港 → スワンナプーム国際空港（直行便・約7時間）→ バンコク市内 → 鉄道またはバス・バンでアユタヤ → 市内交通",
+        "estimatedDuration": "約10〜12時間",
+        "transferCount": 0,
+        "localTransport": "バンコクから鉄道、公共バスまたはバンでアユタヤへ移動し、遺跡群は自転車、トゥクトゥクなどで巡る。",
+        "note": "航空便とバンコク市内交通、アユタヤ行き列車・バスの運行状況を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ayutthaya_Historical_Park_%2844637915940%29.jpg/1280px-Ayutthaya_Historical_Park_%2844637915940%29.jpg",
+        "alt": "青空の下に残るアユタヤ歴史公園の仏塔と煉瓦造りの遺構",
+        "width": 1280,
+        "height": 853,
+        "author": "Gary Todd",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ayutthaya_Historical_Park_(44637915940).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Historic City of Ayutthaya - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/576/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Slow Lane in Ayutthaya | Tourism Authority of Thailand",
+          "url": "https://www.tourismthailand.org/Articles/slow-lane-in-ayutthaya",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "george-town-penang",
+      "slug": "george-town-penang",
+      "name": "ジョージタウン歴史地区",
+      "internalEnglishName": "George Town Historic City",
+      "region": "asia",
+      "country": "マレーシア",
+      "city": "ジョージタウン",
+      "categories": ["建築・街並み", "アート・文化", "グルメ・市場"],
+      "description": "海峡交易の歴史が残るペナン島の旧市街。ショップハウス、寺院、モスク、教会、屋台文化が近接し、多文化都市の暮らしを歩いて味わえる。",
+      "coordinates": {
+        "latitude": 5.414167,
+        "longitude": 100.32875
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=5.414167%2C100.328750",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ペナン国際空港",
+        "routeSummary": "成田空港 → クアラルンプール国際空港（1回乗継）→ ペナン国際空港 → 路線バスまたはタクシーでジョージタウン",
+        "estimatedDuration": "約11〜15時間",
+        "transferCount": 1,
+        "localTransport": "空港からジョージタウン中心部へ路線バスまたはタクシーで移動し、歴史地区内は徒歩や無料CATバスを利用する。",
+        "note": "乗継便と路線バスの運行状況を確認し、道路混雑を見込んで余裕を持つ。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Street_in_George_Town_-_Penang.jpg/1280px-Street_in_George_Town_-_Penang.jpg",
+        "alt": "ジョージタウン歴史地区に並ぶ色彩豊かなショップハウス",
+        "width": 1280,
+        "height": 960,
+        "author": "Christophe95",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Street_in_George_Town_-_Penang.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Melaka and George Town, Historic Cities of the Straits of Malacca",
+          "url": "https://whc.unesco.org/en/list/1223",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Transportation | myPenang",
+          "url": "https://www.mypenang.gov.my/about-penang/transportation/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "borobudur-temple",
+      "slug": "borobudur-temple",
+      "name": "ボロブドゥール寺院遺跡群",
+      "internalEnglishName": "Borobudur Temple Compounds",
+      "region": "asia",
+      "country": "インドネシア",
+      "city": "マゲラン",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "ジャワ島中部に築かれた巨大な仏教遺跡。方形の壇から円形壇へ重なる構成、精緻な浮彫、釣鐘形のストゥーパが仏教宇宙観を表す。",
+      "coordinates": {
+        "latitude": -7.607874,
+        "longitude": 110.203751
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-7.607874%2C110.203751",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ジョグジャカルタ国際空港",
+        "routeSummary": "成田空港 → ジャカルタ（1回乗継）→ ジョグジャカルタ国際空港 → 空港連絡交通でジョグジャカルタ市内 → バスまたは車でボロブドゥール",
+        "estimatedDuration": "約13〜17時間",
+        "transferCount": 1,
+        "localTransport": "空港からジョグジャカルタ市内へ移動し、ジョンボル・バスターミナルなどからバス、またはタクシー・送迎車で約1時間30分。",
+        "note": "国際・国内線の乗継、空港連絡交通、寺院への入場方法を出発前に公式情報で確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Borobudur_temple.jpg/1280px-Borobudur_temple.jpg",
+        "alt": "ボロブドゥール寺院上層部に並ぶ釣鐘形のストゥーパと仏像",
+        "width": 1280,
+        "height": 853,
+        "author": "Syselpunk",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Borobudur_temple.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Borobudur Temple Compounds - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/592/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "The Borobudur Temple: Indonesia's Main Tourism Attraction",
+          "url": "https://www.indonesia.travel/id/en/travel-ideas/heritage/candi-borobudur",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "chocolate-hills",
+      "slug": "chocolate-hills",
+      "name": "チョコレート・ヒルズ",
+      "internalEnglishName": "Chocolate Hills",
+      "region": "asia",
+      "country": "フィリピン",
+      "city": "カルメン",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "ボホール島中央部に円錐形の丘が幾重にも連なるカルスト地形。乾季には草が茶色に変わり、チョコレートのような景観になる。",
+      "coordinates": {
+        "latitude": 9.829574,
+        "longitude": 124.138353
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=9.829574%2C124.138353",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ボホール・パングラオ国際空港",
+        "routeSummary": "成田空港 → マニラ（1回乗継）→ ボホール・パングラオ国際空港 → タグビララン経由の車またはバスでカルメン → 展望施設",
+        "estimatedDuration": "約10〜14時間",
+        "transferCount": 1,
+        "localTransport": "空港またはパングラオから車で約2時間。公共交通はタグビラランのダオ統合バスターミナルからカルメン方面のバスを利用する。",
+        "note": "国内線の乗継と島内交通の運行状況を確認し、復路の移動時間にも余裕を持つ。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bohol_-_Chocolate_Hills.jpg/1280px-Bohol_-_Chocolate_Hills.jpg",
+        "alt": "緑に覆われた円錐形の丘が幾重にも続くボホール島のチョコレート・ヒルズ",
+        "width": 1280,
+        "height": 853,
+        "author": "Theglennpalacio",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bohol_-_Chocolate_Hills.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Bohol Island UNESCO Global Geopark",
+          "url": "https://www.unesco.org/en/iggp/geoparks/bohol-island",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Chocolate Hills, Bohol | Love Philippines",
+          "url": "https://philippines.travel/destinations/chocolate-hills-bohol/index",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "taj-mahal",
+      "slug": "taj-mahal",
+      "name": "タージ・マハル",
+      "internalEnglishName": "Taj Mahal",
+      "region": "asia",
+      "country": "インド",
+      "city": "アグラ",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "ムガル皇帝シャー・ジャハーンが妃を偲んで築いた白大理石の霊廟。中央ドーム、四基のミナレット、庭園が緻密な対称性を形づくる。",
+      "coordinates": {
+        "latitude": 27.175015,
+        "longitude": 78.042155
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=27.175015%2C78.042155",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "インディラ・ガンディー国際空港",
+        "routeSummary": "成田空港 → インディラ・ガンディー国際空港（直行便・約10時間）→ デリー市内 → 都市間鉄道または車でアグラ → 市内交通でタージ・マハル",
+        "estimatedDuration": "約14〜17時間",
+        "transferCount": 0,
+        "localTransport": "デリーからアグラ・カント駅まで都市間鉄道、または高速道路経由の車で移動し、駅や市内から認可交通で入場ゲートへ向かう。",
+        "note": "航空便、長距離鉄道・道路交通、入場ゲート周辺の交通規制を出発前に公式情報で確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Taj_Mahal_frontal.jpg/1280px-Taj_Mahal_frontal.jpg",
+        "alt": "正面の庭園と水路の向こうに立つ白大理石のタージ・マハル",
+        "width": 1280,
+        "height": 853,
+        "author": "Marsmux",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_frontal.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Taj Mahal - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/252/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Magnificent World Heritage Site Taj Mahal | Incredible India",
+          "url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra/magnificent-world-heritage-site-taj-mahal",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "nishiki-market",
+      "slug": "nishiki-market",
+      "name": "錦市場",
+      "internalEnglishName": "Nishiki Market",
+      "region": "asia",
+      "country": "日本",
+      "city": "京都",
+      "categories": ["グルメ・市場", "アート・文化", "建築・街並み"],
+      "description": "京都の台所として親しまれる全長約400メートルの市場。京野菜、魚、乾物、湯葉、惣菜などの店が細いアーケードに連なり、京都の食文化を間近に味わえる。",
+      "coordinates": {
+        "latitude": 35.005042,
+        "longitude": 135.767181
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35.005042%2C135.767181",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "大阪国際空港（伊丹空港）",
+        "routeSummary": "羽田空港 → 大阪国際空港（直行便・約1時間10分）→ 空港リムジンバスで京都駅 → 地下鉄烏丸線で四条駅 → 徒歩",
+        "estimatedDuration": "約3〜4時間",
+        "transferCount": 0,
+        "localTransport": "京都駅から地下鉄烏丸線で四条駅まで約4分。地上へ出て四条通を東へ約5分歩き、高倉通から市場へ入る。",
+        "note": "航空便、空港バス、地下鉄の運行状況を確認し、混雑時は市場内で立ち止まらず、購入品は各店舗の案内に従って飲食する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nishiki_Market%2C_Kyoto_%2853970899359%29.jpg/1280px-Nishiki_Market%2C_Kyoto_%2853970899359%29.jpg",
+        "alt": "買い物客と店舗が並ぶ京都・錦市場のアーケード",
+        "width": 1280,
+        "height": 924,
+        "author": "Sergiy Galyonkin",
+        "licenseName": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nishiki_Market,_Kyoto_(53970899359).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Kyoto Nishiki Food Market | Kyoto Travel",
+          "url": "https://kyoto.travel/en/destinations/kyoto-nishiki-food-market/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Comfortable access to Central Kyoto City (Nishiki Market) | Kyoto Travel",
+          "url": "https://kyoto.travel/en/getting-around/comfortable-access-to-central-kyoto-city-nishiki-market/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "jagalchi-market",
+      "slug": "jagalchi-market",
+      "name": "チャガルチ市場",
+      "internalEnglishName": "Jagalchi Market",
+      "region": "asia",
+      "country": "韓国",
+      "city": "釜山",
+      "categories": ["グルメ・市場", "アート・文化"],
+      "description": "釜山港の海辺に広がる韓国有数の水産市場。鮮魚や乾物が並ぶ活気ある売り場を歩き、その場で刺身や焼き魚などの海鮮料理を味わえる。",
+      "coordinates": {
+        "latitude": 35.0967,
+        "longitude": 129.0306
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35.096700%2C129.030600",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "金海国際空港",
+        "routeSummary": "成田空港 → 金海国際空港（直行便・約2時間30分）→ 釜山-金海軽電鉄と地下鉄を乗り継ぎ → チャガルチ駅 → 徒歩",
+        "estimatedDuration": "約5〜6時間",
+        "transferCount": 0,
+        "localTransport": "金海国際空港から軽電鉄で沙上駅へ進み、地下鉄2号線と1号線を乗り継ぐ。チャガルチ駅10番出口または南浦駅2番出口から徒歩約6分。",
+        "note": "航空便と都市鉄道の運行状況、市場の休業日を出発前に確認する。店舗ごとに営業時間や会計方法が異なる。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Busan_Jagalchi_Market.jpg/1280px-Busan_Jagalchi_Market.jpg",
+        "alt": "海辺に立つ釜山チャガルチ市場の建物と周辺の港",
+        "width": 1280,
+        "height": 720,
+        "author": "Altostratus",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan_Jagalchi_Market.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Jagalchi Market | VISITKOREA",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=69318",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "At Jagalchi Market, Oiso, Boiso, and Saiso! | Visit Busan",
+          "url": "https://www.visitbusan.net/en/index.do?lang_cd=en&menuCd=DOM_000000301003001000&uc_seq=412",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "fengjia-night-market",
+      "slug": "fengjia-night-market",
+      "name": "逢甲夜市",
+      "internalEnglishName": "Fengjia Night Market",
+      "region": "asia",
+      "country": "台湾",
+      "city": "台中",
+      "categories": ["グルメ・市場", "アート・文化"],
+      "description": "逢甲大学周辺の通りに屋台と店舗が集まる台中を代表する夜市。台湾小吃から創作スナック、衣料品までが密集し、夜の街の活気を楽しめる。",
+      "coordinates": {
+        "latitude": 24.175923,
+        "longitude": 120.64549
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=24.175923%2C120.645490",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "台湾桃園国際空港",
+        "routeSummary": "成田空港 → 台湾桃園国際空港（直行便・約4時間）→ 空港MRTで高鉄桃園駅 → 台湾高速鉄道で高鉄台中駅 → 路線バスまたはタクシー",
+        "estimatedDuration": "約7〜9時間",
+        "transferCount": 0,
+        "localTransport": "高鉄台中駅から市内バスまたはタクシーで西屯区の逢甲大学・文華路周辺へ。最寄りの複数のバス停から徒歩で市場へ入る。",
+        "note": "航空便、高速鉄道、路線バスの運行状況を確認する。店舗ごとに営業日と時間が異なり、夕方以降は周辺道路が混雑しやすい。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/1_fengjia_night_market_2019.jpg/1280px-1_fengjia_night_market_2019.jpg",
+        "alt": "看板と屋台の明かりでにぎわう台中の逢甲夜市",
+        "width": 1280,
+        "height": 854,
+        "author": "Chensiyuan",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_fengjia_night_market_2019.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Fengchia Night Market | Taichung Tourism and Travel Bureau",
+          "url": "https://travel.taichung.gov.tw/en/attractions/intro/850",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Fengjia Night Market | Taiwan Tourism Administration",
+          "url": "https://eng.taiwan.net.tw/m1.aspx?id=5424&sNo=0002112",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "boracay-white-beach",
+      "slug": "boracay-white-beach",
+      "name": "ボラカイ島ホワイトビーチ",
+      "internalEnglishName": "White Beach, Boracay",
+      "region": "asia",
+      "country": "フィリピン",
+      "city": "マライ",
+      "categories": ["ビーチ・リゾート", "アクティビティ", "自然・絶景"],
+      "description": "ボラカイ島西岸に約4キロメートル続く白砂のビーチ。遠浅の海と夕景を眺めながら泳ぎ、パラウ船や各種マリンアクティビティも楽しめる。",
+      "coordinates": {
+        "latitude": 11.9674,
+        "longitude": 121.9248
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=11.967400%2C121.924800",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ゴドフレド・P・ラモス空港（カティクラン空港）",
+        "routeSummary": "成田空港 → マニラ（1回乗継）→ カティクラン空港 → 車でカティクラン港 → 連絡船でボラカイ島 → eトライシクル",
+        "estimatedDuration": "約9〜12時間",
+        "transferCount": 1,
+        "localTransport": "カティクラン空港から港まで車で約10分。乗船手続き後に連絡船で島へ渡り、到着港からeトライシクルでホワイトビーチ各ステーションへ移動する。",
+        "note": "国内線と連絡船の接続、入島手続き、認可宿泊施設の予約要件を出発前に確認する。海況により船の運航が変わる。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/White_beach_on_boracay_island.jpg/1280px-White_beach_on_boracay_island.jpg",
+        "alt": "白い砂浜と青い海が広がるボラカイ島ホワイトビーチ",
+        "width": 1280,
+        "height": 768,
+        "author": "Choi2451",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_beach_on_boracay_island.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Boracay | Love Philippines",
+          "url": "https://philippines.travel/destinations/boracay",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Philippines Beaches | Love Philippines",
+          "url": "https://philippines.travel/activities/beache/index",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "komodo-national-park",
+      "slug": "komodo-national-park",
+      "name": "コモド国立公園",
+      "internalEnglishName": "Komodo National Park",
+      "region": "asia",
+      "country": "インドネシア",
+      "city": "ラブアンバジョ",
+      "categories": ["自然・絶景", "アクティビティ", "ビーチ・リゾート"],
+      "description": "コモドオオトカゲが生息する火山島と豊かな海域からなる世界遺産。乾いた丘陵、白砂の浜、サンゴ礁を、ガイド付きトレッキングやボートで巡れる。",
+      "coordinates": {
+        "latitude": -8.54333,
+        "longitude": 119.48944
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-8.543330%2C119.489440",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "コモド国際空港",
+        "routeSummary": "成田空港 → ジャカルタまたはバリ（1回乗継）→ コモド国際空港 → 車でラブアンバジョ港 → 公認ツアーの船で国立公園",
+        "estimatedDuration": "約13〜18時間",
+        "transferCount": 1,
+        "localTransport": "空港からラブアンバジョ市内と港へ車で移動し、島々へは公認ガイドを伴う日帰り船または宿泊船を利用する。",
+        "note": "国内線、船、入園手続きは天候や保全措置で変更される。島ごとの上陸可否とガイド要件を催行会社・管理当局に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Padar_Island%2C_Komodo_National_Park%2C_Indonesia%2C_20250822_0927_2650.jpg/1280px-Padar_Island%2C_Komodo_National_Park%2C_Indonesia%2C_20250822_0927_2650.jpg",
+        "alt": "コモド国立公園パダール島の入り組んだ湾と乾いた丘陵",
+        "width": 1280,
+        "height": 850,
+        "author": "Jakub Hałun",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Padar_Island,_Komodo_National_Park,_Indonesia,_20250822_0927_2650.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Komodo National Park - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/609/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Komodo National Park: A World Heritage Treasure of Indonesia",
+          "url": "https://www.indonesia.travel/us/en/destination/bali-nusa-tenggara/east-nusa-tenggara/labuan-bajo---komodo-national-park",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "railay-beach",
+      "slug": "railay-beach",
+      "name": "ライレイ・ビーチ",
+      "internalEnglishName": "Railay Beach",
+      "region": "asia",
+      "country": "タイ",
+      "city": "クラビ",
+      "categories": ["ビーチ・リゾート", "自然・絶景", "アクティビティ"],
+      "description": "石灰岩の断崖に囲まれ、海からのみ入れるクラビの半島のビーチ。白砂の浜で過ごすほか、世界各地の旅行者を引きつけるロッククライミングも楽しめる。",
+      "coordinates": {
+        "latitude": 8.0114,
+        "longitude": 98.8372
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=8.011400%2C98.837200",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "クラビ国際空港",
+        "routeSummary": "羽田空港 → バンコク（1回乗継）→ クラビ国際空港 → 車でアオナンまたはアオナンマオの船着場 → ロングテールボート",
+        "estimatedDuration": "約11〜15時間",
+        "transferCount": 1,
+        "localTransport": "空港から車でアオナンまたはアオナンマオへ移動し、海況と宿泊エリアに合う船着場からロングテールボートでライレイへ渡る。",
+        "note": "航空便とボートの運航状況を確認する。大きな荷物での乗降や干潮時の徒歩移動に備え、濡れてもよい靴と防水対策を用意する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Railay%2C_Krabi%2C_Thailand.jpg/1280px-Railay%2C_Krabi%2C_Thailand.jpg",
+        "alt": "石灰岩の断崖と青い海に囲まれたクラビのライレイ・ビーチ",
+        "width": 1280,
+        "height": 853,
+        "author": "Vyacheslav Argenberg",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Railay,_Krabi,_Thailand.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Krabi | Tourism Authority of Thailand",
+          "url": "https://www.tourismthailand.org/Destinations/Provinces/Krabi/344",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Ao Railay and Krabi 2-Day Trip Planner | Tourism Authority of Thailand",
+          "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/ao-railay-railay-bay-tham-phra-nang-beach-phra-nang-cave-beach-thale-waek-separated-sea-ko-po-da-khao-khanap-nam-viewpoint-tha-pom-khlang-cave",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "baa-atoll-biosphere-reserve",
+      "slug": "baa-atoll-biosphere-reserve",
+      "name": "バー環礁生物圏保護区",
+      "internalEnglishName": "Baa Atoll Biosphere Reserve",
+      "region": "asia",
+      "country": "モルディブ",
+      "city": "バー環礁",
+      "categories": ["ビーチ・リゾート", "自然・絶景", "アクティビティ"],
+      "description": "サンゴ礁、島、海草藻場、マングローブが広がるユネスコ生物圏保護区。ハニファル湾では時期によりマンタが集まり、厳格なルールのもとで海の生態系を観察できる。",
+      "coordinates": {
+        "latitude": 5.11,
+        "longitude": 73
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=5.110000%2C73.000000",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ダラヴァンドゥ空港",
+        "routeSummary": "成田空港 → シンガポールなど（乗継）→ ヴェラナ国際空港 → 国内線でダラヴァンドゥ空港 → 宿泊島・訪問地点へボート",
+        "estimatedDuration": "約16〜22時間",
+        "transferCount": 2,
+        "localTransport": "ヴェラナ国際空港からダラヴァンドゥ空港まで国内線で約20分。到着後は予約した宿泊施設や認可事業者のボートを利用する。",
+        "note": "国際線と国内線の接続、ボート送迎を宿泊施設と事前調整する。保護区内の観察可能時期、許可、行動規則は現地管理者の案内に従う。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Baa_atoll_islands.JPG/1280px-Baa_atoll_islands.JPG",
+        "alt": "青い海とサンゴ礁に囲まれたモルディブ・バー環礁の島々",
+        "width": 1280,
+        "height": 960,
+        "author": "Frédéric Ducarme",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baa_atoll_islands.JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Baa Atoll - UNESCO Man and the Biosphere Programme",
+          "url": "https://www.unesco.org/en/mab/baa-atoll",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Baa Atoll Biosphere Reserve | Visit Maldives",
+          "url": "https://visitmaldives.com/index.php/en/places/baa-atoll-biosphere-reserve",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "sigiriya",
+      "slug": "sigiriya",
+      "name": "シギリヤ",
+      "internalEnglishName": "Ancient City of Sigiriya",
+      "region": "asia",
+      "country": "スリランカ",
+      "city": "シギリヤ",
+      "categories": ["歴史・遺跡", "アクティビティ", "自然・絶景"],
+      "description": "ジャングルから約180メートル立ち上がる巨岩上に築かれた古代都市遺跡。庭園や壁画をたどり、階段を上った頂上から中央平原を一望できる。",
+      "coordinates": {
+        "latitude": 7.95,
+        "longitude": 80.75
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=7.950000%2C80.750000",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "バンダラナイケ国際空港",
+        "routeSummary": "成田空港 → コロンボ（直行便運航日・約9〜10時間）→ 空港から車でダンブッラ経由 → シギリヤ",
+        "estimatedDuration": "約14〜18時間",
+        "transferCount": 0,
+        "localTransport": "空港またはコロンボから手配車でダンブッラを経由してシギリヤへ向かう。長距離バスを使う場合はダンブッラなどで地域交通へ乗り換える。",
+        "note": "直行便の運航日と地上交通を確認し、約169キロメートルの道路移動に余裕を持つ。遺跡内は急な階段が続くため暑い時間帯を避ける。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sigiriya_Rock_Sri_Lanka_%2829959819372%29.jpg/1280px-Sigiriya_Rock_Sri_Lanka_%2829959819372%29.jpg",
+        "alt": "緑の平原からそびえるスリランカのシギリヤ・ロック",
+        "width": 1280,
+        "height": 853,
+        "author": "dronepicr",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sigiriya_Rock_Sri_Lanka_(29959819372).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Ancient City of Sigiriya - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/202/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Sigiriya Online Ticketing and Plan Your Visit | Sri Lanka Tourism",
+          "url": "https://srilanka.travel/online-ticketing",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "kuang-si-falls",
+      "slug": "kuang-si-falls",
+      "name": "クアンシーの滝",
+      "internalEnglishName": "Kuang Si Falls",
+      "region": "asia",
+      "country": "ラオス",
+      "city": "ルアンパバーン",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "森の中を三段に流れ落ち、石灰質の地形に青緑色の滝壺をつくる滝。遊歩道で主瀑や段瀑を巡り、許可された池では水遊びもできる。",
+      "coordinates": {
+        "latitude": 19.750177,
+        "longitude": 101.992513
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=19.750177%2C101.992513",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ルアンパバーン国際空港",
+        "routeSummary": "成田空港 → バンコクなど（1回乗継）→ ルアンパバーン国際空港 → 市内 → 乗合バンまたはトゥクトゥクでクアンシーの滝",
+        "estimatedDuration": "約11〜15時間",
+        "transferCount": 1,
+        "localTransport": "ルアンパバーン市内から乗合バンまたはトゥクトゥクで南へ約30キロメートル。自転車では坂道を含み約2時間が目安。",
+        "note": "航空便と往復交通を事前に確認する。雨季は水量と足元の状況が変わり、遊泳禁止の池もあるため現地表示に従う。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kuang_Si_Falls_and_its_emerald_water_pools_in_Luang_Prabang_province_Laos.jpg/1280px-Kuang_Si_Falls_and_its_emerald_water_pools_in_Luang_Prabang_province_Laos.jpg",
+        "alt": "森の中を流れるクアンシーの滝と青緑色の段状の滝壺",
+        "width": 1280,
+        "height": 853,
+        "author": "Basile Morin",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuang_Si_Falls_and_its_emerald_water_pools_in_Luang_Prabang_province_Laos.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Kuang Si Waterfall | Tourism Luang Prabang",
+          "url": "https://tourismluangprabang.org/things-to-do/nature/kuang-si-waterfall/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Waterfalls | Tourism Laos",
+          "url": "https://www.tourismlaos.org/waterfalls/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "paro-taktsang",
+      "slug": "paro-taktsang",
+      "name": "パロ・タクツァン",
+      "internalEnglishName": "Paro Taktsang",
+      "region": "asia",
+      "country": "ブータン",
+      "city": "パロ",
+      "categories": ["歴史・遺跡", "アクティビティ", "自然・絶景"],
+      "description": "パロ渓谷の断崖に張り付くように建つ仏教寺院で、タイガーズ・ネストの名でも知られる。谷を見渡す山道を歩き、聖地へ至る景観そのものを体験できる。",
+      "coordinates": {
+        "latitude": 27.4914,
+        "longitude": 89.3636
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=27.491400%2C89.363600",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "パロ国際空港",
+        "routeSummary": "成田空港 → バンコク（1回乗継）→ パロ国際空港 → 車で登山口 → 徒歩でパロ・タクツァン",
+        "estimatedDuration": "約16〜24時間",
+        "transferCount": 1,
+        "localTransport": "パロ市内からガイドと車で登山口へ移動し、標高差のある山道を往復約5〜6時間歩く。寺院直前には急な階段がある。",
+        "note": "ブータン旅行は認可事業者・ガイドと日程を調整し、パロ便の接続を確認する。高地順応、飲料水、歩きやすい靴を準備する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/The_Tiger%27s_Nest_%28_Paro_Taktsang_%29.jpg/1280px-The_Tiger%27s_Nest_%28_Paro_Taktsang_%29.jpg",
+        "alt": "ブータン・パロ渓谷の断崖に建つパロ・タクツァン寺院",
+        "width": 1280,
+        "height": 853,
+        "author": "VIkramjit Kakati",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Tiger%27s_Nest_(_Paro_Taktsang_).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Bhutan's Adventure Experiences | Bhutan Travel",
+          "url": "https://bhutan.travel/adventure-experiences",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Visit Bhutan | Bhutan Travel",
+          "url": "https://bhutan.travel/visit",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "dotonbori",
+      "slug": "dotonbori",
+      "name": "道頓堀",
+      "internalEnglishName": "Dotonbori",
+      "region": "asia",
+      "country": "日本",
+      "city": "大阪",
+      "categories": ["グルメ・市場", "建築・街並み"],
+      "description": "巨大な立体看板と飲食店が道頓堀川沿いに連なる、大阪・ミナミを象徴する繁華街。ネオンが灯る夜景を眺めながら、たこ焼きやお好み焼きなど大阪の食文化を楽しめる。",
+      "coordinates": {
+        "latitude": 34.669075,
+        "longitude": 135.500625
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=34.669075%2C135.500625",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "関西国際空港",
+        "routeSummary": "羽田空港 → 関西国際空港（直行便・約1時間20分）→ 南海電鉄でなんば駅 → 徒歩で道頓堀",
+        "estimatedDuration": "約3〜4時間",
+        "transferCount": 0,
+        "localTransport": "関西空港駅から南海電鉄の特急ラピートでなんば駅まで最速約38分、空港急行で約44分。駅から道頓堀までは徒歩約5〜10分。",
+        "note": "航空便と列車の運行状況を確認する。夜間や週末は歩行者が多いため、時間に余裕を持って移動する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/D%C5%8Dtonbori_Night%2C_Osaka%2C_Japan_%2848959597706%29.jpg/1280px-D%C5%8Dtonbori_Night%2C_Osaka%2C_Japan_%2848959597706%29.jpg",
+        "alt": "ネオン看板が川面を照らす夜の大阪・道頓堀",
+        "width": 1280,
+        "height": 853,
+        "author": "dconvertini",
+        "licenseName": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:D%C5%8Dtonbori_Night,_Osaka,_Japan_(48959597706).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Dotonbori Tourist Guide | Osaka Info",
+          "url": "https://osaka-info.jp/en/spot/dotonbori/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Kansai-Airport Station Access Guide | Nankai Electric Railway",
+          "url": "https://www.nankai.co.jp/en_railway/traffic/kix.html",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "hoi-an-ancient-town",
+      "slug": "hoi-an-ancient-town",
+      "name": "ホイアン旧市街",
+      "internalEnglishName": "Hoi An Ancient Town",
+      "region": "asia",
+      "country": "ベトナム",
+      "city": "ホイアン",
+      "categories": ["グルメ・市場", "建築・街並み", "歴史・遺跡"],
+      "description": "15〜19世紀の国際交易港の町並みを残す世界遺産。木造商家、寺院、会館が並ぶ通りを歩き、夕暮れには色鮮やかなランタンと川辺の屋台を楽しめる。",
+      "coordinates": {
+        "latitude": 15.880058,
+        "longitude": 108.338047
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.880058%2C108.338047",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ダナン国際空港",
+        "routeSummary": "成田空港 → ハノイ（1回乗継）→ ダナン国際空港 → 車でホイアン旧市街",
+        "estimatedDuration": "約10〜14時間",
+        "transferCount": 1,
+        "localTransport": "ダナン国際空港からホイアン旧市街までは約30キロメートルで、予約車やタクシーを利用して約50分。旧市街内は徒歩や自転車で巡る。",
+        "note": "国際線・国内線の接続と空港送迎を事前に確認する。旧市街では時間帯により車両の進入が制限されるため、宿泊先の案内に従う。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hoi_An_by_night.jpg/1280px-Hoi_An_by_night.jpg",
+        "alt": "ランタンと建物の灯りが水面に映る夜のホイアン旧市街",
+        "width": 1280,
+        "height": 720,
+        "author": "Andre Hospers",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hoi_An_by_night.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Hoi An Ancient Town | UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/948/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Hoi An | Vietnam Tourism",
+          "url": "https://vietnam.travel/places-to-go/central-vietnam/hoi-an",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "ubud-traditional-market",
+      "slug": "ubud-traditional-market",
+      "name": "ウブド伝統市場",
+      "internalEnglishName": "Ubud Traditional Market",
+      "region": "asia",
+      "country": "インドネシア",
+      "city": "ウブド",
+      "categories": ["グルメ・市場", "アート・文化"],
+      "description": "ウブド王宮の向かいに広がる伝統市場。朝の生活市場から、かご、布製品、木彫り、アクセサリーなどバリの手仕事と土産物が並ぶ活気ある売り場へと表情を変える。",
+      "coordinates": {
+        "latitude": -8.508478,
+        "longitude": 115.262742
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-8.508478%2C115.262742",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ングラ・ライ国際空港",
+        "routeSummary": "成田空港 → デンパサール（直行便・約7時間30分）→ 車でウブド中心部 → 徒歩でウブド伝統市場",
+        "estimatedDuration": "約10〜12時間",
+        "transferCount": 0,
+        "localTransport": "ングラ・ライ国際空港から予約車またはタクシーでウブド中心部まで約1時間30分〜2時間。市場はウブド王宮の向かいにある。",
+        "note": "直行便の運航日と空港送迎を確認する。バリ島内は道路の混雑で所要時間が大きく延びることがある。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ubud_market_%2816870234508%29.jpg/1280px-Ubud_market_%2816870234508%29.jpg",
+        "alt": "色鮮やかな民芸品や土産物が並ぶバリ島のウブド市場",
+        "width": 1280,
+        "height": 850,
+        "author": "Jorge Láscar",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ubud_market_(16870234508).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Ubud Traditional Market | Indonesia Travel",
+          "url": "https://www.indonesia.travel/us/en/destination/bali-nusa-tenggara/bali/ubud-traditional-market",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Find Serenity in Ubud, Bali | Indonesia Travel",
+          "url": "https://www.indonesia.travel/gb/en/destination/bali-nusa-tenggara/bali/ubud",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "chatuchak-weekend-market",
+      "slug": "chatuchak-weekend-market",
+      "name": "チャトゥチャック・ウィークエンド・マーケット",
+      "internalEnglishName": "Chatuchak Weekend Market",
+      "region": "asia",
+      "country": "タイ",
+      "city": "バンコク",
+      "categories": ["グルメ・市場", "アート・文化"],
+      "description": "衣類、工芸品、アート、植物、飲食など多彩な売り場が迷路のように広がるバンコクの巨大な週末市場。区画を巡りながら、タイ各地の商品と屋台料理を探せる。",
+      "coordinates": {
+        "latitude": 13.799713,
+        "longitude": 100.550784
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.799713%2C100.550784",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "スワンナプーム国際空港",
+        "routeSummary": "羽田空港 → バンコク（直行便・約7時間）→ エアポート・レール・リンクとBTSでモーチット駅 → 徒歩",
+        "estimatedDuration": "約9〜11時間",
+        "transferCount": 0,
+        "localTransport": "バンコク中心部からBTSスクンビット線のモーチット駅、またはMRTブルーラインのカンペンペット駅・チャトゥチャックパーク駅で下車し、徒歩約5〜10分。",
+        "note": "航空便と都市鉄道の運行状況を確認する。週末は非常に混雑するため、貴重品を管理し、水分補給と休憩を取る。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chatuchak_Weekend_Market.jpg/1280px-Chatuchak_Weekend_Market.jpg",
+        "alt": "買い物客と多彩な商品でにぎわうバンコクのチャトゥチャック市場",
+        "width": 1280,
+        "height": 960,
+        "author": "Christophe95",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chatuchak_Weekend_Market.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "チャトゥチャック・ウィークエンド・マーケット | タイ国政府観光庁",
+          "url": "https://www.thailandtravel.or.jp/chatuchak-weekend-market/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "バンコクの公共交通機関の利用方法とおすすめルート | タイ国政府観光庁",
+          "url": "https://www.thailandtravel.or.jp/transportation/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "hyeopjae-beach",
+      "slug": "hyeopjae-beach",
+      "name": "挟才海水浴場",
+      "internalEnglishName": "Hyeopjae Beach",
+      "region": "asia",
+      "country": "韓国",
+      "city": "済州",
+      "categories": ["ビーチ・リゾート", "自然・絶景", "アクティビティ"],
+      "description": "貝殻が混じる白い砂浜と遠浅のエメラルド色の海が広がる済州島西部のビーチ。沖の飛揚島を望み、海水浴や水上アクティビティ、美しい夕景を楽しめる。",
+      "coordinates": {
+        "latitude": 33.393845,
+        "longitude": 126.239716
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=33.393845%2C126.239716",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "済州国際空港",
+        "routeSummary": "羽田空港 → ソウル（金浦空港・1回乗継）→ 済州国際空港 → 車またはバスで挟才海水浴場",
+        "estimatedDuration": "約7〜10時間",
+        "transferCount": 1,
+        "localTransport": "済州市外バスターミナルから202番バスで挟才海水浴場停留所まで約1時間15分。空港から車では道路状況により約50〜70分。",
+        "note": "国際線と国内線の接続、バスの運行状況を確認する。遊泳期間、監視員、マリンアクティビティの実施状況は季節で変わる。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hyeop-jae_Beach.jpg/1280px-Hyeop-jae_Beach.jpg",
+        "alt": "透明な遠浅の海と白砂が広がる済州島の挟才海水浴場",
+        "width": 1280,
+        "height": 960,
+        "author": "Letmeuseflowers",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyeop-jae_Beach.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Hyeopjae Beach | Visit Jeju",
+          "url": "https://m.visitjeju.net/en/detail/view?contentsid=CONT_000000000500697&menuId=DOM_700000000010779",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Biyangdo and Hyeopjae Beach Public Transportation | Visit Jeju",
+          "url": "https://m.visitjeju.net/en/themtour/view?contentsid=CNTS_000000000021173&menuId=DOM_000002100000000221",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "nusa-dua",
+      "slug": "nusa-dua",
+      "name": "ヌサドゥア",
+      "internalEnglishName": "Nusa Dua",
+      "region": "asia",
+      "country": "インドネシア",
+      "city": "ヌサドゥア",
+      "categories": ["ビーチ・リゾート", "アクティビティ"],
+      "description": "白砂と穏やかな浅瀬が続く、バリ島南部の整備されたビーチリゾート。遊歩道で海辺を巡り、海水浴、シュノーケリング、各種ウォータースポーツを楽しめる。",
+      "coordinates": {
+        "latitude": -8.804094,
+        "longitude": 115.23052
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-8.804094%2C115.230520",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ングラ・ライ国際空港",
+        "routeSummary": "成田空港 → デンパサール（直行便・約7時間30分）→ 車でヌサドゥア",
+        "estimatedDuration": "約9〜11時間",
+        "transferCount": 0,
+        "localTransport": "ングラ・ライ国際空港から予約車またはタクシーでバリ・マンダラ有料道路を経由し、ヌサドゥアまで約20〜30分。",
+        "note": "直行便の運航日と空港送迎を確認する。道路混雑や宿泊施設の位置により所要時間が延び、海況によりアクティビティが中止されることがある。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/NusaDuaBeachBali.jpg/1280px-NusaDuaBeachBali.jpg",
+        "alt": "朝焼けに染まるバリ島ヌサドゥアの砂浜と穏やかな海",
+        "width": 1280,
+        "height": 720,
+        "author": "HidayatOemar",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:NusaDuaBeachBali.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Pantai Nusa Dua | Indonesia Travel",
+          "url": "https://www.indonesia.travel/id/en/destination/bali-nusa-tenggara/bali/pantai-nusa-dua",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Nusa Dua | Indonesia Travel",
+          "url": "https://www.indonesia.travel/gb/en/destination/bali-nusa-tenggara/bali/nusa-dua",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "kathmandu-durbar-square",
+      "slug": "kathmandu-durbar-square",
+      "name": "カトマンズ・ダルバール広場",
+      "internalEnglishName": "Kathmandu Durbar Square",
+      "region": "asia",
+      "country": "ネパール",
+      "city": "カトマンズ",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "旧王宮ハヌマン・ドカを中心に、ネワール建築の寺院、祠、彫刻が集まる世界遺産の広場。生きた女神クマリの館や職人街を歩き、カトマンズ旧市街の歴史に触れられる。",
+      "coordinates": {
+        "latitude": 27.70417,
+        "longitude": 85.30639
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=27.704170%2C85.306390",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "トリブバン国際空港",
+        "routeSummary": "成田空港 → カトマンズ（直行便・約8〜9時間）→ プリペイドタクシーで旧市街 → 徒歩でダルバール広場",
+        "estimatedDuration": "約10〜13時間",
+        "transferCount": 0,
+        "localTransport": "トリブバン国際空港からプリペイドタクシーなどでバサンタプール地区へ約30〜45分。車両を降りて広場周辺を徒歩で巡る。",
+        "note": "成田直行便の運航日、入国手続き、空港交通を確認する。市内の渋滞で移動時間が延びるため余裕を持つ。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kathmandu_Durbar_Square%2C_Shrine%2C_Nepal.jpg/1280px-Kathmandu_Durbar_Square%2C_Shrine%2C_Nepal.jpg",
+        "alt": "ネワール建築の祠と寺院が並ぶカトマンズ・ダルバール広場",
+        "width": 1280,
+        "height": 853,
+        "author": "Vyacheslav Argenberg",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kathmandu_Durbar_Square,_Shrine,_Nepal.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Kathmandu Durbar Square | Nepal Tourism Board",
+          "url": "https://ntb.gov.np/kathmandu-durbar-square",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Book Flights to Nepal | Nepal Tourism Board",
+          "url": "https://ntb.gov.np/plan-your-trip/book/flights",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Travel FAQ | Nepal Tourism Board",
+          "url": "https://trade.ntb.gov.np/faq/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "historic-centre-of-macao",
+      "slug": "historic-centre-of-macao",
+      "name": "マカオ歴史地区",
+      "internalEnglishName": "Historic Centre of Macao",
+      "region": "asia",
+      "country": "中国",
+      "city": "マカオ",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "大三巴牌坊、セナド広場、教会、寺院、要塞などが連なる世界遺産。ポルトガルと中国の文化が交わる石畳の町を歩き、東西の建築と都市景観を巡れる。",
+      "coordinates": {
+        "latitude": 22.193611,
+        "longitude": 113.539722
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=22.193611%2C113.539722",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "香港国際空港",
+        "routeSummary": "羽田空港 → 香港国際空港（直行便・約5時間）→ 港珠澳大橋の越境バスでマカオ → 市内バスまたはタクシーで歴史地区",
+        "estimatedDuration": "約8〜11時間",
+        "transferCount": 0,
+        "localTransport": "香港国際空港から空港ルートの越境バスでマカオへ入り、到着した港から市内バスまたはタクシーでセナド広場周辺へ移動する。地区内は徒歩で巡る。",
+        "note": "航空便、越境交通、出入境手続きの最新条件を確認する。歴史地区は坂道と石畳が多いため歩きやすい靴を用意する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ruins_of_Saint_Paul%27s.jpg/1280px-Ruins_of_Saint_Paul%27s.jpg",
+        "alt": "マカオ歴史地区を代表する大三巴牌坊と石段",
+        "width": 1280,
+        "height": 961,
+        "author": "Lunaloop",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruins_of_Saint_Paul%27s.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Macao World Heritage | Macao Government Tourism Office",
+          "url": "https://www.macaotourism.gov.mo/en/sightseeing/macao-world-heritage?rffr=macaoarticle23",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Travelling to Macao | Macao Government Tourism Office",
+          "url": "https://www.macaotourism.gov.mo/en/article/before-you-travel/travelling-to-macao",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
     }
   ]
 }

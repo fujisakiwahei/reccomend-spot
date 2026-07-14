@@ -49,6 +49,356 @@
       "spotIds": ["sydney-opera-house"],
       "status": "validated",
       "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "batchId": "phase-4-asia-01",
+      "region": "asia",
+      "spotIds": [
+        "itsukushima-shrine",
+        "gyeongbokgung-palace",
+        "victoria-peak",
+        "national-palace-museum-taipei",
+        "ha-long-bay",
+        "ayutthaya-historical-park",
+        "george-town-penang",
+        "borobudur-temple",
+        "chocolate-hills",
+        "taj-mahal"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "batchId": "phase-4-europe-01",
+      "region": "europe",
+      "spotIds": [
+        "sagrada-familia",
+        "acropolis-of-athens",
+        "neuschwanstein-castle",
+        "jungfraujoch",
+        "plitvice-lakes",
+        "pena-palace",
+        "nyhavn",
+        "giants-causeway",
+        "hallstatt",
+        "rijksmuseum"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "batchId": "phase-4-north-america-01",
+      "region": "north-america",
+      "spotIds": [
+        "grand-canyon-south-rim",
+        "yellowstone-national-park",
+        "golden-gate-bridge",
+        "french-quarter-new-orleans",
+        "old-quebec",
+        "niagara-falls-canada",
+        "canadian-museum-for-human-rights",
+        "stanley-park",
+        "ilulissat-icefjord",
+        "greenland-national-museum"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "batchId": "phase-4-asia-02",
+      "region": "asia",
+      "spotIds": [
+        "nishiki-market",
+        "jagalchi-market",
+        "fengjia-night-market",
+        "boracay-white-beach",
+        "komodo-national-park",
+        "railay-beach",
+        "baa-atoll-biosphere-reserve",
+        "sigiriya",
+        "kuang-si-falls",
+        "paro-taktsang"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-north-america-02",
+      "region": "north-america",
+      "spotIds": [
+        "denali-national-park",
+        "pike-place-market",
+        "space-center-houston",
+        "national-museum-african-american-history-culture",
+        "south-beach-miami",
+        "cn-tower",
+        "lanse-aux-meadows",
+        "peggys-cove",
+        "prince-edward-island-national-park",
+        "kluane-national-park"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-europe-02",
+      "region": "europe",
+      "spotIds": [
+        "la-concha-beach",
+        "praia-da-marinha",
+        "blue-lagoon-iceland",
+        "borough-market",
+        "la-boqueria",
+        "torvehallerne-copenhagen",
+        "geirangerfjord",
+        "louvre-museum",
+        "cesky-krumlov",
+        "lake-bled"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-north-america-03",
+      "region": "north-america",
+      "spotIds": [
+        "independence-hall",
+        "white-sands-national-park",
+        "hopewell-rocks",
+        "grasslands-national-park",
+        "russell-glacier",
+        "qaqortoq-stone-and-man",
+        "historic-st-george-bermuda",
+        "ile-aux-marins"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-asia-03",
+      "region": "asia",
+      "spotIds": [
+        "dotonbori",
+        "hoi-an-ancient-town",
+        "ubud-traditional-market",
+        "chatuchak-weekend-market",
+        "hyeopjae-beach",
+        "nusa-dua",
+        "kathmandu-durbar-square",
+        "historic-centre-of-macao"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-europe-03",
+      "region": "europe",
+      "spotIds": [
+        "old-market-hall-helsinki",
+        "mercato-centrale-florence",
+        "markthalle-neun",
+        "vasa-museum",
+        "royal-museum-fine-arts-antwerp",
+        "cliffs-of-moher",
+        "wieliczka-salt-mine",
+        "szechenyi-thermal-bath",
+        "nissi-beach",
+        "blue-lagoon-comino"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-europe-04",
+      "region": "europe",
+      "spotIds": [
+        "riga-central-market",
+        "mercado-do-bolhao",
+        "feskekorka",
+        "munch-museum-oslo",
+        "guggenheim-museum-bilbao",
+        "kumu-art-museum",
+        "zlatni-rat-beach",
+        "elafonisi-beach",
+        "vianden-castle",
+        "peles-castle"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-europe-05",
+      "region": "europe",
+      "spotIds": [
+        "jurmala-beach",
+        "scheveningen-beach",
+        "dolac-market",
+        "naschmarkt-vienna",
+        "bratislava-castle",
+        "kiasma",
+        "old-bridge-mostar",
+        "krka-national-park"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-latin-america-01",
+      "region": "latin-america",
+      "spotIds": [
+        "chichen-itza",
+        "iguazu-national-park",
+        "cartagena-walled-city",
+        "galapagos-national-park",
+        "salar-de-uyuni",
+        "torres-del-paine-national-park",
+        "varadero-beach",
+        "eagle-beach-aruba",
+        "sao-paulo-municipal-market",
+        "mercado-del-puerto"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-africa-01",
+      "region": "africa",
+      "spotIds": [
+        "ait-ben-haddou",
+        "amphitheatre-of-el-jem",
+        "goree-island",
+        "kakum-national-park",
+        "rock-hewn-churches-lalibela",
+        "maasai-mara-national-reserve",
+        "serengeti-national-park",
+        "volcanoes-national-park-rwanda",
+        "robben-island",
+        "sossusvlei"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-latin-america-02",
+      "region": "latin-america",
+      "spotIds": [
+        "antigua-guatemala",
+        "panama-historic-district",
+        "great-blue-hole-belize",
+        "manuel-antonio-national-park",
+        "colonial-city-santo-domingo",
+        "seven-mile-beach-cayman",
+        "kaieteur-national-park",
+        "castries-central-market",
+        "nassau-straw-market",
+        "masaya-artisan-market"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-middle-east-central-asia-01",
+      "region": "middle-east-central-asia",
+      "spotIds": [
+        "burj-khalifa",
+        "hegra",
+        "museum-of-islamic-art-doha",
+        "wadi-shab",
+        "registan-square",
+        "charyn-canyon",
+        "issyk-kul-lake",
+        "baku-old-city",
+        "geghard-monastery",
+        "manama-souq"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-africa-02",
+      "region": "africa",
+      "spotIds": [
+        "okavango-delta",
+        "le-morne-cultural-landscape",
+        "vallee-de-mai-nature-reserve",
+        "royal-palaces-of-abomey",
+        "bwindi-impenetrable-national-park",
+        "lake-malawi-national-park",
+        "victoria-falls-zimbabwe",
+        "tsingy-de-bemaraha-national-park",
+        "osun-osogbo-sacred-grove"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-latin-america-03",
+      "region": "latin-america",
+      "spotIds": [
+        "copan-maya-site",
+        "joya-de-ceren",
+        "negril-seven-mile-beach",
+        "old-san-juan",
+        "pigeon-point-tobago",
+        "oistins-fish-market",
+        "grote-knip-curacao",
+        "paramaribo-central-market",
+        "grand-anse-beach-grenada"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-middle-east-central-asia-02",
+      "region": "middle-east-central-asia",
+      "spotIds": [
+        "goreme-open-air-museum",
+        "old-tbilisi",
+        "kuwait-towers",
+        "pamir-highway",
+        "darvaza-gas-crater",
+        "dead-sea-jordan",
+        "souq-waqif",
+        "sheikh-zayed-grand-mosque",
+        "bukhara-historic-centre"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-oceania-01",
+      "region": "oceania",
+      "spotIds": [
+        "great-barrier-reef",
+        "uluru-kata-tjuta-national-park",
+        "milford-sound-piopiotahi",
+        "waitangi-treaty-grounds",
+        "sigatoka-sand-dunes-national-park",
+        "to-sua-ocean-trench",
+        "haamonga-a-maui",
+        "mount-yasur",
+        "rock-islands-southern-lagoon",
+        "bora-bora"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "batchId": "phase-4-oceania-02",
+      "region": "oceania",
+      "spotIds": [
+        "great-ocean-road",
+        "daintree-national-park",
+        "te-puia-rotorua",
+        "aoraki-mount-cook-national-park",
+        "aitutaki-lagoon",
+        "nan-madol",
+        "lagoons-of-new-caledonia",
+        "two-lovers-point-guam",
+        "limu-pools"
+      ],
+      "status": "validated",
+      "lastVerifiedAt": "2026-07-14"
     }
   ]
 }

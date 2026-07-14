@@ -63,6 +63,1113 @@
         }
       ],
       "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "great-barrier-reef",
+      "slug": "great-barrier-reef",
+      "name": "グレート・バリア・リーフ",
+      "internalEnglishName": "Great Barrier Reef",
+      "region": "oceania",
+      "country": "オーストラリア",
+      "city": "ケアンズ",
+      "categories": ["自然・絶景", "ビーチ・リゾート", "アクティビティ"],
+      "description": "オーストラリア北東岸に広がる世界最大級のサンゴ礁群。ケアンズ発のクルーズでは、透明度の高い海でシュノーケリングや海中観察を楽しめる。",
+      "coordinates": {
+        "latitude": -18.2872,
+        "longitude": 147.6992
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-18.2872%2C147.6992",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ケアンズ国際空港",
+        "routeSummary": "成田国際空港 → ケアンズ国際空港（直行便）→ ケアンズ市内のマリーナ → リーフクルーズ",
+        "estimatedDuration": "約12〜14時間",
+        "transferCount": 0,
+        "localTransport": "空港からケアンズ市内へ移動し、事前予約した認定事業者の船で各リーフへ向かう。",
+        "note": "訪問地点はツアーごとに異なる。海況と運航状況を確認し、Great Barrier Reef Marine Park Authorityが示すHigh Standard Tourism Operatorの利用を検討する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Great_Barrier_Reef_%28aerial_view%29.JPG/1280px-Great_Barrier_Reef_%28aerial_view%29.JPG",
+        "alt": "上空から見たグレート・バリア・リーフのサンゴ礁と青い海",
+        "width": 1280,
+        "height": 960,
+        "author": "Nerdge",
+        "licenseName": "Public domain (released by author)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-user",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Barrier_Reef_(aerial_view).JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Visit the Great Barrier Reef - Great Barrier Reef Marine Park Authority",
+          "url": "https://www2.gbrmpa.gov.au/visit",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tourism on the Great Barrier Reef - Great Barrier Reef Marine Park Authority",
+          "url": "https://www2.gbrmpa.gov.au/our-work/managing-activities-and-use/tourism/tourism-great-barrier-reef",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Jetstar Industry Update New Zealand March 2026",
+          "url": "https://files.jetstar.com/api/public/content/JQ-Industry-Update-NZ-March-2026?v=d43927d4",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "uluru-kata-tjuta-national-park",
+      "slug": "uluru-kata-tjuta-national-park",
+      "name": "ウルル＝カタ・ジュタ国立公園",
+      "internalEnglishName": "Uluṟu-Kata Tjuṯa National Park",
+      "region": "oceania",
+      "country": "オーストラリア",
+      "city": "ユララ",
+      "categories": ["自然・絶景", "歴史・遺跡", "アクティビティ"],
+      "description": "アナングの文化と深く結びつくウルルとカタ・ジュタを擁する国立公園。赤い岩山は時間帯によって色合いを変え、麓の散策路では自然と文化を学べる。",
+      "coordinates": {
+        "latitude": -25.344428,
+        "longitude": 131.036882
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-25.344428%2C131.036882",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "エアーズロック空港",
+        "routeSummary": "成田国際空港 → シドニーまたはメルボルン → エアーズロック空港 → ユララ → 国立公園",
+        "estimatedDuration": "約16〜21時間",
+        "transferCount": 1,
+        "localTransport": "空港から宿泊施設のシャトルでユララへ移動し、予約したツアーまたはレンタカーで公園へ向かう。",
+        "note": "入園パス、航空便、散策路の閉鎖情報を確認する。アナングの文化に配慮し、撮影禁止区域や登山禁止のルールを守る。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Uluru_Kata-Tjuta.jpg/1280px-Uluru_Kata-Tjuta.jpg",
+        "alt": "赤い大地にそびえるウルルの全景",
+        "width": 1280,
+        "height": 768,
+        "author": "LoksLoka",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uluru_Kata-Tjuta.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Uluṟu-Kata Tjuṯa National Park media handbook - Parks Australia",
+          "url": "https://parksaustralia.gov.au/uluru/pub/uluru-kata-tjuta-media-handbook.pdf",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Liru Walk closure and alternative Uluṟu Base Walk access - Parks Australia",
+          "url": "https://parksaustralia.gov.au/news/liru-walk-closure-and-alternative-uluru-base-walk-access/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo Narita to Ayers Rock - Qantas",
+          "url": "https://www.qantas.com/jp/en/flight-deals/flights-from-tokyo-narita-to-ayers-rock-uluru.html/nrt/ayq/economy",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "milford-sound-piopiotahi",
+      "slug": "milford-sound-piopiotahi",
+      "name": "ミルフォード・サウンド／ピオピオタヒ",
+      "internalEnglishName": "Milford Sound / Piopiotahi",
+      "region": "oceania",
+      "country": "ニュージーランド",
+      "city": "テ・アナウ",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "フィヨルドランド国立公園を代表する深い入り江。切り立つ山々や滝が海面を囲み、クルーズやカヤックから変化に富む景観を体感できる。",
+      "coordinates": {
+        "latitude": -44.6414,
+        "longitude": 167.8974
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-44.6414%2C167.8974",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "クイーンズタウン空港",
+        "routeSummary": "成田国際空港 → オークランド国際空港 → クイーンズタウン空港 → テ・アナウ → ミルフォード・ロード",
+        "estimatedDuration": "約19〜25時間",
+        "transferCount": 1,
+        "localTransport": "クイーンズタウンから観光バスまたはレンタカーでテ・アナウを経由し、州道94号線でミルフォード・サウンドへ向かう。",
+        "note": "テ・アナウから約120kmで、公式案内は最低2時間の運転時間を見込む。雪崩、降雪、落石による通行止めと燃料残量を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Milford_Sound._Mitre_Peak._%2815638710175%29.jpg/1280px-Milford_Sound._Mitre_Peak._%2815638710175%29.jpg",
+        "alt": "ミルフォード・サウンドの水面とマイター・ピーク",
+        "width": 1280,
+        "height": 972,
+        "author": "Bernard Spragg. NZ",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Milford_Sound._Mitre_Peak._(15638710175).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Milford Road, Milford Sound area - New Zealand Department of Conservation",
+          "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/places-to-go/milford-road-milford-sound-area/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tokyo Narita flights information - Air New Zealand",
+          "url": "https://www.airnewzealand.jp/nrt-flights-information",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Auckland to Queenstown - Air New Zealand",
+          "url": "https://www.airnewzealand.co.nz/flights/en-nz/flights-from-auckland-to-queenstown",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "waitangi-treaty-grounds",
+      "slug": "waitangi-treaty-grounds",
+      "name": "ワイタンギ・トリティ・グラウンズ",
+      "internalEnglishName": "Waitangi Treaty Grounds",
+      "region": "oceania",
+      "country": "ニュージーランド",
+      "city": "ワイタンギ",
+      "categories": ["歴史・遺跡", "アート・文化", "建築・街並み"],
+      "description": "1840年にワイタンギ条約が初めて署名された歴史地区。条約館やマオリの集会所、儀礼用カヌーを通してニュージーランド建国の歩みを学べる。",
+      "coordinates": {
+        "latitude": -35.265639,
+        "longitude": 174.082083
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-35.265639%2C174.082083",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ベイ・オブ・アイランズ空港",
+        "routeSummary": "成田国際空港 → オークランド国際空港 → ベイ・オブ・アイランズ空港（ケリケリ）→ ワイタンギ",
+        "estimatedDuration": "約16〜20時間",
+        "transferCount": 1,
+        "localTransport": "ケリケリの空港からタクシーまたはレンタカーで約25〜30分。パイヒア中心部からは約2kmで徒歩でも移動できる。",
+        "note": "入場券、ガイドツアー、文化パフォーマンスの開催時間を公式サイトで確認し、繁忙期は事前予約する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Treaty_House_at_Waitangi_Treaty_Grounds.jpg/1280px-Treaty_House_at_Waitangi_Treaty_Grounds.jpg",
+        "alt": "ワイタンギ・トリティ・グラウンズに立つ条約館",
+        "width": 1280,
+        "height": 753,
+        "author": "Pseudopanax",
+        "licenseName": "Public domain (released by author)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Treaty_House_at_Waitangi_Treaty_Grounds.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Waitangi Treaty Grounds",
+          "url": "https://www.waitangi.org.nz/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "How to get here - Waitangi Treaty Grounds",
+          "url": "https://www.waitangi.org.nz/visit/how-to-get-here",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Auckland to Kerikeri - Air New Zealand",
+          "url": "https://www.airnewzealand.co.nz/flights/en-nz/flights-from-auckland-to-kerikeri",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tokyo Narita flights information - Air New Zealand",
+          "url": "https://www.airnewzealand.jp/nrt-flights-information",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "sigatoka-sand-dunes-national-park",
+      "slug": "sigatoka-sand-dunes-national-park",
+      "name": "シンガトカ砂丘国立公園",
+      "internalEnglishName": "Sigatoka Sand Dunes National Park",
+      "region": "oceania",
+      "country": "フィジー",
+      "city": "シンガトカ",
+      "categories": ["自然・絶景", "歴史・遺跡", "アクティビティ"],
+      "description": "シンガトカ川河口に連なるフィジー初の国立公園。海岸砂丘を歩きながら、固有植物や長い定住史を伝える考古学的な景観に触れられる。",
+      "coordinates": {
+        "latitude": -18.169,
+        "longitude": 177.489
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-18.169%2C177.489",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ナンディ国際空港",
+        "routeSummary": "成田国際空港 → ナンディ国際空港（直行便）→ クイーンズ・ロード → シンガトカ砂丘国立公園",
+        "estimatedDuration": "約11〜13時間",
+        "transferCount": 0,
+        "localTransport": "空港からレンタカー、貸切車またはコーラル・コースト方面のバスで約1時間10分〜1時間30分。",
+        "note": "国立公園の開園時間と航空便の運航日を確認する。日陰が少ないため、暑さの強い時間帯を避けて水分を携行する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/SigatokaDunesFiji.jpg/960px-SigatokaDunesFiji.jpg",
+        "alt": "緑に覆われた丘から望むシンガトカ砂丘と海岸線",
+        "width": 960,
+        "height": 720,
+        "author": "RodBland",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SigatokaDunesFiji.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Sigatoka Sand Dunes National Park - National Trust of Fiji",
+          "url": "https://nationaltrust.org.fj/ssd/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Sigatoka Sand Dunes - Tourism Fiji",
+          "url": "https://www.fiji.travel/places-to-go/coral-coast/locations/coral-coast-sand-dunes",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Fiji Airways - Narita International Airport",
+          "url": "https://www.narita-airport.jp/en/flight/airline-search/fji/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "to-sua-ocean-trench",
+      "slug": "to-sua-ocean-trench",
+      "name": "ト・スア・オーシャン・トレンチ",
+      "internalEnglishName": "To-Sua Ocean Trench",
+      "region": "oceania",
+      "country": "サモア",
+      "city": "ロトファガ",
+      "categories": ["自然・絶景", "ビーチ・リゾート", "アクティビティ"],
+      "description": "ウポル島南岸の緑に囲まれた約30mの天然プール。長い梯子を下りると、海とつながる透き通った水の中で泳げる。",
+      "coordinates": {
+        "latitude": -14.04362,
+        "longitude": -171.562252
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-14.04362%2C-171.562252",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ファレオロ国際空港",
+        "routeSummary": "成田国際空港 → オークランド国際空港 → ファレオロ国際空港 → ウポル島南岸のロトファガ",
+        "estimatedDuration": "約18〜23時間",
+        "transferCount": 1,
+        "localTransport": "空港から予約した送迎、タクシーまたはレンタカーで島内を横断し、約1時間20分を目安に向かう。",
+        "note": "曜日で開園時間が異なる。梯子の昇降が必要なため、潮位、海況、体調を確認し、無理に入水しない。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/To_Sua_Ocean_Trench%2C_Upolu%2C_Samoa_-_August_2016.jpg/1280px-To_Sua_Ocean_Trench%2C_Upolu%2C_Samoa_-_August_2016.jpg",
+        "alt": "豊かな緑と岩壁に囲まれたト・スアの天然プール",
+        "width": 1280,
+        "height": 960,
+        "author": "Rickard Törnblad",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:To_Sua_Ocean_Trench,_Upolu,_Samoa_-_August_2016.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "To-Sua Ocean Trench - Samoa Tourism Authority",
+          "url": "https://www.samoa.travel/plan-book/activities/to-sua-ocean-trench",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Short breaks in Samoa - Samoa Tourism Authority",
+          "url": "https://www.samoa.travel/experience/short-breaks/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tokyo Narita flights information - Air New Zealand",
+          "url": "https://www.airnewzealand.jp/nrt-flights-information",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Auckland to Apia - Air New Zealand",
+          "url": "https://www.airnewzealand.co.nz/flights/en-nz/flights-from-auckland-to-apia",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "haamonga-a-maui",
+      "slug": "haamonga-a-maui",
+      "name": "ハアモンガ・ア・マウイ",
+      "internalEnglishName": "Haʻamonga ʻa Maui",
+      "region": "oceania",
+      "country": "トンガ",
+      "city": "ニウトウア",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "トンガタプ島東部に立つ巨大なサンゴ石の三石塔。13世紀頃の王権と建築技術を今に伝え、「ポリネシアのストーンヘンジ」とも呼ばれる。",
+      "coordinates": {
+        "latitude": -21.136,
+        "longitude": -175.0485
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-21.136%2C-175.0485",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ファアモツ国際空港",
+        "routeSummary": "成田国際空港 → オークランド国際空港 → ファアモツ国際空港 → ニウトウア",
+        "estimatedDuration": "約18〜23時間",
+        "transferCount": 1,
+        "localTransport": "空港からタクシー、貸切車またはレンタカーでトンガタプ島東部へ約45〜60分。",
+        "note": "公共交通が限られるため往復の車を事前手配する。史跡に登ったり石材へ触れたりせず、現地の案内に従う。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ha%CA%BBamonga_%CA%BBa_Maui_-_2012.jpg/1280px-Ha%CA%BBamonga_%CA%BBa_Maui_-_2012.jpg",
+        "alt": "芝生の上に立つハアモンガ・ア・マウイの三石塔",
+        "width": 1280,
+        "height": 960,
+        "author": "Vilimaka Foliaki",
+        "licenseName": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ha%CA%BBamonga_%CA%BBa_Maui_-_2012.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Haʻamonga ʻa Maui - Tonga Tourism Authority",
+          "url": "https://www.tongatourism.travel/see-and-do/haamonga-a-maui",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tongatapu Heritage Sites - Tonga Tourism Authority",
+          "url": "https://tongatourism.travel/wp-content/uploads/2022/09/Tongatapu-Heritage-Sites.pdf",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tokyo Narita flights information - Air New Zealand",
+          "url": "https://www.airnewzealand.jp/nrt-flights-information",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Auckland to Nuku'alofa - Air New Zealand",
+          "url": "https://www.airnewzealand.co.nz/flights/en-nz/flights-from-auckland-to-nuku-alofa",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "mount-yasur",
+      "slug": "mount-yasur",
+      "name": "ヤスール山",
+      "internalEnglishName": "Mount Yasur",
+      "region": "oceania",
+      "country": "バヌアツ",
+      "city": "タンナ島",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "タンナ島にある活動中の火山。許可されたガイドと火口縁へ向かい、夕暮れ以降には赤く輝く噴火活動を間近に観察できる。",
+      "coordinates": {
+        "latitude": -19.5325,
+        "longitude": 169.4472
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-19.5325%2C169.4472",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ホワイトグラス空港",
+        "routeSummary": "成田国際空港 → ナンディ国際空港 → ポートビラ → ホワイトグラス空港（タンナ島）→ ヤスール山",
+        "estimatedDuration": "約20〜28時間",
+        "transferCount": 2,
+        "localTransport": "タンナ島の空港または宿泊施設から、認可されたガイドの四輪駆動車で約1時間30分。",
+        "note": "火山警戒レベルにより立入禁止になる。国内線は天候で変更されやすいため余裕を持ち、手すりのない火口縁では必ずガイドの指示に従う。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mt._Yasur%2C_Tanna%2C_Vanuatu%2C_12_June_2009_%283621308808%29.jpg/1280px-Mt._Yasur%2C_Tanna%2C_Vanuatu%2C_12_June_2009_%283621308808%29.jpg",
+        "alt": "ヤスール山の火口から上がる赤い噴煙",
+        "width": 1280,
+        "height": 799,
+        "author": "Phillip Capper",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mt._Yasur,_Tanna,_Vanuatu,_12_June_2009_(3621308808).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Guide to Tanna - Vanuatu Tourism Office",
+          "url": "https://www.vanuatu.travel/au/plan/where-to-go/tanna/guide-to-tanna",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Volcanoes - Vanuatu Tourism Office",
+          "url": "https://www.vanuatu.travel/en/things-to-do/volcanos",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Domestic air services - Vanuatu Tourism Office",
+          "url": "https://www.vanuatu.travel/en/things-to-know/travelling-around-vanuatu/domestic-air-services",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Fiji Airways route map",
+          "url": "https://www.fijiairways.com/media/826108/route-map.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "rock-islands-southern-lagoon",
+      "slug": "rock-islands-southern-lagoon",
+      "name": "ロックアイランド・サザンラグーン",
+      "internalEnglishName": "Rock Islands Southern Lagoon",
+      "region": "oceania",
+      "country": "パラオ",
+      "city": "コロール",
+      "categories": ["自然・絶景", "ビーチ・リゾート", "アクティビティ"],
+      "description": "コロール南方に点在するキノコ形の石灰岩島とラグーンの世界遺産。サンゴ礁やマリンレイク、古い集落跡が一体となった海洋景観を巡れる。",
+      "coordinates": {
+        "latitude": 7.246925,
+        "longitude": 134.3525
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=7.246925%2C134.3525",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "パラオ国際空港",
+        "routeSummary": "成田国際空港 → パラオ国際空港（直行便）→ コロールの船着場 → 許可を得たボートツアー",
+        "estimatedDuration": "約7〜9時間",
+        "transferCount": 0,
+        "localTransport": "空港から送迎車またはタクシーでコロールへ移動し、予約したツアーボートでラグーンを巡る。",
+        "note": "ロックアイランド許可証が必要。訪問できる区域は海況や保全ルールで変わるため、認可事業者に最新条件を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Rock_Islands%2C_Palau.jpg/1280px-Rock_Islands%2C_Palau.jpg",
+        "alt": "青い海に点在するパラオのロックアイランド",
+        "width": 1280,
+        "height": 853,
+        "author": "Charles J. Sharp",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rock_Islands,_Palau.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Rock Islands Southern Lagoon - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/1386/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "United Airlines launches first direct service between Narita and Palau - Narita International Airport",
+          "url": "https://www.narita-airport.jp/files/c18dd15ac9abae9f558e1b640d307c0d3e4c8193ec403a2f3ae3491d693e6e57",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "March 2026 visitor arrivals summary - Palau Visitors Authority",
+          "url": "https://pristineparadisepalau.com/wp-content/uploads/2026/04/MARCH-2026-SUMMARY.pdf",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "bora-bora",
+      "slug": "bora-bora",
+      "name": "ボラボラ島",
+      "internalEnglishName": "Bora Bora",
+      "region": "oceania",
+      "country": "フランス領ポリネシア",
+      "city": "ヴァイタペ",
+      "categories": ["ビーチ・リゾート", "自然・絶景", "アクティビティ"],
+      "description": "オテマヌ山を囲むラグーンと環礁が印象的なソシエテ諸島の島。透明な海でのシュノーケリングや、モツに建つ水上バンガローで知られる。",
+      "coordinates": {
+        "latitude": -16.5004,
+        "longitude": -151.7415
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-16.5004%2C-151.7415",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ボラボラ空港",
+        "routeSummary": "成田国際空港 → ファアア国際空港（パペーテ）→ ボラボラ空港 → ヴァイタペまたは各リゾート",
+        "estimatedDuration": "約15〜19時間",
+        "transferCount": 1,
+        "localTransport": "空港からヴァイタペ行きの連絡船、または宿泊先が運航する専用ボートで移動する。",
+        "note": "東京便と国内線は運航日が限られるため乗継時間を確保する。モツにある宿泊施設は専用送迎の予約条件を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Borabora-LeMeridien-Aerial2-HD.jpg/1280px-Borabora-LeMeridien-Aerial2-HD.jpg",
+        "alt": "上空から見たボラボラ島のラグーンとオテマヌ山",
+        "width": 1280,
+        "height": 800,
+        "author": "Didierlefort",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Borabora-LeMeridien-Aerial2-HD.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Bora Bora - Tahiti Tourisme",
+          "url": "https://www.tahititourisme.com/islands/bora-bora/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting to Bora Bora - Tahiti Tourisme",
+          "url": "https://www.tahititourisme.com/islands/bora-bora/getting-to-bora-bora/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Air Tahiti Nui and Air Tahiti codeshare agreement",
+          "url": "https://www.airtahiti.com/documents/175271/1708214/PR-EN-2026-06-03-CPATN_CodeshareVT.pdf/5e4fc5c8-56d6-9899-936e-08599813dde5?t=1780603640630",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Bora Bora flight information - Air Tahiti",
+          "url": "https://www.airtahiti.com/en/bora-bora",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "great-ocean-road",
+      "slug": "great-ocean-road",
+      "name": "グレート・オーシャン・ロード",
+      "internalEnglishName": "Great Ocean Road",
+      "region": "oceania",
+      "country": "オーストラリア",
+      "city": "ポートキャンベル",
+      "categories": ["自然・絶景", "アクティビティ", "ビーチ・リゾート"],
+      "description": "ビクトリア州南西岸の断崖やビーチを結ぶ海岸道路。十二使徒をはじめとする石灰岩の奇岩と、南極海の荒々しい景観を巡れる。",
+      "coordinates": {
+        "latitude": -38.6602846,
+        "longitude": 143.0933579
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-38.6602846%2C143.0933579",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "メルボルン空港",
+        "routeSummary": "成田国際空港 → メルボルン空港（直行便・約10〜11時間）→ レンタカーまたは予約制ツアーでグレート・オーシャン・ロード → 十二使徒",
+        "estimatedDuration": "約14〜17時間",
+        "transferCount": 0,
+        "localTransport": "メルボルンからTorquay経由で海岸道路を走り、Port Campbell National Parkの展望地点へ向かう。長距離のためツアー利用も選択肢となる。",
+        "note": "海岸道路は強風や工事で状況が変わる。日没後の長距離運転を避け、道路情報と展望台の開放状況を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Great_Ocean_Road_%28_Infosys_Ank_kumar%29_02.jpg/1280px-Great_Ocean_Road_%28_Infosys_Ank_kumar%29_02.jpg",
+        "alt": "断崖と青い海が続くグレート・オーシャン・ロードの海岸景観",
+        "width": 1280,
+        "height": 853,
+        "author": "Ank Kumar",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Ocean_Road_(_Infosys_Ank_kumar)_02.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Guide to the Great Ocean Road - Tourism Australia",
+          "url": "https://www.australia.com/en-us/places/melbourne-and-surrounds/guide-to-the-great-ocean-road.html",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Great Ocean Road - Australian Government DCCEEW",
+          "url": "https://www.dcceew.gov.au/parks-heritage/heritage/places/national/great-ocean-road",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Direct flights from Melbourne to Tokyo take off - Jetstar",
+          "url": "https://files.jetstar.com/api/public/content/2014-direct-flights-from-melbourne-to-tokyo-take-off",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "daintree-national-park",
+      "slug": "daintree-national-park",
+      "name": "デインツリー国立公園",
+      "internalEnglishName": "Daintree National Park",
+      "region": "oceania",
+      "country": "オーストラリア",
+      "city": "ケープ・トリビュレーション",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "熱帯雨林がサンゴ海の海岸まで迫るクイーンズランド北部の国立公園。太古の植生と固有の野生生物を、遊歩道やガイドツアーで観察できる。",
+      "coordinates": {
+        "latitude": -16.0887845,
+        "longitude": 145.4622111
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-16.0887845%2C145.4622111",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ケアンズ国際空港",
+        "routeSummary": "成田国際空港 → ケアンズ国際空港（直行便・約7〜8時間）→ 車でMossman・Daintree River Ferry経由 → Cape Tribulation",
+        "estimatedDuration": "約10〜12時間",
+        "transferCount": 0,
+        "localTransport": "ケアンズからレンタカーまたは認可ツアーで北上し、デインツリー川をフェリーで渡って各遊歩道へ向かう。",
+        "note": "豪雨、洪水、フェリー整備で道路状況が変わる。公園警報とQueensland Trafficを出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Daintree_Rainforest_2.jpg/1280px-Daintree_Rainforest_2.jpg",
+        "alt": "背の高い樹木とシダが茂るデインツリーの熱帯雨林",
+        "width": 1280,
+        "height": 1707,
+        "author": "Killerscene",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daintree_Rainforest_2.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Daintree National Park visitor guide - Queensland Parks",
+          "url": "https://parks.des.qld.gov.au/__data/assets/pdf_file/0026/161927/daintree-discovery-guide.pdf",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Visiting safely - Daintree National Park",
+          "url": "https://parks.qld.gov.au/parks/daintree/visiting-safely",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Japan and Cairns flight schedule from March 2026 - Jetstar",
+          "url": "https://files.jetstar.com/api/public/content/JQ-Industry-Update-NZ-March-2026?v=d43927d4",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "te-puia-rotorua",
+      "slug": "te-puia-rotorua",
+      "name": "テ・プイア",
+      "internalEnglishName": "Te Puia",
+      "region": "oceania",
+      "country": "ニュージーランド",
+      "city": "ロトルア",
+      "categories": ["アート・文化", "自然・絶景", "アクティビティ"],
+      "description": "ファカレワレワ地熱谷にあるマオリ文化と地熱景観の拠点。ポフツ間欠泉、彫刻・織物の伝統技術、キーウィ保護施設を一度に体験できる。",
+      "coordinates": {
+        "latitude": -38.1643506,
+        "longitude": 176.2501709
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-38.1643506%2C176.2501709",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ロトルア空港",
+        "routeSummary": "成田国際空港 → オークランド国際空港（直行便・約10〜11時間）→ ロトルア空港（国内線・約45分）→ タクシーまたは市内バス",
+        "estimatedDuration": "約14〜17時間",
+        "transferCount": 1,
+        "localTransport": "ロトルア空港からタクシーまたは市内交通でHemo Roadの入口へ向かう。セルフドライブ用駐車場もある。",
+        "note": "ガイドツアーは開始時刻が決まっているため、国内線の遅延を見込んで予約時間に余裕を持たせる。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Te_Puia%2C_Rotorua_%2852377563515%29.jpg/1280px-Te_Puia%2C_Rotorua_%2852377563515%29.jpg",
+        "alt": "湯気が立つテ・プイアの地熱谷と遊歩道",
+        "width": 1280,
+        "height": 960,
+        "author": "Carlos Pacheco",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Te_Puia,_Rotorua_(52377563515).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Te Puia official site",
+          "url": "https://www.tepuia.com/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Te Puia FAQs and access",
+          "url": "https://www.tepuia.com/faqs/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights and connections to Rotorua - Air New Zealand",
+          "url": "https://www.airnewzealand.com/destination-rotorua",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "aoraki-mount-cook-national-park",
+      "slug": "aoraki-mount-cook-national-park",
+      "name": "アオラキ／マウント・クック国立公園",
+      "internalEnglishName": "Aoraki / Mount Cook National Park",
+      "region": "oceania",
+      "country": "ニュージーランド",
+      "city": "アオラキ／マウント・クック",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "ニュージーランド最高峰アオラキと氷河に囲まれた山岳国立公園。ビジターセンターを起点に、展望トラックや星空観察を楽しめる。",
+      "coordinates": {
+        "latitude": -43.7331829,
+        "longitude": 170.0952673
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-43.7331829%2C170.0952673",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "クライストチャーチ国際空港",
+        "routeSummary": "成田国際空港 → オークランド国際空港（1回乗継）→ クライストチャーチ国際空港 → 車でState Highway 1・8・80経由",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "クライストチャーチからレンタカーまたは予約制長距離バスで約4時間半。園内はMount Cook Villageから徒歩で各トラックへ向かう。",
+        "note": "冬季は積雪、通年で強風や雪崩の影響がある。DOCの警報、天候、道路状況を直前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aoraki_-_Mt_Cook%2C_Aoraki_-_Mount_Cook_National_Park%2C_New_Zealand.jpg/1280px-Aoraki_-_Mt_Cook%2C_Aoraki_-_Mount_Cook_National_Park%2C_New_Zealand.jpg",
+        "alt": "雪を頂くアオラキ／マウント・クックと山岳地帯",
+        "width": 1280,
+        "height": 672,
+        "author": "Michal Klajban",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aoraki_-_Mt_Cook,_Aoraki_-_Mount_Cook_National_Park,_New_Zealand.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Aoraki/Mount Cook National Park - Department of Conservation",
+          "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Aoraki/Mount Cook National Park Visitor Centre",
+          "url": "https://dxcprod.doc.govt.nz/footer-links/contact-us/visitor-centres/aoraki-mount-cook-national-park-visitor-centre/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tokyo and New Zealand network - Air New Zealand",
+          "url": "https://www.airnewzealand.com/en-nz/destination-tokyo",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "aitutaki-lagoon",
+      "slug": "aitutaki-lagoon",
+      "name": "アイツタキ・ラグーン",
+      "internalEnglishName": "Aitutaki Lagoon",
+      "region": "oceania",
+      "country": "クック諸島",
+      "city": "アルタンガ",
+      "categories": ["ビーチ・リゾート", "自然・絶景", "アクティビティ"],
+      "description": "三角形の環礁内にターコイズ色の浅瀬と小島が広がるラグーン。ボートクルーズ、シュノーケリング、カヤックで透明な海を巡れる。",
+      "coordinates": {
+        "latitude": -18.8498767,
+        "longitude": -159.7570071
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-18.8498767%2C-159.7570071",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "アイツタキ空港",
+        "routeSummary": "成田国際空港 → オークランド国際空港（1回乗継）→ ラロトンガ国際空港 → アイツタキ空港（国内線・約50分）",
+        "estimatedDuration": "約20〜26時間",
+        "transferCount": 2,
+        "localTransport": "空港から宿泊先送迎またはレンタル車両で本島を移動し、予約したラグーンクルーズの船着場へ向かう。",
+        "note": "国際線と国内線は運航日・接続が限られる。日付変更線と乗継時間を確認し、クルーズは天候変動を見込んで予約する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Maina_Island%2C_Aitutaki_Lagoon%2C_Cook_Islands.jpg/1280px-Maina_Island%2C_Aitutaki_Lagoon%2C_Cook_Islands.jpg",
+        "alt": "アイツタキ・ラグーンの白砂の小島と透明な海",
+        "width": 1280,
+        "height": 960,
+        "author": "Patrick Nunn",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maina_Island,_Aitutaki_Lagoon,_Cook_Islands.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Aitutaki - Cook Islands Tourism",
+          "url": "https://cookislands.travel/islands/aitutaki",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Travel to Rarotonga and Aitutaki - Cook Islands Tourism",
+          "url": "https://cookislands.travel/nz",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Air New Zealand destinations and Pacific connections",
+          "url": "https://www.airnewzealand.com/en-nz/travel-info/destinations-we-fly-to",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "nan-madol",
+      "slug": "nan-madol",
+      "name": "ナン・マドール",
+      "internalEnglishName": "Nan Madol",
+      "region": "oceania",
+      "country": "ミクロネシア連邦",
+      "city": "マドレニーム",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "ポンペイ島沖の人工小島群に玄武岩の宮殿・神殿・墓所跡が残る世界遺産。運河で結ばれた巨石遺構が島社会の歴史を伝える。",
+      "coordinates": {
+        "latitude": 6.8431516,
+        "longitude": 158.332759
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=6.8431516%2C158.332759",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ポンペイ国際空港",
+        "routeSummary": "成田国際空港 → グアム国際空港（直行便・約4時間）→ ポンペイ国際空港 → 車と現地ガイドでNan Madol",
+        "estimatedDuration": "約10〜15時間",
+        "transferCount": 1,
+        "localTransport": "空港・Koloniaから四輪駆動車や現地ツアーでMadolenihmwへ向かい、入口から徒歩または許可されたボートで遺構を訪れる。",
+        "note": "保存状態が脆弱で世界遺産危機リストにある。伝統的管理者の指示、入域条件、潮位、ガイド手配を事前確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nan_Madol%2C_Pohnpei.jpg/1280px-Nan_Madol%2C_Pohnpei.jpg",
+        "alt": "水路沿いに積み上げられたナン・マドールの玄武岩遺構",
+        "width": 1280,
+        "height": 960,
+        "author": "Uhooep",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nan_Madol,_Pohnpei.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Nan Madol - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/1503/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Travel Advisory and access to Pohnpei - Visit Pohnpei",
+          "url": "https://visitpohnpei.travel/travel-advisory/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Guam and Pohnpei flight schedule - United Airlines Guam Hub",
+          "url": "https://guam.united.com/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "lagoons-of-new-caledonia",
+      "slug": "lagoons-of-new-caledonia",
+      "name": "ニューカレドニアのラグーン",
+      "internalEnglishName": "Lagoons of New Caledonia",
+      "region": "oceania",
+      "country": "ニューカレドニア",
+      "city": "ヌメア",
+      "categories": ["自然・絶景", "ビーチ・リゾート", "アクティビティ"],
+      "description": "グランドテール島を囲む広大なサンゴ礁とラグーン。ヌメア周辺のビーチや小島から、シュノーケリングやボートで多様な海洋生態系を観察できる。",
+      "coordinates": {
+        "latitude": -22.3002118,
+        "longitude": 166.4444497
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-22.3002118%2C166.4444497",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ヌメア・ラ・トントゥータ国際空港",
+        "routeSummary": "成田国際空港 → オークランド国際空港（1回乗継）→ ヌメア・ラ・トントゥータ国際空港 → 空港シャトルでヌメア",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港から予約制シャトルでヌメアへ移動し、Anse Vataや市内の船着場から認可ツアーでラグーンや小島を巡る。",
+        "note": "航空便と海上ツアーは運航状況が変わる。保護区域の利用規則、海況、旅行勧告を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/New_Caledonia_lagoon.jpg/1280px-New_Caledonia_lagoon.jpg",
+        "alt": "上空から見たニューカレドニアの青いラグーンとサンゴ礁",
+        "width": 1280,
+        "height": 961,
+        "author": "Frenchytahiti",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Caledonia_lagoon.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "New Caledonia's lagoon - New Caledonia Tourism",
+          "url": "https://www.newcaledonia.travel/activities/heavenly-lagoon/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights to New Caledonia - New Caledonia Tourism",
+          "url": "https://www.newcaledonia.travel/travel-guide/flights/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting around New Caledonia",
+          "url": "https://www.newcaledonia.travel/plan-your-trip/transport/getting-around/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "two-lovers-point-guam",
+      "slug": "two-lovers-point-guam",
+      "name": "恋人岬",
+      "internalEnglishName": "Puntan Dos Amantes / Two Lovers Point",
+      "region": "oceania",
+      "country": "グアム",
+      "city": "タムニン",
+      "categories": ["自然・絶景", "アート・文化"],
+      "description": "タモン湾を見下ろす石灰岩の断崖にある展望地。チャモロの恋人伝説を伝えるモニュメントと、フィリピン海の広い眺望で知られる。",
+      "coordinates": {
+        "latitude": 13.535316,
+        "longitude": 144.802512
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.535316%2C144.802512",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "グアム国際空港",
+        "routeSummary": "羽田空港 → グアム国際空港（直行便・約4〜5時間）→ タクシーまたはレンタカーでTumon経由 → 恋人岬",
+        "estimatedDuration": "約6〜7時間",
+        "transferCount": 0,
+        "localTransport": "空港・Tumon地区からタクシー、レンタカー、運行時は観光シャトルで展望地へ向かう。",
+        "note": "公共交通の本数が限られるため帰路を先に確保する。強風・荒天時は展望区域の運用を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Two_Lovers_Point_%28257150297%29.jpg/1280px-Two_Lovers_Point_%28257150297%29.jpg",
+        "alt": "海に突き出たグアム恋人岬の断崖と展望台",
+        "width": 1280,
+        "height": 960,
+        "author": "Ryan Harvey",
+        "licenseName": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Two_Lovers_Point_(257150297).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Puntan Dos Amantes - Guam Visitors Bureau",
+          "url": "https://www.visitguam.com/listing/puntan-dos-amantes/1587/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Guam flight schedule - United Airlines Guam Hub",
+          "url": "https://guam.united.com/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "limu-pools",
+      "slug": "limu-pools",
+      "name": "リム・プール",
+      "internalEnglishName": "Limu Pools",
+      "region": "oceania",
+      "country": "ニウエ",
+      "city": "ナムクル",
+      "categories": ["自然・絶景", "ビーチ・リゾート", "アクティビティ"],
+      "description": "石灰岩の入り江に海水が流れ込むニウエ北西岸の天然プール。透明度の高い水と岩礁に囲まれ、潮位を見ながら遊泳やシュノーケリングを楽しめる。",
+      "coordinates": {
+        "latitude": -18.9755127,
+        "longitude": -169.8963249
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-18.9755127%2C-169.8963249",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ニウエ国際空港",
+        "routeSummary": "成田国際空港 → オークランド国際空港（1回乗継）→ ニウエ国際空港 → レンタカーでAlofi・Namukulu経由",
+        "estimatedDuration": "約17〜22時間",
+        "transferCount": 1,
+        "localTransport": "島内に公共交通がないため、空港または宿泊先でレンタカーを手配し、北西岸の駐車地点から階段と岩場を歩く。",
+        "note": "日付変更線、限られた運航日、潮位と波に注意する。岩場は滑りやすく、荒天時は入水しない。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Limu_Pools%2C_looking_towards_sea_track.jpg/1280px-Limu_Pools%2C_looking_towards_sea_track.jpg",
+        "alt": "岩礁の間に青い海水が満ちるニウエのリム・プール",
+        "width": 1280,
+        "height": 853,
+        "author": "Pseudopanax at English Wikipedia",
+        "licenseName": "Public domain (released by author)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-user-w",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Limu_Pools,_looking_towards_sea_track.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Tracks, walks and caves including Limu Pools - Niue Tourism",
+          "url": "https://www.niueisland.com/see-and-do/tracks-walks-and-caves",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Travelling to Niue and flights",
+          "url": "https://www.niueisland.com/discover-niue/travelling-to-niue",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting around Niue",
+          "url": "https://www.niueisland.com/see-and-do/getting-around",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
     }
   ]
 }

@@ -63,6 +63,1095 @@
         }
       ],
       "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "ait-ben-haddou",
+      "slug": "ait-ben-haddou",
+      "name": "アイット・ベン・ハドゥ",
+      "internalEnglishName": "Aït Ben Haddou",
+      "region": "africa",
+      "country": "モロッコ",
+      "city": "アイット・ベン・ハドゥ",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "モロッコ南部の山麓に築かれた、土造りの集落クサル。高い防壁と塔を備えた伝統的なサハラ前縁地域の建築景観が残る。",
+      "coordinates": {
+        "latitude": 31.04722,
+        "longitude": -7.12889
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=31.04722%2C-7.12889",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "マラケシュ・メナラ空港",
+        "routeSummary": "羽田空港 → イスタンブール（1回乗継）→ マラケシュ・メナラ空港 → 手配車またはレンタカーでアイット・ベン・ハドゥ",
+        "estimatedDuration": "約23〜28時間",
+        "transferCount": 1,
+        "localTransport": "マラケシュからワルザザート方面へアトラス山脈を越え、手配車またはレンタカーで約3時間30分〜4時間移動する。",
+        "note": "山岳道路は天候や工事の影響を受ける。日没前の到着を計画し、道路状況を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716174408.jpg/1280px-Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716174408.jpg",
+        "alt": "土造りの塔と家々が丘に連なるアイット・ベン・ハドゥ",
+        "width": 1280,
+        "height": 960,
+        "author": "C messier",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716174408.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Ksar of Ait-Ben-Haddou - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/444/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo to Marrakech - Turkish Airlines",
+          "url": "https://www.turkishairlines.com/en-jp/flights-from-tokyo-to-marrakech",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "amphitheatre-of-el-jem",
+      "slug": "amphitheatre-of-el-jem",
+      "name": "エル・ジェムの円形闘技場",
+      "internalEnglishName": "Amphitheatre of El Jem",
+      "region": "africa",
+      "country": "チュニジア",
+      "city": "エル・ジェム",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "3世紀に築かれた、北アフリカ最大級のローマ円形闘技場。保存状態のよい石造アーチと巨大な楕円形の観客席が残る。",
+      "coordinates": {
+        "latitude": 35.29639,
+        "longitude": 10.70694
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35.29639%2C10.70694",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "チュニス・カルタゴ国際空港",
+        "routeSummary": "羽田空港 → イスタンブール（1回乗継）→ チュニス・カルタゴ国際空港 → タクシーでチュニス駅 → 列車でエル・ジェム駅 → 徒歩",
+        "estimatedDuration": "約22〜27時間",
+        "transferCount": 1,
+        "localTransport": "空港からチュニス中心部へ移動し、チュニス駅からSNCFTの列車でエル・ジェム駅へ。駅から闘技場までは徒歩で移動する。",
+        "note": "列車の本数と所要時間は運行日により変わるため、SNCFTの最新時刻表を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Amphitheater_at_El_Djem.jpg/1280px-Amphitheater_at_El_Djem.jpg",
+        "alt": "幾層もの石造アーチが残るエル・ジェムの円形闘技場",
+        "width": 1280,
+        "height": 853,
+        "author": "Agnieszka Wolska",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amphitheater_at_El_Djem.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Amphitheatre of El Jem - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/38/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo to Tunisia - Turkish Airlines",
+          "url": "https://www.turkishairlines.com/en-jp/book-flights-from-tokyo-to-tunisia",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "SNCFT Stations",
+          "url": "https://www.sncft.com.tn/en/the-sncft/stations/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "goree-island",
+      "slug": "goree-island",
+      "name": "ゴレ島",
+      "internalEnglishName": "Island of Gorée",
+      "region": "africa",
+      "country": "セネガル",
+      "city": "ダカール",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "ダカール沖に浮かぶ、奴隷貿易の歴史を伝える島。植民地期の建物と要塞が残り、記憶と和解の象徴として保存されている。",
+      "coordinates": {
+        "latitude": 14.66722,
+        "longitude": -17.40083
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.66722%2C-17.40083",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ブレーズ・ジャーニュ国際空港",
+        "routeSummary": "羽田空港 → イスタンブール（1回乗継）→ ブレーズ・ジャーニュ国際空港 → 手配車でダカール港 → 定期船でゴレ島",
+        "estimatedDuration": "約23〜28時間",
+        "transferCount": 1,
+        "localTransport": "空港からダカールのフェリーターミナルへ手配車で移動し、ダカール港の定期船でゴレ島へ渡る。",
+        "note": "フェリーの最終便、乗船券の販売条件、当日の運航状況をダカール港の公式案内で確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Goree_Island%2C_Senegal.jpg/1280px-Goree_Island%2C_Senegal.jpg",
+        "alt": "海から望むゴレ島の色鮮やかな歴史的建物",
+        "width": 1280,
+        "height": 834,
+        "author": "TSGT Justin D. Pyle, USAF",
+        "licenseName": "Public domain (U.S. Air Force)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Air_Force",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goree_Island,_Senegal.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Island of Gorée - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/26/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Dakar-Gorée Passenger Traffic - Port Autonome de Dakar",
+          "url": "https://www.portdakar.sn/en/nos-services/trafic-passager/dakar-goree",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Istanbul to Dakar - Turkish Airlines",
+          "url": "https://www.turkishairlines.com/en/flights-from-istanbul-to-dakar",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Turkish Airlines Flight Destinations",
+          "url": "https://www.turkishairlines.com/en-jp/flight-destinations/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "kakum-national-park",
+      "slug": "kakum-national-park",
+      "name": "カクム国立公園",
+      "internalEnglishName": "Kakum National Park",
+      "region": "africa",
+      "country": "ガーナ",
+      "city": "アブラフォ",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "熱帯雨林の樹冠を吊り橋で歩ける国立公園。森の地上約27メートルに設けられたキャノピーウォークから、多様な動植物の生息域を望める。",
+      "coordinates": {
+        "latitude": 5.396589,
+        "longitude": -1.337127
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=5.396589%2C-1.337127",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "コトカ国際空港",
+        "routeSummary": "羽田空港 → イスタンブール（1回乗継）→ コトカ国際空港（アクラ）→ 手配車でケープ・コースト経由 → カクム国立公園",
+        "estimatedDuration": "約24〜29時間",
+        "transferCount": 1,
+        "localTransport": "アクラから手配車でケープ・コーストを経由し、アブラフォの公園入口まで約3時間30分〜4時間移動する。",
+        "note": "雨季は道路状況と吊り橋の運用が変わる場合がある。公園の開園状況と帰路の車を事前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kakum_National_Park_Hanging_Bridge_Canopy_Walkway.jpg/1280px-Kakum_National_Park_Hanging_Bridge_Canopy_Walkway.jpg",
+        "alt": "熱帯雨林の樹冠に架かるカクム国立公園の吊り橋",
+        "width": 1280,
+        "height": 1142,
+        "author": "Philip Nalangan",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kakum_National_Park_Hanging_Bridge_Canopy_Walkway.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Tourist Sites - Ghana Ministry of Tourism, Arts and Culture",
+          "url": "https://www.motac.gov.gh/tourist-sites/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Contact and Directions - Kakum National Park",
+          "url": "https://www.kakumpark.com/contact-us/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights to Ghana - Turkish Airlines",
+          "url": "https://www.turkishairlines.com/en/book-flights-to-ghana",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "rock-hewn-churches-lalibela",
+      "slug": "rock-hewn-churches-lalibela",
+      "name": "ラリベラの岩窟教会群",
+      "internalEnglishName": "Rock-Hewn Churches, Lalibela",
+      "region": "africa",
+      "country": "エチオピア",
+      "city": "ラリベラ",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "岩盤を上から掘り下げて造られた11の中世教会群。13世紀の「新しいエルサレム」として築かれ、現在も信仰の場として受け継がれている。",
+      "coordinates": {
+        "latitude": 12.031631,
+        "longitude": 39.041169
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.031631%2C39.041169",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ラリベラ空港",
+        "routeSummary": "羽田空港 → イスタンブール → アディスアベバ（乗継）→ 国内線でラリベラ空港 → 手配車で教会群",
+        "estimatedDuration": "約24〜30時間",
+        "transferCount": 2,
+        "localTransport": "ラリベラ空港から市街地と教会群へ、宿泊施設または現地事業者の手配車で移動する。",
+        "note": "国内線の運航、安全情報、教会群への入場条件を直前に公式情報で確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bete_Giyorgis_01.jpg/1280px-Bete_Giyorgis_01.jpg",
+        "alt": "岩盤を十字形に掘り下げて造られたラリベラの聖ギオルギス教会",
+        "width": 1280,
+        "height": 903,
+        "author": "Bernard Gagnon",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bete_Giyorgis_01.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Rock-Hewn Churches, Lalibela - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/18/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Addis Ababa to Lalibela - Ethiopian Airlines",
+          "url": "https://www.ethiopianairlines.com/en-et/flights-from-addis-ababa-to-lalibela",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Turkish Airlines Flight Destinations",
+          "url": "https://www.turkishairlines.com/en-jp/flight-destinations/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "maasai-mara-national-reserve",
+      "slug": "maasai-mara-national-reserve",
+      "name": "マサイ・マラ国立保護区",
+      "internalEnglishName": "Maasai Mara National Reserve",
+      "region": "africa",
+      "country": "ケニア",
+      "city": "ナロク",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "広大なサバンナに大型哺乳類が生息する国立保護区。セレンゲティとつながる生態系を形成し、季節にはヌーの大移動でも知られる。",
+      "coordinates": {
+        "latitude": -1.4931,
+        "longitude": 35.1439
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-1.4931%2C35.1439",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "マサイ・マラの各エアストリップ",
+        "routeSummary": "羽田空港 → イスタンブール → ナイロビ（乗継）→ ウィルソン空港へ移動 → 小型機でマサイ・マラ → ロッジ車両",
+        "estimatedDuration": "約23〜28時間",
+        "transferCount": 2,
+        "localTransport": "ジョモ・ケニヤッタ国際空港からウィルソン空港へ車で移動し、小型機とロッジの送迎車を組み合わせる。",
+        "note": "小型機の荷物制限、利用エアストリップ、保護区の入場手続きと送迎を予約時に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Masai_Mara_landscape.jpg/1280px-Masai_Mara_landscape.jpg",
+        "alt": "マサイ・マラ国立保護区の広大な草原とアカシア",
+        "width": 1280,
+        "height": 852,
+        "author": "Byrdyak",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masai_Mara_landscape.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Maasai Mara National Reserve - Magical Kenya",
+          "url": "https://webmail.magicalkenya.com/default.nsf/doc21/4YGEX3ADMY6?e=4&l=1&opendocument=",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Maasai Mara National Reserve Management Plan - Narok County",
+          "url": "https://narok.go.ke/wp-content/uploads/2023/04/MNNR-Management-Plan-Final-February-2023-1_compressed.pdf",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Turkish Airlines Flight Destinations",
+          "url": "https://www.turkishairlines.com/en-jp/flight-destinations/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "serengeti-national-park",
+      "slug": "serengeti-national-park",
+      "name": "セレンゲティ国立公園",
+      "internalEnglishName": "Serengeti National Park",
+      "region": "africa",
+      "country": "タンザニア",
+      "city": "セロネラ",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "約1万4,763平方キロメートルに広がるサバンナの国立公園。ヌーやシマウマの大移動をはじめ、東アフリカを代表する野生動物の景観を見られる。",
+      "coordinates": {
+        "latitude": -2.333333,
+        "longitude": 34.833333
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-2.333333%2C34.833333",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "セロネラ・エアストリップ",
+        "routeSummary": "羽田空港 → イスタンブール → キリマンジャロ国際空港（乗継）→ アルーシャ方面へ移動 → 小型機でセロネラ → ロッジ車両",
+        "estimatedDuration": "約23〜29時間",
+        "transferCount": 2,
+        "localTransport": "キリマンジャロ国際空港からアルーシャ周辺の発着地へ移動し、小型機とロッジの送迎車を利用する。",
+        "note": "小型機の荷物制限、利用エアストリップ、移動シーズンに合わせた滞在地域を予約事業者と確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Serengeti_wildebeest_migration_JF.jpg/1280px-Serengeti_wildebeest_migration_JF.jpg",
+        "alt": "セレンゲティの平原を群れで移動するヌー",
+        "width": 1280,
+        "height": 912,
+        "author": "Jan Fleischmann (Wolves201)",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serengeti_wildebeest_migration_JF.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Serengeti National Park - Tanzania National Parks",
+          "url": "https://www.tanzaniaparks.go.tz/nationalparks/Serengeti",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Plan a Trip - Tanzania National Parks",
+          "url": "https://www.tanzaniaparks.go.tz/plan-a-trip",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Turkish Airlines Flight Destinations",
+          "url": "https://www.turkishairlines.com/en-jp/flight-destinations/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "volcanoes-national-park-rwanda",
+      "slug": "volcanoes-national-park-rwanda",
+      "name": "ヴォルケーノ国立公園",
+      "internalEnglishName": "Volcanoes National Park",
+      "region": "africa",
+      "country": "ルワンダ",
+      "city": "ムサンゼ",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "ヴィルンガ火山群の熱帯高地林を守る国立公園。希少なマウンテンゴリラの生息地で、許可制のガイド付きトレッキングが行われる。",
+      "coordinates": {
+        "latitude": -1.466667,
+        "longitude": 29.483333
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-1.466667%2C29.483333",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "キガリ国際空港",
+        "routeSummary": "羽田空港 → イスタンブール（1回乗継）→ キガリ国際空港 → 手配した四輪駆動車でムサンゼ、キニギ方面",
+        "estimatedDuration": "約22〜27時間",
+        "transferCount": 1,
+        "localTransport": "キガリから手配車でムサンゼ、キニギの公園拠点まで約2時間30分移動する。",
+        "note": "ゴリラ・トレッキングは許可証とガイドが必要。集合時刻、標高、雨具などの装備条件を事前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mountain_gorilla_from_Susa_Group_in_Karisimbi_thicket_of_Volcanoes_National_Park_in_Rwanda._Emmanuel_Kwizera.jpg/1280px-Mountain_gorilla_from_Susa_Group_in_Karisimbi_thicket_of_Volcanoes_National_Park_in_Rwanda._Emmanuel_Kwizera.jpg",
+        "alt": "ヴォルケーノ国立公園の森に暮らすマウンテンゴリラ",
+        "width": 1280,
+        "height": 853,
+        "author": "Emmanuel Kwizera",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mountain_gorilla_from_Susa_Group_in_Karisimbi_thicket_of_Volcanoes_National_Park_in_Rwanda._Emmanuel_Kwizera.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Tourism - Visit Rwanda",
+          "url": "https://visitrwanda.com/tourism/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Volcanoes National Park Experiential Centre - Visit Rwanda",
+          "url": "https://visitrwanda.com/volcanoes-national-park-experiential-centre/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Turkish Airlines Flight Destinations",
+          "url": "https://www.turkishairlines.com/en-jp/flight-destinations/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "robben-island",
+      "slug": "robben-island",
+      "name": "ロベン島",
+      "internalEnglishName": "Robben Island",
+      "region": "africa",
+      "country": "南アフリカ",
+      "city": "ケープタウン",
+      "categories": ["歴史・遺跡", "アート・文化"],
+      "description": "ケープタウン沖にある、隔離と政治犯収容の歴史を伝える島。アパルトヘイトへの抵抗と民主主義の記憶を残す博物館として公開されている。",
+      "coordinates": {
+        "latitude": -33.8,
+        "longitude": 18.366667
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-33.8%2C18.366667",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ケープタウン国際空港",
+        "routeSummary": "羽田空港 → イスタンブール（1回乗継）→ ケープタウン国際空港 → 手配車でV&Aウォーターフロント → 公式フェリーでロベン島",
+        "estimatedDuration": "約22〜27時間",
+        "transferCount": 1,
+        "localTransport": "空港からV&Aウォーターフロントのネルソン・マンデラ・ゲートウェイへ移動し、公式ツアーのフェリーに乗る。",
+        "note": "ツアーはフェリーを含め約3時間30分〜4時間。強風や高波による欠航があるため予約と当日の運航を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entrance%2C_Robben_Island_Maximum_Security_Prison_%2801%29.jpg/1280px-Entrance%2C_Robben_Island_Maximum_Security_Prison_%2801%29.jpg",
+        "alt": "ロベン島最大警備刑務所の石造りの入口",
+        "width": 1280,
+        "height": 851,
+        "author": "Moheen Reeyad",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance,_Robben_Island_Maximum_Security_Prison_(01).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Robben Island - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/916/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tour Types - Robben Island Museum",
+          "url": "https://www.robben-island.org.za/tour-types/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Turkish Airlines Flight Destinations",
+          "url": "https://www.turkishairlines.com/en-jp/flight-destinations/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "sossusvlei",
+      "slug": "sossusvlei",
+      "name": "ソススフレイ",
+      "internalEnglishName": "Sossusvlei",
+      "region": "africa",
+      "country": "ナミビア",
+      "city": "セスリエム",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "ナミブ砂漠の巨大な赤い砂丘に囲まれた白い塩・粘土盆地。枯れた木々が残るデッドフレイを含む、強い色彩対比の景観で知られる。",
+      "coordinates": {
+        "latitude": -24.758156,
+        "longitude": 15.307421
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-24.758156%2C15.307421",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ホセア・クタコ国際空港",
+        "routeSummary": "羽田空港 → フランクフルト → ウィントフック（乗継）→ レンタカーまたは手配車でセスリエム → 公園シャトルまたは四輪駆動車",
+        "estimatedDuration": "約28〜34時間",
+        "transferCount": 1,
+        "localTransport": "ウィントフックからセスリエムまで車で約5〜6時間。公園内の最終砂路は運行中のシャトルまたは四輪駆動車を利用する。",
+        "note": "未舗装路の燃料と予備タイヤ、公園ゲート時刻、シャトル運行、最終区間の車両条件を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dead_Vlei%2C_Sossusvlei%2C_Namibia%2C_2018-08-06%2C_DD_085.jpg/1280px-Dead_Vlei%2C_Sossusvlei%2C_Namibia%2C_2018-08-06%2C_DD_085.jpg",
+        "alt": "白い地面に枯れ木が立ち赤い砂丘に囲まれたデッドフレイ",
+        "width": 1280,
+        "height": 856,
+        "author": "Diego Delso",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dead_Vlei,_Sossusvlei,_Namibia,_2018-08-06,_DD_085.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Namib-Naukluft Park - Namibia Wildlife Resorts",
+          "url": "https://www.nwr.com.na/namib-naukluft-park/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Sossusvlei Shuttle Service Update - Namibia Wildlife Resorts",
+          "url": "https://www.nwr.com.na/nwr-announcement-on-shuttle-service-update-in-the-sossusvlei-area/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo to Frankfurt - Lufthansa",
+          "url": "https://www.lufthansa.com/lhg/de/en/o-d/cy-cy/tokyo-frankfurt",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Summer Flight Schedule 2026 - Discover Airlines",
+          "url": "https://www.discover-airlines.com/content/dam/four_y/pdfs/b2b/4y_summer-flight-schedule_2026.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "okavango-delta",
+      "slug": "okavango-delta",
+      "name": "オカバンゴ・デルタ",
+      "internalEnglishName": "Okavango Delta",
+      "region": "africa",
+      "country": "ボツワナ",
+      "city": "マウン",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "カラハリ砂漠の内陸部に広がる巨大な湿地帯。季節的な洪水が水路や島々を潤し、ゾウや大型哺乳類、鳥類など多様な野生動物を支える。",
+      "coordinates": {
+        "latitude": -19.283333,
+        "longitude": 22.9
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-19.283333%2C22.9",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "マウン国際空港",
+        "routeSummary": "成田空港 → アディスアベバ（1回乗継）→ マウン国際空港 → 小型機または手配車で宿泊キャンプ",
+        "estimatedDuration": "約23〜29時間",
+        "transferCount": 1,
+        "localTransport": "マウンからデルタ内の宿泊地へ、施設が手配する小型機または道路・ボートを組み合わせて移動する。",
+        "note": "キャンプごとに利用する滑走路やボート接続が異なる。国際線を確定する前に、現地施設と乗継可能時刻を調整する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Vista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_44.jpg/1280px-Vista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_44.jpg",
+        "alt": "上空から望むオカバンゴ・デルタの水路と湿地",
+        "width": 1280,
+        "height": 827,
+        "author": "Diego Delso",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_delta_del_Okavango,_Botsuana,_2018-08-01,_DD_44.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Okavango Delta - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/1432/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Maun - Botswana Tourism Organisation",
+          "url": "https://botswanatourism.co.bw/explore/maun",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo to Maun - Ethiopian Airlines",
+          "url": "https://www.ethiopianairlines.com/en-et/flights-from-tokyo-to-maun",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "le-morne-cultural-landscape",
+      "slug": "le-morne-cultural-landscape",
+      "name": "ル・モーンの文化的景観",
+      "internalEnglishName": "Le Morne Cultural Landscape",
+      "region": "africa",
+      "country": "モーリシャス",
+      "city": "ル・モーン",
+      "categories": ["歴史・遺跡", "自然・絶景", "ビーチ・リゾート"],
+      "description": "インド洋に突き出した半島にそびえる玄武岩の山。逃亡奴隷マルーンの避難地となった歴史を持ち、抵抗と自由の象徴として受け継がれている。",
+      "coordinates": {
+        "latitude": -20.451944,
+        "longitude": 57.328333
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-20.451944%2C57.328333",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "サー・シウサガル・ラングーラム国際空港",
+        "routeSummary": "羽田空港 → ドバイ（1回乗継）→ サー・シウサガル・ラングーラム国際空港 → 手配車でル・モーン",
+        "estimatedDuration": "約24〜27時間",
+        "transferCount": 1,
+        "localTransport": "空港から島の南西海岸を通り、手配車またはレンタカーで約1時間15分〜1時間30分移動する。",
+        "note": "山頂方面のトレイルは入場時刻やガイド条件を公式案内で確認する。暑さを避け、飲料水と歩きやすい靴を準備する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Le_Morne_Beach_with_Le_Morne_Brabant_Mountain_in_the_background%2C_Mauritius_%2853698223315%29.jpg/1280px-Le_Morne_Beach_with_Le_Morne_Brabant_Mountain_in_the_background%2C_Mauritius_%2853698223315%29.jpg",
+        "alt": "青い海と砂浜の向こうにそびえるル・モーン・ブラバン山",
+        "width": 1280,
+        "height": 853,
+        "author": "dronepicr",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Morne_Beach_with_Le_Morne_Brabant_Mountain_in_the_background,_Mauritius_(53698223315).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Le Morne Cultural Landscape - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/1259/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "General Practical Information - Le Morne Heritage Trust Fund",
+          "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2024/06/General-practical-information.pdf",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo Haneda to Mauritius - Emirates",
+          "url": "https://www.emirates.com/jp/english/destinations/hnd/mru/flights-from-tokyo-haneda-to-mauritius/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "vallee-de-mai-nature-reserve",
+      "slug": "vallee-de-mai-nature-reserve",
+      "name": "ヴァレ・ド・メ自然保護区",
+      "internalEnglishName": "Vallée de Mai Nature Reserve",
+      "region": "africa",
+      "country": "セーシェル",
+      "city": "プララン島",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "プララン島に残る原生的なヤシ林。世界最大級の種子をつける固有種ココ・デ・メールをはじめ、島独自の植物や鳥類が生息する。",
+      "coordinates": {
+        "latitude": -4.331,
+        "longitude": 55.738
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-4.331%2C55.738",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "セーシェル国際空港",
+        "routeSummary": "羽田空港 → ドバイ → セーシェル国際空港（マヘ島）→ 国内線でプララン島（計2回乗継）→ タクシーまたは路線バス",
+        "estimatedDuration": "約21〜25時間",
+        "transferCount": 2,
+        "localTransport": "プララン島空港からタクシーまたは路線バスで島の中央部にある保護区入口へ移動する。マヘ島から高速船を使う方法もある。",
+        "note": "マヘ島到着と国内線または高速船の間に十分な余裕を取る。保護区の開園時刻と当日の島内交通を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Vall%C3%A9e_De_Mai_-_National_Park_-_Praslin_-_Seychelles_-_03.jpg/1280px-Vall%C3%A9e_De_Mai_-_National_Park_-_Praslin_-_Seychelles_-_03.jpg",
+        "alt": "ヴァレ・ド・メ自然保護区に広がるココ・デ・メールのヤシ林",
+        "width": 1280,
+        "height": 853,
+        "author": "Norbert Nagel",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vall%C3%A9e_De_Mai_-_National_Park_-_Praslin_-_Seychelles_-_03.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Vallée de Mai Nature Reserve - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/261/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Vallée de Mai UNESCO Gem - Tourism Seychelles",
+          "url": "https://www.seychelles.com/blog-details/7592/highlights/vallee-de-mai-unesco-gem-seychelles",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo Haneda to Mahé - Emirates",
+          "url": "https://www.emirates.com/english/destinations/hnd/sez/flights-from-tokyo-haneda-to-mahe/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "royal-palaces-of-abomey",
+      "slug": "royal-palaces-of-abomey",
+      "name": "アボメイの王宮群",
+      "internalEnglishName": "Royal Palaces of Abomey",
+      "region": "africa",
+      "country": "ベナン",
+      "city": "アボメイ",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "17世紀から19世紀にダホメ王国の歴代王が築いた王宮群。土壁や中庭、王国の歴史を表す浅浮彫に、地域固有の建築と王権文化が残る。",
+      "coordinates": {
+        "latitude": 7.187257,
+        "longitude": 1.99357
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=7.187257%2C1.99357",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "カジェフォウン空港",
+        "routeSummary": "成田空港 → アディスアベバ（1回乗継）→ カジェフォウン空港（コトヌー）→ 手配車でアボメイ",
+        "estimatedDuration": "約25〜30時間",
+        "transferCount": 1,
+        "localTransport": "コトヌーから北へ約145キロメートル、手配車でおよそ3時間かけてアボメイへ移動する。",
+        "note": "長距離の陸路になるため、日中の移動と往復の車を事前に手配する。博物館の開館状況と見学条件も確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Royal_Palaces_of_Abomey-133477.jpg/1280px-Royal_Palaces_of_Abomey-133477.jpg",
+        "alt": "土壁と柱廊が続くアボメイの王宮群",
+        "width": 1280,
+        "height": 960,
+        "author": "Karalyn Monteil",
+        "licenseName": "CC BY-SA 3.0 IGO",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Palaces_of_Abomey-133477.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Royal Palaces of Abomey - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/323/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Discover Benin - Benin Tourism",
+          "url": "https://www.tourismebenin.bj/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo to Cotonou - Ethiopian Airlines",
+          "url": "https://www.ethiopianairlines.com/en-et/flights-from-tokyo-to-cotonou",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "bwindi-impenetrable-national-park",
+      "slug": "bwindi-impenetrable-national-park",
+      "name": "ブウィンディ原生国立公園",
+      "internalEnglishName": "Bwindi Impenetrable National Park",
+      "region": "africa",
+      "country": "ウガンダ",
+      "city": "ブホマ",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "ウガンダ南西部の山地に広がる古い熱帯林。高い生物多様性を持ち、絶滅危惧種のマウンテンゴリラを保護する重要な生息地となっている。",
+      "coordinates": {
+        "latitude": -1.047,
+        "longitude": 29.692
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-1.047%2C29.692",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "エンテベ国際空港",
+        "routeSummary": "成田空港 → アディスアベバ（1回乗継）→ エンテベ国際空港 → 手配した四輪駆動車でブウィンディの指定セクター",
+        "estimatedDuration": "約31〜38時間",
+        "transferCount": 1,
+        "localTransport": "エンテベまたはカンパラから、手配した四輪駆動車で約8〜10時間かけてブホマなど予約済みのセクターへ向かう。",
+        "note": "ゴリラ・トレッキングは事前許可が必要で、許可証により集合セクターが決まる。雨季の道路状況と早朝集合に合わせて前泊する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bwindi.JPG/1280px-Bwindi.JPG",
+        "alt": "ブウィンディの深い森で休むマウンテンゴリラ",
+        "width": 1280,
+        "height": 960,
+        "author": "Duncan Wright",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bwindi.JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Bwindi Impenetrable National Park - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/682/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Visitor Guide - Uganda Wildlife Authority",
+          "url": "https://ugandawildlife.org/visitor-guide/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo to Entebbe - Ethiopian Airlines",
+          "url": "https://www.ethiopianairlines.com/en-et/flights-from-tokyo-to-entebbe",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "lake-malawi-national-park",
+      "slug": "lake-malawi-national-park",
+      "name": "マラウイ湖国立公園",
+      "internalEnglishName": "Lake Malawi National Park",
+      "region": "africa",
+      "country": "マラウイ",
+      "city": "ケープ・マクレア",
+      "categories": ["自然・絶景", "ビーチ・リゾート", "アクティビティ"],
+      "description": "透明度の高い湖と岩礁、砂浜を含む淡水の国立公園。固有種のシクリッドを中心とする豊かな魚類相が、生物進化の研究でも重要視されている。",
+      "coordinates": {
+        "latitude": -14.03333,
+        "longitude": 34.88333
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-14.03333%2C34.88333",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "カムズ国際空港",
+        "routeSummary": "成田空港 → アディスアベバ（1回乗継）→ カムズ国際空港（リロングウェ）→ 宿泊施設の手配車でケープ・マクレア",
+        "estimatedDuration": "約27〜32時間",
+        "transferCount": 1,
+        "localTransport": "リロングウェからモンキー・ベイ方面へ、宿泊施設の送迎車または手配車で約4時間移動する。",
+        "note": "最終区間の送迎と夜間到着時の対応を宿泊施設に確認する。遊泳やボート利用は現地の水況と安全案内に従う。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Otter_Point%2C_Cape_Maclear_%28Malawi%29.jpg/1280px-Otter_Point%2C_Cape_Maclear_%28Malawi%29.jpg",
+        "alt": "マラウイ湖の青い水面とケープ・マクレアの岩場",
+        "width": 1280,
+        "height": 960,
+        "author": "Hans Hillewaert",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Otter_Point,_Cape_Maclear_(Malawi).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Lake Malawi National Park - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/289/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Lakes and Islands - Visit Malawi",
+          "url": "https://visitmalawi.mw/lakes-and-islands/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo to Lilongwe - Ethiopian Airlines",
+          "url": "https://www.ethiopianairlines.com/en-et/flights-from-tokyo-to-lilongwe",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "victoria-falls-zimbabwe",
+      "slug": "victoria-falls-zimbabwe",
+      "name": "ヴィクトリアの滝",
+      "internalEnglishName": "Victoria Falls",
+      "region": "africa",
+      "country": "ジンバブエ",
+      "city": "ヴィクトリア・フォールズ",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "ザンベジ川が幅約1.7キロメートルの玄武岩峡谷へ流れ落ちる大瀑布。増水期には巨大な水煙が立ち上り、周囲の峡谷と雨林を潤す。",
+      "coordinates": {
+        "latitude": -17.92453,
+        "longitude": 25.85539
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-17.92453%2C25.85539",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ヴィクトリア・フォールズ空港",
+        "routeSummary": "成田空港 → アディスアベバ（1回乗継）→ ヴィクトリア・フォールズ空港 → 空港送迎車で市街地と国立公園入口",
+        "estimatedDuration": "約23〜28時間",
+        "transferCount": 1,
+        "localTransport": "空港からA8号線を通り、宿泊施設の送迎車または認可タクシーで約20〜30分移動する。",
+        "note": "水量と遊歩道の濡れ方は季節で大きく変わる。国立公園の入場条件を確認し、防水装備と滑りにくい靴を用意する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Victoria_Falls%2C_Zimbabwe_01.jpg/1280px-Victoria_Falls%2C_Zimbabwe_01.jpg",
+        "alt": "峡谷へ大量の水が流れ落ち水煙を上げるヴィクトリアの滝",
+        "width": 1280,
+        "height": 689,
+        "author": "Bernard Gagnon",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Victoria_Falls,_Zimbabwe_01.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Mosi-oa-Tunya / Victoria Falls - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/509/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Victoria Falls National Park - ZimParks",
+          "url": "https://www.zimparks.org.zw/victoria-falls-national-park/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo to Victoria Falls - Ethiopian Airlines",
+          "url": "https://www.ethiopianairlines.com/en-jp/flights-from-tokyo-to-victoria-falls",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "tsingy-de-bemaraha-national-park",
+      "slug": "tsingy-de-bemaraha-national-park",
+      "name": "ツィンギ・デ・ベマラ厳正自然保護区",
+      "internalEnglishName": "Tsingy de Bemaraha Strict Nature Reserve",
+      "region": "africa",
+      "country": "マダガスカル",
+      "city": "ベコパカ",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "石灰岩が浸食されて生まれた鋭い針状のカルスト地形が広がる保護区。峡谷や森林が固有の動植物を育み、吊り橋を含むガイド付きルートで探訪できる。",
+      "coordinates": {
+        "latitude": -18.919167,
+        "longitude": 44.793056
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-18.919167%2C44.793056",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "イヴァト国際空港",
+        "routeSummary": "成田空港 → アディスアベバ → イヴァト国際空港（アンタナナリボ）→ 国内線または手配移動でモロンダバ → 四輪駆動車でベコパカ",
+        "estimatedDuration": "約33〜42時間",
+        "transferCount": 2,
+        "localTransport": "モロンダバから渡河区間を含む未舗装路を、現地事業者の四輪駆動車で約8〜10時間かけてベコパカへ向かう。",
+        "note": "公園への道路と渡し船は季節や降雨の影響を強く受ける。開園期間、ガイド、四輪駆動車、宿泊を一括して事前確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Relief_karstique%2C_Tsingy_de_Bemaraha%2C_Madagascar.jpg/1280px-Relief_karstique%2C_Tsingy_de_Bemaraha%2C_Madagascar.jpg",
+        "alt": "鋭い石灰岩の峰が連なるツィンギ・デ・ベマラのカルスト地形",
+        "width": 1280,
+        "height": 853,
+        "author": "Cactus0625",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relief_karstique,_Tsingy_de_Bemaraha,_Madagascar.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Andrefana Dry Forests - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/494/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tsingy de Bemaraha - Madagascar National Parks",
+          "url": "https://parcs-madagascar.com/en/parc/tsingy-de-bemaraha-2/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo to Antananarivo - Ethiopian Airlines",
+          "url": "https://www.ethiopianairlines.com/en-jp/flights-from-tokyo-to-antananarivo",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "osun-osogbo-sacred-grove",
+      "slug": "osun-osogbo-sacred-grove",
+      "name": "オスン＝オソグボの聖なる森",
+      "internalEnglishName": "Osun-Osogbo Sacred Grove",
+      "region": "africa",
+      "country": "ナイジェリア",
+      "city": "オソグボ",
+      "categories": ["アート・文化", "歴史・遺跡", "自然・絶景"],
+      "description": "オスン川沿いに残るヨルバ文化の聖なる森。女神オスンに捧げる社や彫刻が森林景観の中に点在し、信仰と芸術が今も息づく。",
+      "coordinates": {
+        "latitude": 7.75556,
+        "longitude": 4.55222
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=7.75556%2C4.55222",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ムルタラ・モハンマド国際空港",
+        "routeSummary": "成田空港 → アディスアベバ（1回乗継）→ ムルタラ・モハンマド国際空港（ラゴス）→ 手配車でオソグボ",
+        "estimatedDuration": "約26〜32時間",
+        "transferCount": 1,
+        "localTransport": "ラゴスから現地事情に詳しい事業者の手配車で、日中に約4〜5時間かけてオソグボへ移動する。",
+        "note": "長距離道路の状況、入場方法、祭礼期間の交通規制を事前に確認する。聖域では現地ガイドの説明と撮影ルールに従う。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Osun-Osogbo_sacred_groove_17.jpg/1280px-Osun-Osogbo_sacred_groove_17.jpg",
+        "alt": "オスン＝オソグボの聖なる森に立つ大きな人物彫刻",
+        "width": 1280,
+        "height": 854,
+        "author": "Obibillion1",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osun-Osogbo_sacred_groove_17.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Osun-Osogbo Sacred Grove - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/1118/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tourist Centres - Osun State Government",
+          "url": "https://www.osunstate.gov.ng/tourist-centres/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Flights from Tokyo to Lagos - Ethiopian Airlines",
+          "url": "https://www.ethiopianairlines.com/en-et/flights-from-tokyo-to-lagos",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
     }
   ]
 }

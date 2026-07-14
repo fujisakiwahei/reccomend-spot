@@ -57,6 +57,1581 @@
         }
       ],
       "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "chichen-itza",
+      "slug": "chichen-itza",
+      "name": "チチェン・イッツァ",
+      "internalEnglishName": "Chichen Itza",
+      "region": "latin-america",
+      "country": "メキシコ",
+      "city": "ティヌム（ユカタン州）",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "ユカタン半島に築かれたマヤ文明の都市遺跡。ククルカン神殿を中心に、マヤと中央メキシコの様式が融合した建築群が残る。",
+      "coordinates": {
+        "latitude": 20.682949,
+        "longitude": -88.568677
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=20.682949%2C-88.568677",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "メリダ国際空港",
+        "routeSummary": "成田空港 → メキシコシティ → メリダ（1回の航空乗継）→ 車または長距離バス",
+        "estimatedDuration": "約18〜24時間",
+        "transferCount": 1,
+        "localTransport": "メリダから国道180号線を東へ進み、ピステで遺跡方面へ分岐する。車やツアーバスで約2時間が目安。",
+        "note": "カンクンからも国道180号線でアクセスできる。入場時間と追加料金はINAHの最新案内を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chichen_Itza%2C_El_Castillo_%2814180679857%29.jpg/1280px-Chichen_Itza%2C_El_Castillo_%2814180679857%29.jpg",
+        "alt": "青空の下にそびえるチチェン・イッツァのククルカン神殿",
+        "width": 1280,
+        "height": 853,
+        "author": "Arian Zwegers",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chichen_Itza,_El_Castillo_(14180679857).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Chichén Itzá - Instituto Nacional de Antropología e Historia",
+          "url": "https://lugares.inah.gob.mx/en/node/4335",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Pre-Hispanic City of Chichen-Itza - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/483/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "ADO bus from Cancun to Chichen Itza",
+          "url": "https://international.ado.com.mx/cancun-to-chichen-itza?locale=es-MX",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "iguazu-national-park",
+      "slug": "iguazu-national-park",
+      "name": "イグアス国立公園",
+      "internalEnglishName": "Iguazu National Park",
+      "region": "latin-america",
+      "country": "アルゼンチン",
+      "city": "プエルト・イグアス（ミシオネス州）",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "亜熱帯林の中を大小の滝が連なる国立公園。遊歩道や観光列車から、轟音と水煙に包まれる「悪魔の喉笛」を望める。",
+      "coordinates": {
+        "latitude": -25.695259,
+        "longitude": -54.436666
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-25.695259%2C-54.436666",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "イグアスの滝国際空港",
+        "routeSummary": "成田空港 → 北米主要空港 → ブエノスアイレス（2回目の航空乗継）→ プエルト・イグアス → バスまたはタクシー",
+        "estimatedDuration": "約28〜35時間",
+        "transferCount": 2,
+        "localTransport": "イグアスの滝国際空港またはプエルト・イグアス市内から、路線バスやタクシーで公園入口へ向かう。",
+        "note": "園内の遊歩道や観光列車は天候・水位で運行が変わるため、国立公園の当日案内を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Argentina_Cataratas_del_Iguazu_4.JPG/1280px-Argentina_Cataratas_del_Iguazu_4.JPG",
+        "alt": "アルゼンチン側の密林を縫って幾筋にも流れ落ちるイグアスの滝",
+        "width": 1280,
+        "height": 853,
+        "author": "Whatsinaname",
+        "licenseName": "Public domain (released by author)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Argentina_Cataratas_del_Iguazu_4.JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Actividades - Parque Nacional Iguazú",
+          "url": "https://www.argentina.gob.ar/parquesnacionales/nea/parque-nacional-iguazu/actividades",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Horarios y cómo llegar - Parque Nacional Iguazú",
+          "url": "https://www.argentina.gob.ar/parquesnacionales/nea/parque-nacional-iguazu/horarios-como-llegar",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "cartagena-walled-city",
+      "slug": "cartagena-walled-city",
+      "name": "カルタヘナ旧市街",
+      "internalEnglishName": "Walled City of Cartagena",
+      "region": "latin-america",
+      "country": "コロンビア",
+      "city": "カルタヘナ",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "カリブ海の港を守った城壁と要塞に囲まれる旧市街。色鮮やかな植民地建築、石畳の路地、広場がまとまって残る。",
+      "coordinates": {
+        "latitude": 10.4236,
+        "longitude": -75.5503
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=10.4236%2C-75.5503",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ラファエル・ヌニェス国際空港",
+        "routeSummary": "成田空港 → 北米主要空港 → ボゴタ（2回目の航空乗継）→ カルタヘナ → タクシー",
+        "estimatedDuration": "約25〜32時間",
+        "transferCount": 2,
+        "localTransport": "空港から旧市街までは認可タクシーで約10分が目安。旧市街内は徒歩で巡る。",
+        "note": "空港では国内線・国際線出口にある認可タクシー乗り場を利用し、最新運賃を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Las_Murallas%2C_the_walls_of_Cartagena%2C_Colombia_%2824288545120%29.jpg/1280px-Las_Murallas%2C_the_walls_of_Cartagena%2C_Colombia_%2824288545120%29.jpg",
+        "alt": "カルタヘナ旧市街を囲む石造りの城壁とカリブ海沿岸の街並み",
+        "width": 1280,
+        "height": 848,
+        "author": "Joe Ross",
+        "licenseName": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Las_Murallas,_the_walls_of_Cartagena,_Colombia_(24288545120).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Port, Fortresses and Group of Monuments, Cartagena - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/285/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tour of the Historic Center of Cartagena de Indias - Colombia Travel",
+          "url": "https://colombia.travel/en/cartagena/tour-historic-center",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Cómo llegar al aeropuerto - Aeropuerto de Cartagena",
+          "url": "https://aeropuertocartagena.com.co/como-llegar-al-aeropuerto/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "galapagos-national-park",
+      "slug": "galapagos-national-park",
+      "name": "ガラパゴス国立公園",
+      "internalEnglishName": "Galapagos National Park",
+      "region": "latin-america",
+      "country": "エクアドル",
+      "city": "ガラパゴス諸島",
+      "categories": ["自然・絶景", "アクティビティ", "ビーチ・リゾート"],
+      "description": "火山島と海洋環境に固有の生き物が暮らす群島。指定された訪問地をガイドと巡り、海岸散策やシュノーケリングを楽しめる。",
+      "coordinates": {
+        "latitude": -0.611789,
+        "longitude": -90.663986
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-0.611789%2C-90.663986",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "セイモア空港（バルトラ島）",
+        "routeSummary": "成田空港 → 北米主要空港 → キトまたはグアヤキル（2回目の航空乗継）→ バルトラ島 → バス・渡し船",
+        "estimatedDuration": "約28〜36時間",
+        "transferCount": 2,
+        "localTransport": "バルトラ空港から公営バスと渡し船を乗り継いでサンタ・クルス島へ入り、認可ツアーやクルーズで訪問地へ向かう。",
+        "note": "本土からの便は朝発が中心。入島手続き、トランジット・コントロール・カード、国立公園入園料を事前確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bartoleme_Island.jpg/1280px-Bartoleme_Island.jpg",
+        "alt": "ガラパゴス諸島バルトロメ島の火山地形とピナクル・ロック",
+        "width": 1280,
+        "height": 960,
+        "author": "Pete",
+        "licenseName": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bartoleme_Island.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Visitantes - Parque Nacional Galápagos",
+          "url": "https://galapagos.gob.ec/visitantes/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Información de interés para la llegada a las islas - Parque Nacional Galápagos",
+          "url": "https://galapagos.gob.ec/informacion-de-interes-para-la-llegada-a-las-islas/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Galapagos Information - How to Get to the Galapagos",
+          "url": "https://www.visitgalapagos.travel/info/tips/travel-galapagos-information.html",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "salar-de-uyuni",
+      "slug": "salar-de-uyuni",
+      "name": "ウユニ塩湖",
+      "internalEnglishName": "Salar de Uyuni",
+      "region": "latin-america",
+      "country": "ボリビア",
+      "city": "ウユニ（ポトシ県）",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "アンデス高地に広がる世界最大級の塩原。乾季は白い大地、雨季は空を映す巨大な鏡のような景観を見せる。",
+      "coordinates": {
+        "latitude": -20.1338,
+        "longitude": -67.4891
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-20.1338%2C-67.4891",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ラ・ホヤ・アンディナ空港（ウユニ）",
+        "routeSummary": "成田空港 → 北米または欧州主要空港 → ラパス（2回目の航空乗継）→ ウユニ → 四輪駆動車ツアー",
+        "estimatedDuration": "約30〜38時間",
+        "transferCount": 2,
+        "localTransport": "ウユニ市街を拠点に、認可事業者の四輪駆動車ツアーで塩原へ入る。陸路ではラパスから夜行バスも利用できる。",
+        "note": "標高約3,600メートルの高地。季節と降雨で走行可能ルートが変わるため、高地順応と防寒・日差し対策を行う。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Salar_de_Uyuni%2C_Bolivia%2C_2016-02-04%2C_DD_16-18_HDR.JPG/1280px-Salar_de_Uyuni%2C_Bolivia%2C_2016-02-04%2C_DD_16-18_HDR.JPG",
+        "alt": "夜明けの空と人影を鏡のように映す雨季のウユニ塩湖",
+        "width": 1280,
+        "height": 842,
+        "author": "Diego Delso",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni,_Bolivia,_2016-02-04,_DD_16-18_HDR.JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Salar de Uyuni y Laguna de Colores - Bolivia Travel",
+          "url": "https://boliviatravel.gob.bo/salar-de-uyuni-y-lagunade-colores/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Obras de mejoramiento en el Aeropuerto de Uyuni - NAABOL",
+          "url": "https://naabol.gob.bo/obras-de-mejoramiento-en-el-aeropuerto-de-uyuni-fortaleceran-el-turimo-en-la-region/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "torres-del-paine-national-park",
+      "slug": "torres-del-paine-national-park",
+      "name": "トーレス・デル・パイネ国立公園",
+      "internalEnglishName": "Torres del Paine National Park",
+      "region": "latin-america",
+      "country": "チリ",
+      "city": "プエルト・ナタレス（マガジャネス州）",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "花崗岩の峰、氷河湖、草原が連なるパタゴニアの国立公園。展望地巡りからWトレックまで多彩なルートがある。",
+      "coordinates": {
+        "latitude": -51.236517,
+        "longitude": -72.98647
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-51.236517%2C-72.98647",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "テニエンテ・フリオ・ガジャルド空港（プエルト・ナタレス）",
+        "routeSummary": "成田空港 → 北米主要空港 → サンティアゴ（2回目の航空乗継）→ プエルト・ナタレス → バスまたは車",
+        "estimatedDuration": "約30〜38時間",
+        "transferCount": 2,
+        "localTransport": "プエルト・ナタレスから路線バスまたはレンタカーで公園入口へ向かう。ルート9経由で約2時間が目安。",
+        "note": "冬季はトレイルや湖上交通が閉鎖される場合がある。CONAFの運用情報と入園予約を直前にも確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cuernos_del_Paine_in_Torres_del_Paine_National_Park.jpg/1280px-Cuernos_del_Paine_in_Torres_del_Paine_National_Park.jpg",
+        "alt": "ペオエ湖の向こうに鋭い峰を連ねるクエルノス・デル・パイネ",
+        "width": 1280,
+        "height": 960,
+        "author": "Pedro Szekely",
+        "licenseName": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cuernos_del_Paine_in_Torres_del_Paine_National_Park.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Parque Nacional Torres del Paine - CONAF",
+          "url": "https://www.conaf.cl/parque_nacionales/parque-nacional-torres-del-paine/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Torres del Paine: how to get there and where to stay - Chile Travel",
+          "url": "https://chile.travel/en/blog/torres-del-paine-how-to-get-there-and-where-to-stay-to-enjoy-its-landscapes/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "varadero-beach",
+      "slug": "varadero-beach",
+      "name": "バラデロ・ビーチ",
+      "internalEnglishName": "Varadero Beach",
+      "region": "latin-america",
+      "country": "キューバ",
+      "city": "バラデロ（マタンサス州）",
+      "categories": ["ビーチ・リゾート", "アクティビティ"],
+      "description": "イカコス半島に約20キロ続く白砂のビーチ。穏やかな青い海で海水浴やマリンスポーツを楽しめるキューバ有数の海辺の町。",
+      "coordinates": {
+        "latitude": 23.1536,
+        "longitude": -81.2538
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=23.1536%2C-81.2538",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ホセ・マルティ国際空港（ハバナ）",
+        "routeSummary": "成田空港 → 北米またはメキシコの主要空港 → ハバナ（1回の航空乗継）→ バスまたは専用車",
+        "estimatedDuration": "約22〜28時間",
+        "transferCount": 1,
+        "localTransport": "ハバナから長距離バスまたは専用車で約2〜3時間。バラデロ近郊のフアン・グアルベルト・ゴメス空港からは約20キロ。",
+        "note": "航空経路は運航国と渡航条件の影響を受けやすい。予約前に入国・乗継条件と現地交通の最新運行を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Varadero_beach%2C_Cuba%2C_2025_19_18_24_314000.jpeg/1280px-Varadero_beach%2C_Cuba%2C_2025_19_18_24_314000.jpeg",
+        "alt": "白い砂浜とターコイズブルーの海が広がるバラデロ・ビーチ",
+        "width": 1280,
+        "height": 960,
+        "author": "Hana Gaon",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Varadero_beach,_Cuba,_2025_19_18_24_314000.jpeg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Matanzas - Cuba Travel",
+          "url": "https://www.cuba.travel/en/destinations/matanzas",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "How to get to Matanzas - Cuba Travel",
+          "url": "https://www.cuba.travel/en/destinations/matanzas/how-to-get-to-matanzas",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "eagle-beach-aruba",
+      "slug": "eagle-beach-aruba",
+      "name": "イーグル・ビーチ",
+      "internalEnglishName": "Eagle Beach Aruba",
+      "region": "latin-america",
+      "country": "アルバ",
+      "city": "オラニエスタッド",
+      "categories": ["ビーチ・リゾート", "自然・絶景"],
+      "description": "幅広い白砂と透明度の高い海が続くアルバ西岸のビーチ。風に曲がるディヴィディヴィの木と夕景でも知られる。",
+      "coordinates": {
+        "latitude": 12.5636,
+        "longitude": -70.051714
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.5636%2C-70.051714",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "クィーン・ベアトリクス国際空港",
+        "routeSummary": "成田空港 → 米国主要空港 → アルバ（1回の航空乗継）→ タクシーまたは路線バス",
+        "estimatedDuration": "約20〜26時間",
+        "transferCount": 1,
+        "localTransport": "空港からタクシーまたはレンタカーで約15分。オラニエスタッド方面からは路線バスも利用できる。",
+        "note": "米国経由では入国・乗継手続きが必要。空港交通とバス時刻はアルバ観光局の最新案内を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Eagle_beach.jpg/1280px-Eagle_beach.jpg",
+        "alt": "白砂と穏やかな青い海が続くアルバのイーグル・ビーチ",
+        "width": 1280,
+        "height": 853,
+        "author": "madmack66",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eagle_beach.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Eagle Beach - Aruba Tourism Authority",
+          "url": "https://www.aruba.com/us/explore/eagle-beach",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Aruba Airport Transportation - Aruba Tourism Authority",
+          "url": "https://www.aruba.com/us/plan-your-visit/getting-around-aruba/aruba-airport-transportation",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "sao-paulo-municipal-market",
+      "slug": "sao-paulo-municipal-market",
+      "name": "サンパウロ市営市場",
+      "internalEnglishName": "Municipal Market of Sao Paulo",
+      "region": "latin-america",
+      "country": "ブラジル",
+      "city": "サンパウロ",
+      "categories": ["グルメ・市場", "建築・街並み"],
+      "description": "歴史地区に建つ大規模な屋内市場「メルカダォン」。果物、香辛料、魚介、名物のモルタデッラ・サンドが並ぶ。",
+      "coordinates": {
+        "latitude": -23.541667,
+        "longitude": -46.629167
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-23.541667%2C-46.629167",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "グアルーリョス国際空港",
+        "routeSummary": "成田空港 → 北米・欧州・中東の主要空港 → サンパウロ（1回の航空乗継）→ 空港鉄道・地下鉄またはタクシー",
+        "estimatedDuration": "約25〜32時間",
+        "transferCount": 1,
+        "localTransport": "空港から鉄道と地下鉄を乗り継ぎ、サン・ベント駅から徒歩で向かう。荷物が多い場合は認可タクシーを利用する。",
+        "note": "市場周辺は混雑しやすい。地下鉄の運行時間と市場の営業日を確認し、貴重品を管理する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mercado_Municipal_-_entrada_principal.jpg/1280px-Mercado_Municipal_-_entrada_principal.jpg",
+        "alt": "アーチ窓と装飾的な外壁を持つサンパウロ市営市場の正面入口",
+        "width": 1280,
+        "height": 853,
+        "author": "Edilaine Fortunato",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_Municipal_-_entrada_principal.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "São Paulo - Visit Brasil",
+          "url": "https://visitbrasil.com/en/location/sao-paulo/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Turismetrô - Metrô de São Paulo",
+          "url": "https://www.metro.sp.gov.br/sua-viagem/turismetro/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "mercado-del-puerto",
+      "slug": "mercado-del-puerto",
+      "name": "メルカド・デル・プエルト",
+      "internalEnglishName": "Mercado del Puerto",
+      "region": "latin-america",
+      "country": "ウルグアイ",
+      "city": "モンテビデオ",
+      "categories": ["グルメ・市場", "建築・街並み", "アート・文化"],
+      "description": "旧市街の港近くにある19世紀の市場建築。鉄骨の大屋根の下にパリージャ料理店、工芸品店、音楽の場が集まる。",
+      "coordinates": {
+        "latitude": -34.905672,
+        "longitude": -56.211783
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.905672%2C-56.211783",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "カラスコ国際空港",
+        "routeSummary": "成田空港 → 北米または欧州主要空港 → サンパウロまたはブエノスアイレス（2回目の航空乗継）→ モンテビデオ → バスまたはタクシー",
+        "estimatedDuration": "約28〜36時間",
+        "transferCount": 2,
+        "localTransport": "カラスコ空港から市内バスまたはタクシーで旧市街へ移動する。観光バスのメルカド・デル・プエルト停留所も利用できる。",
+        "note": "市場の飲食店は昼を中心に営業する店が多い。空港からの交通と各店舗の営業時間を事前確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2016_Mercado_del_Puerto_de_Montevideo.jpg/1280px-2016_Mercado_del_Puerto_de_Montevideo.jpg",
+        "alt": "レンガ造りの外壁と時計を備えたモンテビデオのメルカド・デル・プエルト",
+        "width": 1280,
+        "height": 853,
+        "author": "Felipe Restrepo Acosta",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Mercado_del_Puerto_de_Montevideo.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Mercado del Puerto - Intendencia de Montevideo",
+          "url": "https://montevideo.gub.uy/areas-tematicas/cultura-y-tiempo-libre/mercado-del-puerto",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Montevideo - Uruguay Natural",
+          "url": "https://uruguaynatural.com/en/places/montevideo/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Moverte por Uruguay es más fácil - Uruguay Natural",
+          "url": "https://uruguaynatural.com/en/experiences/moverte-por-uruguay-es-mas-facil/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "antigua-guatemala",
+      "slug": "antigua-guatemala",
+      "name": "アンティグア・グアテマラ",
+      "internalEnglishName": "Antigua Guatemala",
+      "region": "latin-america",
+      "country": "グアテマラ",
+      "city": "アンティグア・グアテマラ",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "火山に囲まれた高原に築かれた旧首都。石畳の街路、バロック様式の教会、地震で残った修道院跡が植民地時代の都市景観を伝える。",
+      "coordinates": {
+        "latitude": 14.556503,
+        "longitude": -90.733808
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.556503%2C-90.733808",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ラ・アウロラ国際空港（グアテマラシティ）",
+        "routeSummary": "成田空港 → メキシコシティまたは北米主要空港 → グアテマラシティ（1回の航空乗継）→ シャトルまたはタクシー",
+        "estimatedDuration": "約20〜27時間",
+        "transferCount": 1,
+        "localTransport": "ラ・アウロラ国際空港から予約制シャトルまたはタクシーで約1〜1.5時間。市内は徒歩で巡る。",
+        "note": "週末や祝日は幹線道路が混雑しやすい。空港送迎を予約し、石畳を歩きやすい靴を用意する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Catedral_de_Antigua.jpg/1280px-Catedral_de_Antigua.jpg",
+        "alt": "青空の下に立つアンティグア・グアテマラ大聖堂の白い正面",
+        "width": 1280,
+        "height": 719,
+        "author": "Erik Kristensen",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral_de_Antigua.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Antigua Guatemala - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/65/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Guía turística de Sacatepéquez 2026 - INGUAT",
+          "url": "https://inguat.gob.gt/en/descargas-inguat-guatemala/46-guias-turisticas.html?download=1148%3Aguia-turistica-de-sacatepequez-2026&start=20",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Índice de aeródromos: La Aurora - DGAC Guatemala",
+          "url": "https://www.dgac.gob.gt/home/aip_e/AIP_2609/Eurocontrol/GUATEMALA/2026-04-16-AIRAC/html/eAIP/ES-AD-0.6-es-ES.html",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "panama-historic-district",
+      "slug": "panama-historic-district",
+      "name": "パナマ歴史地区",
+      "internalEnglishName": "Historic District of Panama",
+      "region": "latin-america",
+      "country": "パナマ",
+      "city": "パナマシティ",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "17世紀に再建された首都の旧市街カスコ・アンティグオ。教会、広場、色彩豊かな建物が狭い街路に集まり、海沿いの景観を形づくる。",
+      "coordinates": {
+        "latitude": 8.9525,
+        "longitude": -79.535
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=8.9525%2C-79.535",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "トクメン国際空港",
+        "routeSummary": "成田空港 → 北米主要空港 → パナマシティ（1回の航空乗継）→ タクシーまたは地下鉄",
+        "estimatedDuration": "約20〜27時間",
+        "transferCount": 1,
+        "localTransport": "トクメン国際空港から認可タクシーで約30〜45分。地下鉄を利用する場合は旧市街近くでタクシーへ乗り継ぐ。",
+        "note": "渋滞で所要時間が延びることがある。空港の公式運賃表を確認し、旧市街内は徒歩で移動する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Casco_Viejo%2C_Panama_City%2C_Panama.jpg/1280px-Casco_Viejo%2C_Panama_City%2C_Panama.jpg",
+        "alt": "パナマ歴史地区に並ぶ色鮮やかな建物と石畳の街路",
+        "width": 1280,
+        "height": 846,
+        "author": "RB Photo",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casco_Viejo,_Panama_City,_Panama.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Archaeological Site of Panamá Viejo and Historic District of Panamá - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/790/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Transporte - Aeropuerto Internacional de Tocumen",
+          "url": "https://www.tocumenpanama.aero/index.php/servicios/transporte",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tarifario de taxis - Aeropuerto Internacional de Tocumen",
+          "url": "https://www.tocumenpanama.aero/index.php/servicios/estacionamientos-3/83-tarifario-de-taxis",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "great-blue-hole-belize",
+      "slug": "great-blue-hole-belize",
+      "name": "グレート・ブルーホール",
+      "internalEnglishName": "Great Blue Hole",
+      "region": "latin-america",
+      "country": "ベリーズ",
+      "city": "ライトハウス・リーフ",
+      "categories": ["自然・絶景", "アクティビティ", "ビーチ・リゾート"],
+      "description": "ライトハウス・リーフに開く巨大な円形の海中陥没穴。上空から濃紺の輪郭を望めるほか、認定事業者のツアーでダイビングを楽しめる。",
+      "coordinates": {
+        "latitude": 17.317734,
+        "longitude": -87.536659
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=17.317734%2C-87.536659",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "フィリップ・S・W・ゴールドソン国際空港（ベリーズシティ）",
+        "routeSummary": "成田空港 → 北米主要空港 → ベリーズシティ（1回の航空乗継）→ ボートまたは遊覧飛行",
+        "estimatedDuration": "約22〜29時間",
+        "transferCount": 1,
+        "localTransport": "ベリーズシティやサン・ペドロ発の終日ボートツアー、または小型機の遊覧飛行で訪れる。",
+        "note": "外洋のため船便は天候の影響を受ける。ダイビングは経験条件を確認し、予備日を設ける。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/The_Great_Blue_Hole%2C_Belize.png/1280px-The_Great_Blue_Hole%2C_Belize.png",
+        "alt": "珊瑚礁の中に濃紺の円として浮かぶベリーズのグレート・ブルーホール",
+        "width": 1280,
+        "height": 815,
+        "author": "Sentinel Hub",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Great_Blue_Hole,_Belize.png"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "The Blue Hole - Travel Belize",
+          "url": "https://www.travelbelize.org/destinations/belize-reef/the-blue-hole/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Exploring Great Blue Hole From Above - Travel Belize",
+          "url": "https://www.travelbelize.org/es/blog/exploring-great-blue-hole-above/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "manuel-antonio-national-park",
+      "slug": "manuel-antonio-national-park",
+      "name": "マヌエル・アントニオ国立公園",
+      "internalEnglishName": "Manuel Antonio National Park",
+      "region": "latin-america",
+      "country": "コスタリカ",
+      "city": "ケポス（プンタレナス州）",
+      "categories": ["自然・絶景", "ビーチ・リゾート", "アクティビティ"],
+      "description": "熱帯雨林と白砂の入り江が隣接する太平洋岸の国立公園。遊歩道ではサルやナマケモノを観察し、指定ビーチで海辺の時間を過ごせる。",
+      "coordinates": {
+        "latitude": 9.392308,
+        "longitude": -84.13652
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=9.392308%2C-84.13652",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "フアン・サンタマリーア国際空港（サンホセ）",
+        "routeSummary": "成田空港 → 北米主要空港 → サンホセ（1回の航空乗継）→ 長距離バスまたは車",
+        "estimatedDuration": "約21〜28時間",
+        "transferCount": 1,
+        "localTransport": "サンホセから国道27号・34号経由でケポスへ進み、路線バスまたは車で公園入口へ向かう。所要約3〜4時間。",
+        "note": "入園枠と休園日を公式サイトで確認する。公園周辺の非公式な駐車案内には注意する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Playa_Manuel_Antonio.jpg/1280px-Playa_Manuel_Antonio.jpg",
+        "alt": "熱帯雨林と白砂に囲まれたマヌエル・アントニオ国立公園の入り江",
+        "width": 1280,
+        "height": 948,
+        "author": "Haakon S. Krohn",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Playa_Manuel_Antonio.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Manuel Antonio National Park - Visit Costa Rica",
+          "url": "https://www.visitcostarica.com/where-to-go/protected-areas/manuel-antonio-national-park",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Parque Nacional Manuel Antonio - ICT",
+          "url": "https://it.visitcostarica.com/sites/default/files/legacy/pdf/9_PN%20Manuel%20Antonio.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "colonial-city-santo-domingo",
+      "slug": "colonial-city-santo-domingo",
+      "name": "サントドミンゴ植民都市",
+      "internalEnglishName": "Colonial City of Santo Domingo",
+      "region": "latin-america",
+      "country": "ドミニカ共和国",
+      "city": "サントドミンゴ",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "アメリカ大陸におけるスペイン植民都市の初期の中心地。大聖堂、アルカサル・デ・コロン、城壁跡が石畳の街路沿いに残る。",
+      "coordinates": {
+        "latitude": 18.47361,
+        "longitude": -69.884609
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=18.47361%2C-69.884609",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ラス・アメリカス国際空港",
+        "routeSummary": "成田空港 → 北米主要空港 → サントドミンゴ（1回の航空乗継）→ 認可タクシーまたは送迎車",
+        "estimatedDuration": "約21〜28時間",
+        "transferCount": 1,
+        "localTransport": "ラス・アメリカス国際空港から認可タクシーまたは予約送迎で約30〜40分。植民都市内は徒歩で巡る。",
+        "note": "航空便は曜日で乗継条件が変わる。空港からは料金を確認できる公式乗り場を利用する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Alc%C3%A1zar_de_Col%C3%B3n.jpg/1280px-Alc%C3%A1zar_de_Col%C3%B3n.jpg",
+        "alt": "サントドミンゴ植民都市に残る石造りのアルカサル・デ・コロン",
+        "width": 1280,
+        "height": 960,
+        "author": "Jahel Tamayo",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alc%C3%A1zar_de_Col%C3%B3n.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Colonial City of Santo Domingo - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/526/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Santo Domingo - Dominican Republic Tourism",
+          "url": "https://www.godominicanrepublic.com/destinos/santo-domingo",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Air and Sea Travel - Dominican Republic Tourism",
+          "url": "https://www.godominicanrepublic.com/travel/air-and-sea-travel?lang=en",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "seven-mile-beach-cayman",
+      "slug": "seven-mile-beach-cayman",
+      "name": "セブン・マイル・ビーチ",
+      "internalEnglishName": "Seven Mile Beach Grand Cayman",
+      "region": "latin-america",
+      "country": "ケイマン諸島",
+      "city": "ジョージタウン（グランドケイマン島）",
+      "categories": ["ビーチ・リゾート", "アクティビティ"],
+      "description": "グランドケイマン島西岸に弧を描く白砂のビーチ。透明度の高い穏やかな海で海水浴、シュノーケリング、夕景を楽しめる。",
+      "coordinates": {
+        "latitude": 19.321025,
+        "longitude": -81.385173
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=19.321025%2C-81.385173",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "オーウェン・ロバーツ国際空港",
+        "routeSummary": "成田空港 → 北米主要空港 → グランドケイマン島（1回の航空乗継）→ タクシーまたは路線バス",
+        "estimatedDuration": "約20〜27時間",
+        "transferCount": 1,
+        "localTransport": "空港からタクシーで約10〜15分。ジョージタウンからは路線バス1番・2番系統も利用できる。",
+        "note": "ビーチは長いため宿泊地や目的の入口を先に決める。クルーズ寄港日は中心部が混雑しやすい。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Seven_Mile_Beach_Facing_West.jpg/1280px-Seven_Mile_Beach_Facing_West.jpg",
+        "alt": "グランドケイマン島のセブン・マイル・ビーチに広がる白砂と青い海",
+        "width": 1280,
+        "height": 853,
+        "author": "Coolcaesar",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seven_Mile_Beach_Facing_West.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Seven Mile Beach - Cayman Islands Department of Tourism",
+          "url": "https://www.visitcaymanislands.com/en-ca/things-to-do/beaches/seven-mile-beach",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting Around - Cayman Islands Department of Tourism",
+          "url": "https://www.visitcaymanislands.com/en-ca/planning/getting-around",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "kaieteur-national-park",
+      "slug": "kaieteur-national-park",
+      "name": "カイエトゥール国立公園",
+      "internalEnglishName": "Kaieteur National Park",
+      "region": "latin-america",
+      "country": "ガイアナ",
+      "city": "ポタロ＝シパルニ地方",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "熱帯雨林を流れるポタロ川が高さ226メートルを一気に落ちるカイエトゥール滝を擁する国立公園。小型機と徒歩で孤立した大瀑布へ近づく。",
+      "coordinates": {
+        "latitude": 5.1768,
+        "longitude": -59.4808
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=5.1768%2C-59.4808",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "チェディ・ジェーガン国際空港（ジョージタウン）",
+        "routeSummary": "成田空港 → 北米主要空港 → ジョージタウン（1回の航空乗継）→ 国内空港へ移動 → 小型機",
+        "estimatedDuration": "約25〜33時間",
+        "transferCount": 1,
+        "localTransport": "ジョージタウンのユージーン・F・コレイア国際空港から認可ツアーの小型機で約1時間。着陸後はレンジャー同行で歩く。",
+        "note": "小型機は天候と最低催行人数で延期されることがある。日程に予備日を設け、荷物重量制限を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kaieteur_Falls_Aerial_01.jpg/1280px-Kaieteur_Falls_Aerial_01.jpg",
+        "alt": "深い熱帯雨林の峡谷へ流れ落ちるカイエトゥール滝の空撮",
+        "width": 1280,
+        "height": 994,
+        "author": "Amanda",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaieteur_Falls_Aerial_01.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Kaieteur National Park - Protected Areas Commission",
+          "url": "https://www.pac.gov.gy/kaieteur-national-park/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tourism - High Commission of Guyana in India",
+          "url": "https://newdelhihc.mission.gov.gy/index.php/tourism",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "The Kaieteur and Orinduik Experience - Tourism Guyana",
+          "url": "https://tourismguyana.gy/the-kaieteur-and-orinduik-experience/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "castries-central-market",
+      "slug": "castries-central-market",
+      "name": "カストリーズ中央市場",
+      "internalEnglishName": "Castries Central Market",
+      "region": "latin-america",
+      "country": "セントルシア",
+      "city": "カストリーズ",
+      "categories": ["グルメ・市場", "アート・文化"],
+      "description": "首都の暮らしに根づく青空・屋内市場。南国の果物、香辛料、郷土料理、手編みの籠や工芸品が並び、土曜の朝に特に活気づく。",
+      "coordinates": {
+        "latitude": 14.011023,
+        "longitude": -60.989667
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.011023%2C-60.989667",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ヘウノラ国際空港",
+        "routeSummary": "成田空港 → 北米主要空港 → セントルシア（1回の航空乗継）→ 認可タクシーまたは送迎車",
+        "estimatedDuration": "約23〜30時間",
+        "transferCount": 1,
+        "localTransport": "ヘウノラ国際空港から認可タクシーまたは予約送迎でカストリーズまで約1時間15分。市街では徒歩で向かう。",
+        "note": "国際線の運航曜日によっては乗継が増える。市場は土曜朝が最も賑わい、日曜は休業する場合がある。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Castries_Market_%2839929101713%29.jpg/960px-Castries_Market_%2839929101713%29.jpg",
+        "alt": "商品が並ぶカストリーズ中央市場の屋根付き通路",
+        "width": 960,
+        "height": 720,
+        "author": "David Stanley",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castries_Market_(39929101713).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Castries - Saint Lucia Tourism Authority",
+          "url": "https://stlucia.org/en/places-to-visit/castries/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting Around St Lucia - Saint Lucia Tourism Authority",
+          "url": "https://stlucia.org/en/plan-your-saint-lucia-trip/getting-around/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "nassau-straw-market",
+      "slug": "nassau-straw-market",
+      "name": "ナッソー・ストロー・マーケット",
+      "internalEnglishName": "Nassau Straw Market",
+      "region": "latin-america",
+      "country": "バハマ",
+      "city": "ナッソー",
+      "categories": ["グルメ・市場", "アート・文化"],
+      "description": "ダウンタウンの港近くにある工芸市場。ヤシの葉を編んだ籠や帽子、木彫り、土産品を通してバハマの手仕事に触れられる。",
+      "coordinates": {
+        "latitude": 25.07901,
+        "longitude": -77.34306
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=25.07901%2C-77.34306",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "リンデン・ピンドリング国際空港",
+        "routeSummary": "成田空港 → 北米主要空港 → ナッソー（1回の航空乗継）→ タクシー",
+        "estimatedDuration": "約20〜27時間",
+        "transferCount": 1,
+        "localTransport": "空港ターミナル外の認可タクシー乗り場からダウンタウンまで約20〜30分。市場は港から徒歩圏内。",
+        "note": "北米での乗継手続きが必要。クルーズ船の寄港時間帯は混雑しやすいため、午前の早い時間が動きやすい。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Straw_Market_Nassau_Bahamas_2024.jpg/1280px-Straw_Market_Nassau_Bahamas_2024.jpg",
+        "alt": "ナッソー中心部に建つストロー・マーケットの入口",
+        "width": 1280,
+        "height": 720,
+        "author": "Larry D. Moore",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Straw_Market_Nassau_Bahamas_2024.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Straw Market - The Islands of The Bahamas",
+          "url": "https://www.bahamas.com/plan-your-trip/things-to-do/straw-market",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Taxis - Lynden Pindling International Airport",
+          "url": "https://nassaulpia.com/to-from/taxis/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "masaya-artisan-market",
+      "slug": "masaya-artisan-market",
+      "name": "マサヤ工芸品市場",
+      "internalEnglishName": "Masaya Artisan Market",
+      "region": "latin-america",
+      "country": "ニカラグア",
+      "city": "マサヤ",
+      "categories": ["グルメ・市場", "アート・文化", "建築・街並み"],
+      "description": "城壁を思わせる旧市場建築を活用した工芸品市場。色鮮やかなハンモック、陶器、木工品、革製品など各地の手仕事が集まる。",
+      "coordinates": {
+        "latitude": 11.973519,
+        "longitude": -86.093277
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=11.973519%2C-86.093277",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "アウグスト・C・サンディーノ国際空港（マナグア）",
+        "routeSummary": "成田空港 → 北米主要空港 → マナグア（1回の航空乗継）→ タクシーまたは車",
+        "estimatedDuration": "約22〜30時間",
+        "transferCount": 1,
+        "localTransport": "マナグアの空港から車で約45〜60分。マナグア市内からはマサヤ方面のバスも利用できる。",
+        "note": "航空便の運航日は変動しやすい。帰路の交通を先に確保し、営業時間と地域の渡航情報を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mercado_de_Artesan%C3%ADas_de_Masaya.jpg/1280px-Mercado_de_Artesan%C3%ADas_de_Masaya.jpg",
+        "alt": "石造りの壁と塔を備えたマサヤ工芸品市場の外観",
+        "width": 1280,
+        "height": 720,
+        "author": "Chicho96",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_de_Artesan%C3%ADas_de_Masaya.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "What should a tourist do in Masaya? - Visit Nicaragua",
+          "url": "https://www.visitanicaragua.com/en/What-should-a-tourist-do-in-Masaya%3F/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Atractivos turísticos de Masaya - INTUR",
+          "url": "https://tramites.intur.gob.ni/siit/public/site/atractivosTuristicosMasaya.html",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Technical Information - Aeropuerto Internacional Augusto C. Sandino",
+          "url": "https://www.eaai.com.ni/en/technical-information-en/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "copan-maya-site",
+      "slug": "copan-maya-site",
+      "name": "コパンのマヤ遺跡",
+      "internalEnglishName": "Maya Site of Copan",
+      "region": "latin-america",
+      "country": "ホンジュラス",
+      "city": "コパン・ルイナス",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "ホンジュラス西部に残る古典期マヤ文明の都市遺跡。精緻な石彫を刻んだ石碑や祭壇、神聖文字の階段、球戯場などが往時の政治と芸術を伝える。",
+      "coordinates": {
+        "latitude": 14.837964,
+        "longitude": -89.142442
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.837964%2C-89.142442",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ラモン・ビジェダ・モラレス国際空港（サン・ペドロ・スーラ）",
+        "routeSummary": "成田空港 → 北米主要空港 → サン・ペドロ・スーラ（1回の航空乗継）→ 長距離バスまたは車",
+        "estimatedDuration": "約23〜30時間",
+        "transferCount": 1,
+        "localTransport": "サン・ペドロ・スーラからコパン・ルイナスまで長距離バスまたは車で約3〜4時間。町から遺跡入口へはタクシーやトゥクトゥクを利用できる。",
+        "note": "経由地と乗継回数は運航日により変動する。陸路の最終便と遺跡の開場時間を事前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cop%C3%A1n_archaeological_site%2C_Honduras_01.jpg/1280px-Cop%C3%A1n_archaeological_site%2C_Honduras_01.jpg",
+        "alt": "緑に囲まれたコパンのマヤ遺跡に並ぶ石碑と石造建築",
+        "width": 1280,
+        "height": 720,
+        "author": "Ridiculopathy",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cop%C3%A1n_archaeological_site,_Honduras_01.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Archaeology and History - Honduras Travel",
+          "url": "https://honduras.travel/en/archaeology-and-history.php",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Maya Site of Copan - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/129/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Transporte - Honduras Travel",
+          "url": "https://www.honduras.travel/transporte.php",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "joya-de-ceren",
+      "slug": "joya-de-ceren",
+      "name": "ホヤ・デ・セレン遺跡",
+      "internalEnglishName": "Joya de Ceren Archaeological Site",
+      "region": "latin-america",
+      "country": "エルサルバドル",
+      "city": "サン・フアン・オピコ",
+      "categories": ["歴史・遺跡", "アート・文化"],
+      "description": "火山灰に埋もれたことで古代マヤ農村の日常生活が良好に保存された遺跡。住居、貯蔵施設、共同浴場などから約1500年前の暮らしを読み取れる。",
+      "coordinates": {
+        "latitude": 13.827494,
+        "longitude": -89.356158
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.827494%2C-89.356158",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "エルサルバドル国際空港（サン・オスカル・アルヌルフォ・ロメロ）",
+        "routeSummary": "成田空港 → 北米またはメキシコの主要空港 → サン・サルバドル（1回の航空乗継）→ レンタカーまたは送迎車",
+        "estimatedDuration": "約21〜28時間",
+        "transferCount": 1,
+        "localTransport": "空港からサン・サルバドルを経由し、車で約1時間30分〜2時間。サン・サルバドル中心部から遺跡までは北西へ約36km。",
+        "note": "経由便によっては航空乗継が2回になる。空港の認可レンタカーまたは宿泊施設の送迎を事前に手配する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Joya_de_Ceren%2C_La_Libertad.JPG/1280px-Joya_de_Ceren%2C_La_Libertad.JPG",
+        "alt": "屋根で保護されたホヤ・デ・セレン遺跡の土造建築",
+        "width": 1280,
+        "height": 960,
+        "author": "BelenM",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joya_de_Ceren,_La_Libertad.JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Joya de Cerén Archeological Park - El Salvador Travel",
+          "url": "https://elsalvador.travel/destination/joya-de-ceren/en/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Parque Arqueológico Joya de Cerén - Ministerio de Cultura",
+          "url": "https://www.cultura.gob.sv/parque-arqueologico-joya-de-ceren/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Aeropuerto Internacional de El Salvador - CEPA",
+          "url": "https://www.cepa.gob.sv/servicios-aeropuerto-internacional-de-el-salvador/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "negril-seven-mile-beach",
+      "slug": "negril-seven-mile-beach",
+      "name": "ネグリル・セブンマイルビーチ",
+      "internalEnglishName": "Negril Seven Mile Beach",
+      "region": "latin-america",
+      "country": "ジャマイカ",
+      "city": "ネグリル",
+      "categories": ["ビーチ・リゾート", "アクティビティ"],
+      "description": "ネグリルの海岸線に長く続く白砂のビーチ。穏やかなカリブ海で泳ぎやシュノーケリングを楽しめ、夕刻には水平線へ沈む夕日を望める。",
+      "coordinates": {
+        "latitude": 18.2955,
+        "longitude": -78.3372
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=18.2955%2C-78.3372",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "サングスター国際空港（モンテゴ・ベイ）",
+        "routeSummary": "成田空港 → 北米主要空港 → モンテゴ・ベイ（1回の航空乗継）→ 認可タクシーまたは送迎車",
+        "estimatedDuration": "約21〜28時間",
+        "transferCount": 1,
+        "localTransport": "サングスター国際空港から認可タクシーまたはネグリル行き送迎車で約1時間30分〜2時間。",
+        "note": "入国審査の混雑と道路状況で所要時間が延びる。空港到着ホール内の認可事業者カウンターを利用する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Jamaica_-_Negril_-_048.jpg/1280px-Jamaica_-_Negril_-_048.jpg",
+        "alt": "青い海と白砂が続くネグリルのビーチ",
+        "width": 1280,
+        "height": 960,
+        "author": "Oleg Yunakov",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jamaica_-_Negril_-_048.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Negril - Visit Jamaica",
+          "url": "https://www.visitjamaica.com/resort-areas/negril/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Taxi Cabs - Sangster International Airport",
+          "url": "https://www.mbjairport.com/taxi-cabs",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Transfer / Tour Operators - Sangster International Airport",
+          "url": "https://www.mbjairport.com/transfer-tour-operators",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "old-san-juan",
+      "slug": "old-san-juan",
+      "name": "オールド・サンフアン",
+      "internalEnglishName": "Old San Juan",
+      "region": "latin-america",
+      "country": "プエルトリコ",
+      "city": "サンフアン",
+      "categories": ["歴史・遺跡", "建築・街並み", "アート・文化"],
+      "description": "城壁と要塞に囲まれたサンフアンの歴史地区。青い石畳の通りに色鮮やかな植民地建築が連なり、海辺には巨大な防衛施設が残る。",
+      "coordinates": {
+        "latitude": 18.467378,
+        "longitude": -66.115846
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=18.467378%2C-66.115846",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ルイス・ムニョス・マリン国際空港（サンフアン）",
+        "routeSummary": "成田空港 → 米国主要空港 → サンフアン（1回の航空乗継）→ タクシーまたは配車サービス",
+        "estimatedDuration": "約20〜27時間",
+        "transferCount": 1,
+        "localTransport": "空港からオールド・サンフアン東端のサン・クリストバル要塞まで約13km、車で通常15〜20分。",
+        "note": "米国経由の入国・乗継条件を確認する。旧市街は徒歩で巡りやすいが、石畳と坂道に適した靴を用意する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Old_San_Juan%2C_Puerto_Rico_street_scene.jpg/1280px-Old_San_Juan%2C_Puerto_Rico_street_scene.jpg",
+        "alt": "パステルカラーの建物が並ぶオールド・サンフアンの石畳の通り",
+        "width": 1280,
+        "height": 951,
+        "author": "Jruizalvarez",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_San_Juan,_Puerto_Rico_street_scene.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Sitio Histórico Nacional de San Juan - National Park Service",
+          "url": "https://www.nps.gov/saju/espanol/index.htm",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Directions - San Juan National Historic Site",
+          "url": "https://www.nps.gov/saju/planyourvisit/directions.htm",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "pigeon-point-tobago",
+      "slug": "pigeon-point-tobago",
+      "name": "ピジョン・ポイント・ビーチ",
+      "internalEnglishName": "Pigeon Point Beach Tobago",
+      "region": "latin-america",
+      "country": "トリニダード・トバゴ",
+      "city": "クラウン・ポイント（トバゴ島）",
+      "categories": ["ビーチ・リゾート", "アクティビティ"],
+      "description": "トバゴ島南西端に広がる白砂とターコイズブルーの海のビーチ。茅葺き屋根の桟橋が象徴的で、遊泳やシュノーケリング、各種ウォータースポーツを楽しめる。",
+      "coordinates": {
+        "latitude": 11.1811,
+        "longitude": -60.8398
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=11.1811%2C-60.8398",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "A.N.R.ロビンソン国際空港（トバゴ）",
+        "routeSummary": "成田空港 → 北米主要空港 → ポート・オブ・スペイン → トバゴ（2回の航空乗継）→ 認可タクシー",
+        "estimatedDuration": "約25〜32時間",
+        "transferCount": 2,
+        "localTransport": "A.N.R.ロビンソン国際空港から認可タクシーで約10分。クラウン・ポイント周辺からもタクシーやレンタカーでアクセスできる。",
+        "note": "一部の運航日はニューヨークからトバゴへの直行便もある。国内線乗継時間と手荷物の再預け条件を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Pigeon_Point_jetty.jpg/1280px-Pigeon_Point_jetty.jpg",
+        "alt": "ピジョン・ポイントの青い海へ延びる茅葺き屋根の桟橋",
+        "width": 1280,
+        "height": 960,
+        "author": "Kp93",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pigeon_Point_jetty.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Pigeon Point Beach - Visit Tobago",
+          "url": "https://visittobago.gov.tt/sea-beaches/pigeon-point-beach",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting to Tobago - Visit Tobago",
+          "url": "https://visittobago.gov.tt/go-plan/getting-to-tobago",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Frequently Asked Questions - Visit Tobago",
+          "url": "https://visittobago.gov.tt/faqs",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "oistins-fish-market",
+      "slug": "oistins-fish-market",
+      "name": "オイスティンズ・フィッシュマーケット",
+      "internalEnglishName": "Oistins Fish Market",
+      "region": "latin-america",
+      "country": "バルバドス",
+      "city": "オイスティンズ",
+      "categories": ["グルメ・市場", "アート・文化"],
+      "description": "漁港に隣接する魚市場と屋台街。水揚げされた魚が並び、特に週末のフィッシュフライでは炭火焼きの魚料理と音楽を通して島の食文化に触れられる。",
+      "coordinates": {
+        "latitude": 13.0642,
+        "longitude": -59.5445
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.0642%2C-59.5445",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "グラントレー・アダムス国際空港",
+        "routeSummary": "成田空港 → 北米主要空港 → バルバドス（1回の航空乗継）→ タクシーまたは空港送迎",
+        "estimatedDuration": "約23〜30時間",
+        "transferCount": 1,
+        "localTransport": "空港からオイスティンズまでタクシーまたは送迎車で約15〜20分。島内バスのオイスティンズ・サブターミナルからも徒歩圏内。",
+        "note": "フィッシュフライは金曜夜が特に混雑する。帰路のタクシーや送迎を先に確保し、現地の営業情報を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Barbados_-_25384010056.jpg/1280px-Barbados_-_25384010056.jpg",
+        "alt": "オイスティンズの海辺に停泊する漁船と港の風景",
+        "width": 1280,
+        "height": 853,
+        "author": "Ashley Webb",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barbados_-_25384010056.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "What's in a Town: Oistins - Visit Barbados",
+          "url": "https://www.visitbarbados.org/whats-in-a-town-oistins",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Transport Board - Visit Barbados",
+          "url": "https://www.visitbarbados.org/transport-board",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Blu Isles Transportation - Visit Barbados",
+          "url": "https://www.visitbarbados.org/blu-isles-transportation-barbados",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "grote-knip-curacao",
+      "slug": "grote-knip-curacao",
+      "name": "グローテ・クニップ",
+      "internalEnglishName": "Grote Knip Curacao",
+      "region": "latin-america",
+      "country": "キュラソー",
+      "city": "ウェストプント",
+      "categories": ["ビーチ・リゾート", "アクティビティ"],
+      "description": "石灰岩の崖に抱かれたキュラソー西部の入り江。透明度の高いターコイズブルーの海と白砂が広がり、遊泳やシュノーケリングに向く。",
+      "coordinates": {
+        "latitude": 12.35125,
+        "longitude": -69.151923
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.35125%2C-69.151923",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "キュラソー国際空港（ハト国際空港）",
+        "routeSummary": "成田空港 → 北米またはアムステルダム → キュラソー（1回の航空乗継）→ レンタカーまたはタクシー",
+        "estimatedDuration": "約22〜30時間",
+        "transferCount": 1,
+        "localTransport": "空港から島の西側へレンタカーまたはタクシーで約45〜60分。ウィレムスタットからは車で約40分が目安。",
+        "note": "西部のビーチを巡る場合はレンタカーが便利。日陰と売店が限られるため飲料と日除けを用意する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Curacao_Grote_Knip_Kenepa_Grandi_beach_%2836530701322%29.jpg/1280px-Curacao_Grote_Knip_Kenepa_Grandi_beach_%2836530701322%29.jpg",
+        "alt": "崖の上から望むグローテ・クニップの白砂と青い入り江",
+        "width": 1280,
+        "height": 853,
+        "author": "dronepicr",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Curacao_Grote_Knip_Kenepa_Grandi_beach_(36530701322).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Curaçao for Families - Curaçao Tourist Board",
+          "url": "https://www.curacao.com/en/article/curacao-for-families",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting Around - Curaçao Tourist Board",
+          "url": "https://www.curacao.com/en/questions/getting-around",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "paramaribo-central-market",
+      "slug": "paramaribo-central-market",
+      "name": "パラマリボ中央市場",
+      "internalEnglishName": "Paramaribo Central Market",
+      "region": "latin-america",
+      "country": "スリナム",
+      "city": "パラマリボ",
+      "categories": ["グルメ・市場", "アート・文化"],
+      "description": "ウォーターカント近くにあるパラマリボ最大級の市場。熱帯の野菜や果物、魚、香辛料、日用品が並び、多民族国家スリナムの食と暮らしを体感できる。",
+      "coordinates": {
+        "latitude": 5.823449,
+        "longitude": -55.158767
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=5.823449%2C-55.158767",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ヨハン・アドルフ・ペンヘル国際空港",
+        "routeSummary": "成田空港 → アムステルダム → パラマリボ（1回の航空乗継）→ 登録空港送迎またはタクシー",
+        "estimatedDuration": "約24〜31時間",
+        "transferCount": 1,
+        "localTransport": "空港はパラマリボ中心部の南約45km。登録された空港送迎会社またはタクシーで約1時間、市場へは中心部から徒歩やタクシーで向かえる。",
+        "note": "便によっては航空乗継が2回になる。空港送迎を事前予約し、市場は明るい時間帯に訪れる。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Paramaribo_market_%2833557504165%29.jpg/1280px-Paramaribo_market_%2833557504165%29.jpg",
+        "alt": "パラマリボ中央市場に積み上げられた色鮮やかな野菜や果物",
+        "width": 1280,
+        "height": 719,
+        "author": "-JvL-",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paramaribo_market_(33557504165).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Minister EZOTI brengt werkbezoek aan Centrale Markt Paramaribo - Government of Suriname",
+          "url": "https://gov.sr/wp-content/uploads/2026/02/Nieuwsbrief-van-de-maand-januari-2026.pdf",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Transport in Suriname - Suriname Travel",
+          "url": "https://suriname.travel/transport-in-suriname/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "About the Airport - Johan Adolf Pengel International Airport",
+          "url": "https://www.japi-airport.com/?page_id=38",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "grand-anse-beach-grenada",
+      "slug": "grand-anse-beach-grenada",
+      "name": "グランド・アンス・ビーチ",
+      "internalEnglishName": "Grand Anse Beach Grenada",
+      "region": "latin-america",
+      "country": "グレナダ",
+      "city": "グランド・アンス",
+      "categories": ["ビーチ・リゾート", "アクティビティ", "グルメ・市場"],
+      "description": "約3kmにわたって白砂が続くグレナダを代表するビーチ。穏やかな海でウォータースポーツを楽しめ、近くのクラフト・スパイス市場では島の香辛料や工芸品に出会える。",
+      "coordinates": {
+        "latitude": 12.0253,
+        "longitude": -61.7593
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.0253%2C-61.7593",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "モーリス・ビショップ国際空港",
+        "routeSummary": "成田空港 → 北米主要空港 → グレナダ（1回の航空乗継）→ タクシーまたはホテル送迎",
+        "estimatedDuration": "約23〜30時間",
+        "transferCount": 1,
+        "localTransport": "空港はグランド・アンスのホテル地区に隣接し、ビーチまでタクシーまたは送迎車で約10〜15分。島内の路線バスも利用できる。",
+        "note": "運航日により航空乗継が2回になる。公共ビーチの入口、海況、帰路の交通を現地で確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grand_Anse_Beach_Grenada.jpg/1280px-Grand_Anse_Beach_Grenada.jpg",
+        "alt": "グランド・アンス・ビーチの白砂と穏やかな青い海",
+        "width": 1280,
+        "height": 859,
+        "author": "Varun Kapoor",
+        "licenseName": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Anse_Beach_Grenada.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Grand Anse Beach - Pure Grenada",
+          "url": "https://www.puregrenada.com/grand-anse-beach/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting Around - Pure Grenada",
+          "url": "https://www.puregrenada.com/plan-your-trip/getting-around/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "About - Grenada Airports Authority",
+          "url": "https://www.gaa.gd/about/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
     }
   ]
 }

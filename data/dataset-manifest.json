@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "datasetStage": "sample",
-  "expectedTotal": 10,
+  "datasetStage": "release",
+  "expectedTotal": 200,
   "expectedRegionCounts": {
-    "asia": 2,
-    "europe": 2,
-    "north-america": 2,
-    "latin-america": 1,
-    "africa": 1,
-    "middle-east-central-asia": 1,
-    "oceania": 1
+    "asia": 30,
+    "europe": 50,
+    "north-america": 30,
+    "latin-america": 30,
+    "africa": 20,
+    "middle-east-central-asia": 20,
+    "oceania": 20
   },
-  "lastUpdatedAt": "2026-07-13"
+  "lastUpdatedAt": "2026-07-14"
 }

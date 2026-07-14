@@ -40,7 +40,7 @@
         {
           "title": "Access: getting to the Eiffel Tower",
           "url": "https://www.toureiffel.paris/en/access-map",
-          "type": "official",
+          "type": "transport",
           "checkedAt": "2026-07-13"
         },
         {
@@ -103,7 +103,7 @@
         {
           "title": "Come arrivare - Parco archeologico del Colosseo",
           "url": "https://colosseo.it/visita/come-arrivare/",
-          "type": "official",
+          "type": "transport",
           "checkedAt": "2026-07-13"
         },
         {
@@ -114,6 +114,2651 @@
         }
       ],
       "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "sagrada-familia",
+      "slug": "sagrada-familia",
+      "name": "サグラダ・ファミリア",
+      "internalEnglishName": "Sagrada Familia",
+      "region": "europe",
+      "country": "スペイン",
+      "city": "バルセロナ",
+      "categories": ["建築・街並み", "アート・文化"],
+      "description": "アントニ・ガウディが設計を引き継いだバルセロナの大聖堂。彫刻に満ちた外観と、光が色彩を描く独創的な内部空間を楽しめる。",
+      "coordinates": {
+        "latitude": 41.40363,
+        "longitude": 2.174356
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.403630%2C2.174356",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "バルセロナ・エル・プラット空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ バルセロナ・エル・プラット空港 → 地下鉄L9 Sud線とL5線を乗り継ぎSagrada Família駅 → 徒歩",
+        "estimatedDuration": "約19〜23時間",
+        "transferCount": 1,
+        "localTransport": "空港から地下鉄L9 Sud線でCollblanc駅へ移動し、L5線に乗り換えてSagrada Família駅で下車する。",
+        "note": "航空便、地下鉄の運行状況、入場予約を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Barcelona_-_Exterior_of_the_Apse_of_the_Sagrada_Fam%C3%ADlia_-_Western_exposure.jpg/960px-Barcelona_-_Exterior_of_the_Apse_of_the_Sagrada_Fam%C3%ADlia_-_Western_exposure.jpg",
+        "alt": "青空の下で西側から見たサグラダ・ファミリアの後陣と塔",
+        "width": 960,
+        "height": 1254,
+        "author": "Didier Descouens",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Exterior_of_the_Apse_of_the_Sagrada_Fam%C3%ADlia_-_Western_exposure.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Sagrada Família ticket",
+          "url": "https://sagradafamilia.org/en/sagrada-familia-ticket",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Opening hours and getting here - Sagrada Família",
+          "url": "https://sagradafamilia.org/en/schedules-how-to-get",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "From the airport by metro - TMB",
+          "url": "https://www.tmb.cat/en/visit-barcelona/public-transport/metro-airport",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "acropolis-of-athens",
+      "slug": "acropolis-of-athens",
+      "name": "アテネのアクロポリス",
+      "internalEnglishName": "Acropolis of Athens",
+      "region": "europe",
+      "country": "ギリシャ",
+      "city": "アテネ",
+      "categories": ["歴史・遺跡", "建築・街並み"],
+      "description": "アテネ中心部の岩丘に築かれた古代ギリシャの聖域。パルテノン神殿をはじめとする遺構から、都市の長い歴史をたどれる。",
+      "coordinates": {
+        "latitude": 37.971532,
+        "longitude": 23.725749
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=37.971532%2C23.725749",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "アテネ国際空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ アテネ国際空港 → 地下鉄3号線でSyntagma駅 → 2号線Acropoli駅 → 徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港から地下鉄3号線でSyntagma駅へ移動し、2号線に乗り換えてAcropoli駅から南斜面入口へ歩く。",
+        "note": "航空便、地下鉄の運行状況、遺跡の入場方法を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Parthenon_east_side_Acropolis_Athens%2C_Greece.jpg/960px-Parthenon_east_side_Acropolis_Athens%2C_Greece.jpg",
+        "alt": "アテネのアクロポリスに立つパルテノン神殿の東側",
+        "width": 960,
+        "height": 713,
+        "author": "Jebulon",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parthenon_east_side_Acropolis_Athens,_Greece.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Acropolis of Athens - Ministry of Culture and Sports",
+          "url": "https://odysseus.culture.gr/h/3/eh355.jsp?obj_id=2384",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Public transportation - Athens International Airport",
+          "url": "https://www.aia.gr/en/traveller/transportation-airport/public-transportation-airport",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Akropoli station - STASY",
+          "url": "https://www.stasy.gr/en/stations/akropoli/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "neuschwanstein-castle",
+      "slug": "neuschwanstein-castle",
+      "name": "ノイシュヴァンシュタイン城",
+      "internalEnglishName": "Neuschwanstein Castle",
+      "region": "europe",
+      "country": "ドイツ",
+      "city": "シュヴァンガウ",
+      "categories": ["建築・街並み", "歴史・遺跡"],
+      "description": "バイエルン王ルートヴィヒ2世が山上に築いた城。白い外壁と尖塔がアルプスの山並みに映える、物語のような景観で知られる。",
+      "coordinates": {
+        "latitude": 47.557574,
+        "longitude": 10.7498
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.557574%2C10.749800",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ミュンヘン空港",
+        "routeSummary": "羽田空港 → 欧州主要空港（1回乗継）→ ミュンヘン空港 → 鉄道でミュンヘン中央駅とFüssen駅を経由 → バスでHohenschwangau → 徒歩またはシャトルバス",
+        "estimatedDuration": "約20〜24時間",
+        "transferCount": 1,
+        "localTransport": "Füssen駅からバスでHohenschwangau Neuschwanstein Castles停留所へ移動し、城まで坂道を歩くか現地シャトルを利用する。",
+        "note": "航空・鉄道・バスの運行状況と、時間指定の入城ツアーを出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neuschwanstein_Castle_2024-02.jpg/960px-Neuschwanstein_Castle_2024-02.jpg",
+        "alt": "山と森に囲まれたノイシュヴァンシュタイン城の全景",
+        "width": 960,
+        "height": 654,
+        "author": "Wilfredor",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_2024-02.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Neuschwanstein Castle - Idea and History",
+          "url": "https://www.neuschwanstein.de/englisch/idea/index.htm",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Neuschwanstein Castle - How to get there",
+          "url": "https://www.neuschwanstein.de/englisch/tourist/howtoget.htm",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "jungfraujoch",
+      "slug": "jungfraujoch",
+      "name": "ユングフラウヨッホ",
+      "internalEnglishName": "Jungfraujoch",
+      "region": "europe",
+      "country": "スイス",
+      "city": "グリンデルワルト",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "標高3454メートルにヨーロッパ最高所の鉄道駅があるアルプスの鞍部。展望施設からアレッチ氷河と高峰群を望める。",
+      "coordinates": {
+        "latitude": 46.5475,
+        "longitude": 7.9856
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.547500%2C7.985600",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "チューリッヒ空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ チューリッヒ空港 → 鉄道でInterlaken Ost駅とGrindelwald Terminal駅を経由 → Eiger Expressとユングフラウ鉄道",
+        "estimatedDuration": "約21〜25時間",
+        "transferCount": 1,
+        "localTransport": "Grindelwald Terminal駅からEiger ExpressでEigergletscher駅へ上がり、ユングフラウ鉄道に乗り換える。",
+        "note": "航空・鉄道・ゴンドラの運行状況、高地の天候、座席予約の要否を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aletsch_Glacier_from_Jungfraujoch_%282%29.jpg/960px-Aletsch_Glacier_from_Jungfraujoch_%282%29.jpg",
+        "alt": "ユングフラウヨッホから山々の間を流れるアレッチ氷河を見下ろした景色",
+        "width": 960,
+        "height": 640,
+        "author": "Gzzz",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aletsch_Glacier_from_Jungfraujoch_(2).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Jungfraujoch - Top of Europe",
+          "url": "https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Arriving - Jungfrau Railways",
+          "url": "https://www.jungfrau.ch/en-gb/arriving/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Train, tram and bus - Zurich Airport",
+          "url": "https://www.flughafen-zuerich.ch/en/passengers/practical/parking-and-transport/train-tram-and-bus",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "plitvice-lakes",
+      "slug": "plitvice-lakes",
+      "name": "プリトヴィツェ湖群国立公園",
+      "internalEnglishName": "Plitvice Lakes National Park",
+      "region": "europe",
+      "country": "クロアチア",
+      "city": "プリトヴィツェ・イェゼラ",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "石灰岩地帯に大小の湖と滝が連なる国立公園。木道を歩き、透明度の高い水と森がつくる多層的な風景を巡れる。",
+      "coordinates": {
+        "latitude": 44.8806,
+        "longitude": 15.6163
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=44.880600%2C15.616300",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ザグレブ国際空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ ザグレブ国際空港 → 空港バスでザグレブ中央バスターミナル → 長距離バスで国立公園入口",
+        "estimatedDuration": "約21〜25時間",
+        "transferCount": 1,
+        "localTransport": "ザグレブ中央バスターミナルからザダル方面の長距離バスを利用し、Entrance 1またはEntrance 2付近で下車する。",
+        "note": "航空便とバス時刻、利用する入口、園内ルートの運行状況を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Waterfall_in_Plitvice_Lakes_National_Park._Croatia.jpg/960px-Waterfall_in_Plitvice_Lakes_National_Park._Croatia.jpg",
+        "alt": "プリトヴィツェ湖群国立公園の緑に囲まれた滝と青緑色の湖",
+        "width": 960,
+        "height": 640,
+        "author": "Zysko serhii",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waterfall_in_Plitvice_Lakes_National_Park._Croatia.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Lake tour programs - Plitvice Lakes National Park",
+          "url": "https://np-plitvicka-jezera.hr/en/plan-your-visit/istrazite-jezera/activities/lake-tour-programmes/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "How to get here - Plitvice Lakes National Park",
+          "url": "https://np-plitvicka-jezera.hr/en/plan-your-visit/istrazite-jezera/how-to-get-here/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "pena-palace",
+      "slug": "pena-palace",
+      "name": "ペーナ宮殿",
+      "internalEnglishName": "Pena Palace",
+      "region": "europe",
+      "country": "ポルトガル",
+      "city": "シントラ",
+      "categories": ["建築・街並み", "歴史・遺跡"],
+      "description": "シントラの丘を彩るロマン主義建築の宮殿。赤や黄の鮮やかな外壁、装飾的な塔、緑深い庭園が一体となった景観を歩ける。",
+      "coordinates": {
+        "latitude": 38.7879,
+        "longitude": -9.3907
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.787900%2C-9.390700",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "リスボン空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ リスボン空港 → 地下鉄でOriente駅 → CPシントラ線でSintra駅 → 434番バス",
+        "estimatedDuration": "約20〜24時間",
+        "transferCount": 1,
+        "localTransport": "リスボン市内のOriente、Rossio、Entrecampos各駅から鉄道でSintra駅へ向かい、434番バスで宮殿入口へ上る。",
+        "note": "航空・鉄道・バスの運行状況、山間部の交通規制、時間指定入場を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pal%C3%A1cio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_20250606_1155_0102.jpg/960px-Pal%C3%A1cio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_20250606_1155_0102.jpg",
+        "alt": "緑の丘に立つ赤と黄色の外壁が鮮やかなペーナ宮殿",
+        "width": 960,
+        "height": 641,
+        "author": "Jakub Hałun",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Nacional_da_Pena,_Sintra,_Portugal,_20250606_1155_0102.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Park and National Palace of Pena",
+          "url": "https://www.parquesdesintra.pt/en/parks-monuments/park-and-national-palace-of-pena/",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "The Sintra line - CP",
+          "url": "https://www.cp.pt/info/en/w/institucional/the-sintra-line",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "nyhavn",
+      "slug": "nyhavn",
+      "name": "ニューハウン",
+      "internalEnglishName": "Nyhavn",
+      "region": "europe",
+      "country": "デンマーク",
+      "city": "コペンハーゲン",
+      "categories": ["建築・街並み", "グルメ・市場"],
+      "description": "色鮮やかな歴史的建物が運河沿いに並ぶコペンハーゲンの港町。木造船を眺めながら歩き、カフェや北欧料理を楽しめる。",
+      "coordinates": {
+        "latitude": 55.6797,
+        "longitude": 12.5913
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=55.679700%2C12.591300",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "コペンハーゲン空港",
+        "routeSummary": "羽田空港 → 欧州主要空港（1回乗継）→ コペンハーゲン空港 → 地下鉄M2線でKongens Nytorv駅 → 徒歩",
+        "estimatedDuration": "約17〜21時間",
+        "transferCount": 1,
+        "localTransport": "空港ターミナル3直結の地下鉄駅からM2線でKongens Nytorv駅へ向かい、ニューハウンまで約7分歩く。",
+        "note": "航空便と地下鉄の運行状況、現地イベントによる歩行規制を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nyhavn_houses_and_boats.jpg/960px-Nyhavn_houses_and_boats.jpg",
+        "alt": "ニューハウンの運河に並ぶ木造船と色鮮やかな建物",
+        "width": 960,
+        "height": 640,
+        "author": "OleNeitzel",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nyhavn_houses_and_boats.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Nyhavn - VisitCopenhagen",
+          "url": "https://www.visitcopenhagen.com/copenhagen/planning/nyhavn-gdk474735",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Copenhagen public transport - Metro guide for visitors",
+          "url": "https://m.dk/en/travel-with-the-metro/copenhagen-public-transport-a-complete-guide-for-visitors/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Kongens Nytorv Metro Station",
+          "url": "https://m.dk/en/plan-your-trip/kongens-nytorv/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "giants-causeway",
+      "slug": "giants-causeway",
+      "name": "ジャイアンツ・コーズウェー",
+      "internalEnglishName": "Giant's Causeway",
+      "region": "europe",
+      "country": "イギリス",
+      "city": "ブッシュミルズ",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "北アイルランドの海岸に玄武岩の柱が幾何学模様のように連なる景勝地。波打ち際の奇岩群と断崖の遊歩道を巡れる。",
+      "coordinates": {
+        "latitude": 55.2408,
+        "longitude": -6.5116
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=55.240800%2C-6.511600",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ベルファスト・シティ空港",
+        "routeSummary": "羽田空港 → ロンドンまたは欧州主要空港（1回乗継）→ ベルファスト・シティ空港 → 鉄道でColeraine駅 → Ulsterbus 172番でGiant's Causeway",
+        "estimatedDuration": "約21〜25時間",
+        "transferCount": 1,
+        "localTransport": "ベルファストから鉄道でColeraine駅へ移動し、Ulsterbus 172番などの路線バスに乗り換える。",
+        "note": "航空・鉄道・バスの運行状況、季節運行路線、海岸の天候を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Giant%27s_Causeway_Basalt_Columns.jpg/960px-Giant%27s_Causeway_Basalt_Columns.jpg",
+        "alt": "海に向かって段状に続くジャイアンツ・コーズウェーの玄武岩柱",
+        "width": 960,
+        "height": 720,
+        "author": "DeveshT",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant%27s_Causeway_Basalt_Columns.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Giant's Causeway - National Trust",
+          "url": "https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Service 221 Belfast - Giant's Causeway - Translink",
+          "url": "https://www.translink.co.uk/Timetable/Download/f1d42cd05bab8e865ae1a821b4536436266ea45874f52025d7cf30770a60355b",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "hallstatt",
+      "slug": "hallstatt",
+      "name": "ハルシュタット",
+      "internalEnglishName": "Hallstatt",
+      "region": "europe",
+      "country": "オーストリア",
+      "city": "ハルシュタット",
+      "categories": ["建築・街並み", "自然・絶景"],
+      "description": "湖とダッハシュタイン山地の斜面に家々が連なる歴史ある町。湖畔の遊歩道や広場から、水辺と山並みの景観を味わえる。",
+      "coordinates": {
+        "latitude": 47.5622,
+        "longitude": 13.6493
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.562200%2C13.649300",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ウィーン国際空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ ウィーン国際空港 → 鉄道でAttnang-Puchheim駅を経由 → Hallstatt駅 → 渡船で町中心部",
+        "estimatedDuration": "約21〜25時間",
+        "transferCount": 1,
+        "localTransport": "Attnang-Puchheim駅でSalzkammergut鉄道に乗り換え、Hallstatt駅から湖を渡る連絡船で町中心部へ向かう。",
+        "note": "航空・鉄道・渡船の運行状況、鉄道工事による代行輸送を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hallstatt_-_8856135370.jpg/960px-Hallstatt_-_8856135370.jpg",
+        "alt": "ハルシュタット湖の岸辺に並ぶ町並みと背後の山",
+        "width": 960,
+        "height": 715,
+        "author": "Kevin Poh",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hallstatt_-_8856135370.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "World Heritage Hallstatt-Dachstein/Salzkammergut",
+          "url": "https://dachstein.salzkammergut.at/en/visitor-information/our-world-heritage/artikel/detail/3348/world-heritage-region-hallstatt-dachstein-salzkammergut.html",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Austria by Rail - Hallstatt",
+          "url": "https://www.hallstatt.net/service-eng/anreise-en-US/austria-by-rail/",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Hallstatt station - ÖBB",
+          "url": "https://bahnhof.oebb.at/en/oberoesterreich/hallstatt",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "rijksmuseum",
+      "slug": "rijksmuseum",
+      "name": "アムステルダム国立美術館",
+      "internalEnglishName": "Rijksmuseum",
+      "region": "europe",
+      "country": "オランダ",
+      "city": "アムステルダム",
+      "categories": ["アート・文化", "建築・街並み"],
+      "description": "オランダの美術と歴史を幅広く紹介する国立美術館。レンブラントらの名作に加え、装飾芸術や歴史資料を館内で巡れる。",
+      "coordinates": {
+        "latitude": 52.36,
+        "longitude": 4.8852
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.360000%2C4.885200",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "アムステルダム・スキポール空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ スキポール空港 → 鉄道または397番バスでアムステルダム市内 → Museumplein付近から徒歩",
+        "estimatedDuration": "約17〜21時間",
+        "transferCount": 1,
+        "localTransport": "スキポール空港から鉄道またはAmsterdam Airport Express 397番バスで市内へ移動し、MuseumpleinまたはRijksmuseum停留所付近から歩く。",
+        "note": "航空便と市内交通の運行状況、入館時間枠を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/North_facade_of_the_Rijksmuseum_Amsterdam_%281%29.jpg/960px-North_facade_of_the_Rijksmuseum_Amsterdam_%281%29.jpg",
+        "alt": "運河越しに見たアムステルダム国立美術館の北側ファサード",
+        "width": 960,
+        "height": 640,
+        "author": "Vasyatka1",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_facade_of_the_Rijksmuseum_Amsterdam_(1).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Frequently asked questions about your visit - Rijksmuseum",
+          "url": "https://www.rijksmuseum.nl/en/app/veelgestelde-vragen",
+          "type": "official",
+          "checkedAt": "2026-07-13"
+        },
+        {
+          "title": "Amsterdam Travel Ticket - GVB",
+          "url": "https://reisinfo.gvb.nl/en/travel-products/tourists/amsterdam-travel-ticket",
+          "type": "transport",
+          "checkedAt": "2026-07-13"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-13"
+    },
+    {
+      "id": "la-concha-beach",
+      "slug": "la-concha-beach",
+      "name": "ラ・コンチャ海岸",
+      "internalEnglishName": "La Concha Beach",
+      "region": "europe",
+      "country": "スペイン",
+      "city": "サン・セバスティアン",
+      "categories": ["ビーチ・リゾート", "アクティビティ"],
+      "description": "サン・セバスティアン中心部に弧を描く穏やかな都市ビーチ。遊歩道から湾を一望でき、海水浴や散策、パドルスポーツを楽しめる。",
+      "coordinates": {
+        "latitude": 43.3159,
+        "longitude": -1.9861
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=43.315900%2C-1.986100",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ビルバオ空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ ビルバオ空港 → 空港バスでサン・セバスティアン中心部 → 徒歩または市内バス",
+        "estimatedDuration": "約20〜24時間",
+        "transferCount": 1,
+        "localTransport": "ビルバオ空港からサン・セバスティアン行きの空港バスで市内へ移動し、バスターミナルから徒歩またはDbusで海岸へ向かう。",
+        "note": "航空便、空港バス、市内バスの運行状況と海況を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/San_Sebastian_Playa_de_La_Concha_06_2012_2505.jpg/960px-San_Sebastian_Playa_de_La_Concha_06_2012_2505.jpg",
+        "alt": "丘の上から見下ろしたラ・コンチャ湾の砂浜と市街地",
+        "width": 960,
+        "height": 639,
+        "author": "Mariordo (Mario Roberto Durán Ortiz)",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Sebastian_Playa_de_La_Concha_06_2012_2505.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "La Concha Beach - San Sebastián Turismo",
+          "url": "https://sansebastianturismoa.eus/en/to-do/let-s-go-to-the-beach/la-concha-beach/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "How to get to San Sebastián",
+          "url": "https://sansebastianturismoa.eus/en/come/how-to-get-here/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "praia-da-marinha",
+      "slug": "praia-da-marinha",
+      "name": "プライア・ダ・マリーニャ",
+      "internalEnglishName": "Praia da Marinha",
+      "region": "europe",
+      "country": "ポルトガル",
+      "city": "ラゴア",
+      "categories": ["ビーチ・リゾート", "自然・絶景", "アクティビティ"],
+      "description": "アルガルヴェ地方の石灰岩の断崖に囲まれた入り江。透明度の高い海と奇岩の景観が広がり、海水浴や海岸沿いの散策を楽しめる。",
+      "coordinates": {
+        "latitude": 37.09,
+        "longitude": -8.412
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=37.090000%2C-8.412000",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ファロ空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ ファロ空港 → バスまたは鉄道でラゴア周辺 → Vamus 77番バスでPraia da Marinha",
+        "estimatedDuration": "約21〜25時間",
+        "transferCount": 1,
+        "localTransport": "ファロ空港からアルガルヴェ地方の公共交通でラゴアへ移動し、Vamus 77番バスでPraia da Marinha停留所へ向かう。",
+        "note": "航空便、地域交通、77番バスの季節ダイヤと海況を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Praia_de_Marinha.jpg/960px-Praia_de_Marinha.jpg",
+        "alt": "断崖と岩礁に囲まれたプライア・ダ・マリーニャの砂浜",
+        "width": 960,
+        "height": 540,
+        "author": "Philippe Salgarolo",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praia_de_Marinha.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Praia da Marinha - Visit Portugal",
+          "url": "https://www.visitportugal.com/en/node/141913",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Vamus Algarve schedules",
+          "url": "https://www.vamusalgarve.pt/vamus/schedules",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "blue-lagoon-iceland",
+      "slug": "blue-lagoon-iceland",
+      "name": "ブルーラグーン",
+      "internalEnglishName": "Blue Lagoon Iceland",
+      "region": "europe",
+      "country": "アイスランド",
+      "city": "グリンダヴィーク",
+      "categories": ["ビーチ・リゾート", "アクティビティ"],
+      "description": "レイキャネス半島の溶岩原に広がる地熱温浴施設。乳青色の温泉と黒い溶岩地形が対照をなし、屋外で温浴を体験できる。",
+      "coordinates": {
+        "latitude": 63.8804,
+        "longitude": -22.4495
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=63.880400%2C-22.449500",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ケプラヴィーク国際空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ ケプラヴィーク国際空港 → 予約制バスでブルーラグーン",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "ケプラヴィーク国際空港またはレイキャヴィーク中心部からDestination Blue Lagoonの予約制バスを利用する。",
+        "note": "航空便、送迎予約、入場予約に加え、火山活動や道路状況による営業・アクセス情報を直前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_Lagoon_2012-08-23_%287%29.JPG/960px-Blue_Lagoon_2012-08-23_%287%29.JPG",
+        "alt": "黒い溶岩原の中に広がる乳青色のブルーラグーン",
+        "width": 960,
+        "height": 720,
+        "author": "Bloody-libu",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_2012-08-23_(7).JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Where is the Blue Lagoon Iceland?",
+          "url": "https://www.bluelagoon.com/stories/where-is-the-blue-lagoon-iceland",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "How to get to Blue Lagoon Iceland",
+          "url": "https://www.bluelagoon.com/how-to-get-here",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Destination Blue Lagoon transport",
+          "url": "https://destinationbluelagoon.is/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "borough-market",
+      "slug": "borough-market",
+      "name": "バラ・マーケット",
+      "internalEnglishName": "Borough Market",
+      "region": "europe",
+      "country": "イギリス",
+      "city": "ロンドン",
+      "categories": ["グルメ・市場"],
+      "description": "ロンドン橋の近くで長い歴史を重ねてきた食品市場。生鮮品やチーズ、パン、各国料理など多彩な店を巡りながら食文化に触れられる。",
+      "coordinates": {
+        "latitude": 51.5055,
+        "longitude": -0.091
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=51.505500%2C-0.091000",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "ロンドン・ヒースロー空港",
+        "routeSummary": "羽田空港 → ヒースロー空港（直行便）→ エリザベス線と地下鉄を乗り継ぎLondon Bridge駅 → 徒歩",
+        "estimatedDuration": "約16〜18時間",
+        "transferCount": 0,
+        "localTransport": "ヒースロー空港からエリザベス線でロンドン中心部へ移動し、地下鉄ジュビリー線などでLondon Bridge駅へ向かう。",
+        "note": "航空便、市内交通、市場の営業日と各店舗の営業時間を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Borough_Market_%284888814000%29.jpg/960px-Borough_Market_%284888814000%29.jpg",
+        "alt": "鉄骨屋根の下に店舗と買い物客が並ぶバラ・マーケット",
+        "width": 960,
+        "height": 639,
+        "author": "CGP Grey",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Borough_Market_(4888814000).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Our story - Borough Market",
+          "url": "https://boroughmarket.org.uk/our-story/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Visit us - Borough Market",
+          "url": "https://boroughmarket.org.uk/visit-us/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "la-boqueria",
+      "slug": "la-boqueria",
+      "name": "ラ・ボケリア",
+      "internalEnglishName": "La Boqueria",
+      "region": "europe",
+      "country": "スペイン",
+      "city": "バルセロナ",
+      "categories": ["グルメ・市場", "アート・文化"],
+      "description": "ランブラス通り沿いにある歴史的な公設市場。色鮮やかな青果や魚介、精肉、菓子などの売り場を巡り、バルセロナの日常的な食文化に触れられる。",
+      "coordinates": {
+        "latitude": 41.3817,
+        "longitude": 2.1718
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.381700%2C2.171800",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "バルセロナ・エル・プラット空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ バルセロナ・エル・プラット空港 → 地下鉄L9 Sud線とL3線を乗り継ぎLiceu駅 → 徒歩",
+        "estimatedDuration": "約19〜23時間",
+        "transferCount": 1,
+        "localTransport": "空港から地下鉄L9 Sud線でZona Universitària駅へ移動し、L3線に乗り換えてLiceu駅から歩く。",
+        "note": "航空便、地下鉄の運行状況、市場の営業日と混雑情報を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Boqueria%2C_Barcelona.jpg/960px-La_Boqueria%2C_Barcelona.jpg",
+        "alt": "ラ・ボケリアの屋内に並ぶ色鮮やかな果物と食品の売り場",
+        "width": 960,
+        "height": 678,
+        "author": "Bernard Gagnon",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Boqueria,_Barcelona.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "History of La Boqueria",
+          "url": "https://www.boqueria.barcelona/historia-boqueria",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Liceu metro station - TMB",
+          "url": "https://www.tmb.cat/en/barcelona/metro/-/lineametro/estacion/325",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "From Barcelona Airport by metro - TMB",
+          "url": "https://www.tmb.cat/en/visit-barcelona/public-transport/metro-airport",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "torvehallerne-copenhagen",
+      "slug": "torvehallerne-copenhagen",
+      "name": "トーヴェヘルネ",
+      "internalEnglishName": "Torvehallerne Copenhagen",
+      "region": "europe",
+      "country": "デンマーク",
+      "city": "コペンハーゲン",
+      "categories": ["グルメ・市場"],
+      "description": "ノアポート駅近くのガラス張りの市場ホール。地元の食材、パン、チーズ、菓子、軽食などの専門店が集まり、北欧の食を気軽に味わえる。",
+      "coordinates": {
+        "latitude": 55.6838,
+        "longitude": 12.5709
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=55.683800%2C12.570900",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "コペンハーゲン空港",
+        "routeSummary": "羽田空港 → 欧州主要空港（1回乗継）→ コペンハーゲン空港 → 地下鉄M2線でNørreport駅 → 徒歩",
+        "estimatedDuration": "約17〜21時間",
+        "transferCount": 1,
+        "localTransport": "コペンハーゲン空港から地下鉄M2線でNørreport駅へ移動し、駅から約100メートル歩く。",
+        "note": "航空便、地下鉄の運行状況、市場ホールと各店舗の営業時間を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/At_Torvehallarna_%2816514065580%29.jpg/960px-At_Torvehallarna_%2816514065580%29.jpg",
+        "alt": "トーヴェヘルネの市場ホール内に並ぶ食品店と買い物客",
+        "width": 960,
+        "height": 640,
+        "author": "Susanne Nilsson",
+        "licenseName": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:At_Torvehallarna_(16514065580).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Torvehallerne - Visit Copenhagen",
+          "url": "https://www.visitcopenhagen.com/copenhagen/planning/torvehallerne-gdk545401",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Nørreport Metro Station",
+          "url": "https://m.dk/en/plan-your-trip/noerreport/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Copenhagen public transport guide for visitors",
+          "url": "https://m.dk/en/travel-with-the-metro/copenhagen-public-transport-a-complete-guide-for-visitors/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "geirangerfjord",
+      "slug": "geirangerfjord",
+      "name": "ガイランゲルフィヨルド",
+      "internalEnglishName": "Geirangerfjord",
+      "region": "europe",
+      "country": "ノルウェー",
+      "city": "ガイランゲル",
+      "categories": ["自然・絶景", "アクティビティ"],
+      "description": "切り立つ山々と滝に囲まれたノルウェー西部のフィヨルド。展望道路、遊覧船、ハイキングなどを通じて、深い入り江の壮大な地形を体感できる。",
+      "coordinates": {
+        "latitude": 62.1049,
+        "longitude": 7.0052
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=62.104900%2C7.005200",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "オーレスン空港",
+        "routeSummary": "成田空港 → 欧州主要空港とオスロ（2回乗継）→ オーレスン空港 → オーレスン市内 → FRAMのバスとフェリーを乗り継ぎガイランゲル",
+        "estimatedDuration": "約22〜28時間",
+        "transferCount": 2,
+        "localTransport": "オーレスンからFRAMの地域バスとフェリーを組み合わせてガイランゲルへ向かう。季節により経路と接続が変わる。",
+        "note": "航空便、FRAMの季節ダイヤ、道路・フェリーの運行状況、現地の天候を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Geirangerfjorden_panorama.jpg/960px-Geirangerfjorden_panorama.jpg",
+        "alt": "山々の間を延びるガイランゲルフィヨルドと集落のパノラマ",
+        "width": 960,
+        "height": 460,
+        "author": "Philippe Teuwen",
+        "licenseName": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geirangerfjorden_panorama.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "The Geirangerfjord - Visit Norway",
+          "url": "https://www.visitnorway.com/places-to-go/fjord-norway/the-geirangerfjord/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Bus timetables and line maps - FRAM",
+          "url": "https://frammr.no/journey/timetables-and-line-maps/bus/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "louvre-museum",
+      "slug": "louvre-museum",
+      "name": "ルーヴル美術館",
+      "internalEnglishName": "Louvre Museum",
+      "region": "europe",
+      "country": "フランス",
+      "city": "パリ",
+      "categories": ["アート・文化", "歴史・遺跡", "建築・街並み"],
+      "description": "かつての宮殿を利用したパリの美術館。古代文明から近代までの幅広い作品を収蔵し、展示室と歴史的な宮殿建築を巡れる。",
+      "coordinates": {
+        "latitude": 48.8606,
+        "longitude": 2.3376
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.860600%2C2.337600",
+      "accessFromTokyo": {
+        "departureAirport": "羽田空港",
+        "arrivalGateway": "パリ・シャルル・ド・ゴール空港",
+        "routeSummary": "羽田空港 → シャルル・ド・ゴール空港（直行便）→ RERと地下鉄を乗り継ぎPalais Royal-Musée du Louvre駅 → 徒歩",
+        "estimatedDuration": "約16〜18時間",
+        "transferCount": 0,
+        "localTransport": "空港からRERでパリ市内へ移動し、地下鉄1号線または7号線のPalais Royal-Musée du Louvre駅から歩く。",
+        "note": "航空便、市内交通、入館予約、入口や展示室の変更情報を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Paris_-_palais_du_Louvre%2C_cour_carr%C3%A9e%2C_aile_est.jpg/960px-Paris_-_palais_du_Louvre%2C_cour_carr%C3%A9e%2C_aile_est.jpg",
+        "alt": "ルーヴル宮殿の方形中庭に面する東翼のファサード",
+        "width": 960,
+        "height": 544,
+        "author": "Davitof",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris_-_palais_du_Louvre,_cour_carr%C3%A9e,_aile_est.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Explore the collections - Louvre Museum",
+          "url": "https://musee.louvre.fr/en/explore",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Map, entrances and directions - Louvre Museum",
+          "url": "https://musee.louvre.fr/en/visit/map-entrances-directions",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting to the Louvre - RATP",
+          "url": "https://www.ratp.fr/en/visiting-paris/places/louvre",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "cesky-krumlov",
+      "slug": "cesky-krumlov",
+      "name": "チェスキー・クルムロフ",
+      "internalEnglishName": "Český Krumlov",
+      "region": "europe",
+      "country": "チェコ",
+      "city": "チェスキー・クルムロフ",
+      "categories": ["建築・街並み", "歴史・遺跡", "アート・文化"],
+      "description": "ヴルタヴァ川が湾曲する丘に城と旧市街が広がる歴史都市。石畳の路地や彩色された建物を歩き、中世から続く町の景観を楽しめる。",
+      "coordinates": {
+        "latitude": 48.8127,
+        "longitude": 14.3175
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.812700%2C14.317500",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ヴァーツラフ・ハヴェル・プラハ国際空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ プラハ国際空港 → プラハ市内 → 長距離バスまたは鉄道でチェスキー・クルムロフ",
+        "estimatedDuration": "約21〜25時間",
+        "transferCount": 1,
+        "localTransport": "プラハのバスターミナルから長距離バスを利用するか、鉄道でチェスケー・ブジェヨヴィツェを経由して向かう。",
+        "note": "航空便、バス・鉄道の運行状況、旧市街までの接続交通を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_panorama.JPG/960px-%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_panorama.JPG",
+        "alt": "城の塔から見渡したチェスキー・クルムロフ旧市街の赤い屋根",
+        "width": 960,
+        "height": 530,
+        "author": "Pudelek (Marcin Szala)",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_Krumlov_(Krummau)_-_panorama.JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Český Krumlov UNESCO",
+          "url": "https://www.ckrumlov.info/en/cesky-krumlov-unesco/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Frequently asked questions - Český Krumlov tourism",
+          "url": "https://www.ckrumlov.info/en/frequently-asked-quetions-faq/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Český Krumlov railway station - České dráhy",
+          "url": "https://www.cd.cz/en/stanice/cesky-krumlov/5476002?nazev=5476002",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "lake-bled",
+      "slug": "lake-bled",
+      "name": "ブレッド湖",
+      "internalEnglishName": "Lake Bled",
+      "region": "europe",
+      "country": "スロベニア",
+      "city": "ブレッド",
+      "categories": ["ビーチ・リゾート", "自然・絶景", "アクティビティ"],
+      "description": "アルプスの山々に囲まれ、教会の立つ小島が浮かぶ湖。湖畔の散策、遊泳、ボートなどを楽しみながら、水辺と山並みの景観を満喫できる。",
+      "coordinates": {
+        "latitude": 46.3639,
+        "longitude": 14.0937
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.363900%2C14.093700",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "リュブリャナ・ヨジェ・プチニク空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ リュブリャナ空港 → 路線バスでブレッド中心部 → 徒歩",
+        "estimatedDuration": "約19〜23時間",
+        "transferCount": 1,
+        "localTransport": "リュブリャナ空港またはリュブリャナ市内からブレッド行きの路線バスを利用し、中央バス停から湖畔へ歩く。",
+        "note": "航空便、空港・都市間バスの最新ダイヤ、湖での遊泳可能区域と天候を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bled_Island_in_Lake_Bled%2C_Slovenia%2C_20240504_0932_8364.jpg/960px-Bled_Island_in_Lake_Bled%2C_Slovenia%2C_20240504_0932_8364.jpg",
+        "alt": "ブレッド湖の青い湖面に浮かぶ教会のある小島",
+        "width": 960,
+        "height": 641,
+        "author": "Jakub Hałun",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bled_Island_in_Lake_Bled,_Slovenia,_20240504_0932_8364.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Lake Bled - Bled tourism",
+          "url": "https://www.bled.si/en/what-to-see-do/attractions/1/lake-bled/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "How to get to Bled by bus",
+          "url": "https://www.bled.si/en/information/how-to-get-to-bled/20190920131931/by-bus/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Passenger transport - Arriva Slovenia",
+          "url": "https://arriva.si/en/passenger-transport/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "old-market-hall-helsinki",
+      "slug": "old-market-hall-helsinki",
+      "name": "ヘルシンキ旧市場",
+      "internalEnglishName": "Old Market Hall Helsinki",
+      "region": "europe",
+      "country": "フィンランド",
+      "city": "ヘルシンキ",
+      "categories": [
+        "グルメ・市場"
+      ],
+      "description": "港に面したマーケット広場のそばに立つ、ヘルシンキ最古の屋内市場。赤レンガの建物に魚介、パン、チーズなどの店が並び、フィンランドの食文化を気軽に味わえる。",
+      "coordinates": {
+        "latitude": 60.1665,
+        "longitude": 24.9528
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=60.1665%2C24.9528",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ヘルシンキ・ヴァンター空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ ヘルシンキ・ヴァンター空港 → 空港列車でヘルシンキ中央駅 → トラムまたは徒歩",
+        "estimatedDuration": "約16〜20時間",
+        "transferCount": 1,
+        "localTransport": "空港からI線またはP線でヘルシンキ中央駅へ移動し、トラムまたは徒歩でマーケット広場方面へ向かう。",
+        "note": "航空便とHSLの空港列車・トラムの最新ダイヤ、市場の営業情報を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/OldMarketHall-7111.jpg/960px-OldMarketHall-7111.jpg",
+        "alt": "ヘルシンキ港に立つ赤レンガ造りの旧市場",
+        "width": 960,
+        "height": 640,
+        "author": "Matthias Süßen",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:OldMarketHall-7111.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Old Market Hall Helsinki",
+          "url": "https://vanhakauppahalli.fi/en/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Old Market Hall - MyHelsinki",
+          "url": "https://www.myhelsinki.fi/places/old-market-hall/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Airport train - HSL",
+          "url": "https://www.hsl.fi/en/travelling/visitors/airport-train",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "mercato-centrale-florence",
+      "slug": "mercato-centrale-florence",
+      "name": "フィレンツェ中央市場",
+      "internalEnglishName": "Mercato Centrale Florence",
+      "region": "europe",
+      "country": "イタリア",
+      "city": "フィレンツェ",
+      "categories": [
+        "グルメ・市場"
+      ],
+      "description": "サン・ロレンツォ地区にある歴史的な屋内市場。生鮮食品やトスカーナの食材を扱う店に加え、地域料理をその場で楽しめる飲食店も集まる。",
+      "coordinates": {
+        "latitude": 43.7765,
+        "longitude": 11.2532
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=43.7765%2C11.2532",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "フィレンツェ・ペレトラ空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ フィレンツェ空港 → T2トラムでウニタ停留所 → 徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港からT2トラムでウニタ停留所へ移動し、中央市場まで歩く。フィレンツェ・サンタ・マリア・ノヴェッラ駅からも徒歩圏内。",
+        "note": "航空便、トラムの最新運行情報、市場各階の営業情報を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mercato_Centrale_%28Florence%29_-_48180232502.jpg/960px-Mercato_Centrale_%28Florence%29_-_48180232502.jpg",
+        "alt": "フィレンツェ中央市場の鉄骨とガラスを使った外観",
+        "width": 960,
+        "height": 720,
+        "author": "George M. Groutas",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercato_Centrale_(Florence)_-_48180232502.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Mercato Centrale Firenze",
+          "url": "https://www.mercatocentrale.it/firenze/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Mercato Centrale Firenze - Information",
+          "url": "https://www.mercatocentrale.it/firenze/info/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "markthalle-neun",
+      "slug": "markthalle-neun",
+      "name": "マルクトハレ・ノイン",
+      "internalEnglishName": "Markthalle Neun",
+      "region": "europe",
+      "country": "ドイツ",
+      "city": "ベルリン",
+      "categories": [
+        "グルメ・市場"
+      ],
+      "description": "クロイツベルク地区の歴史ある市場ホールを活用した食の拠点。地域の生産者や料理人が集まり、ベルリンの多文化な食と持続可能なフードカルチャーに触れられる。",
+      "coordinates": {
+        "latitude": 52.5022,
+        "longitude": 13.4316
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.5022%2C13.4316",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ベルリン・ブランデンブルク空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ ベルリン・ブランデンブルク空港 → 空港列車またはSバーンで市内 → Uバーンでゲルリッツァー・バーンホーフ駅 → 徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港から市内へ移動し、U1またはU3でゲルリッツァー・バーンホーフ駅へ。駅から市場ホールまで歩く。",
+        "note": "航空便、BVGの最新運行情報、市場とイベントの開催日を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kreuzberg_Markthalle_IX.JPG/960px-Kreuzberg_Markthalle_IX.JPG",
+        "alt": "ベルリンのマルクトハレ・ノインのレンガ造りの外観",
+        "width": 960,
+        "height": 720,
+        "author": "Fridolin freudenfett",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kreuzberg_Markthalle_IX.JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Markthalle Neun",
+          "url": "https://markthalleneun.de/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Markthalle Neun - Berlin.de",
+          "url": "https://www.berlin.de/en/shopping/market-halls/2018127-5996076-markthalle-neun.en.html",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Görlitzer Bahnhof - BVG",
+          "url": "https://www.bvg.de/dam/jcr%3A9125d1c7-789b-41f8-8fc1-945a023b8b76/goerlitzer-bahnhof%20900014101.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "vasa-museum",
+      "slug": "vasa-museum",
+      "name": "ヴァーサ号博物館",
+      "internalEnglishName": "Vasa Museum",
+      "region": "europe",
+      "country": "スウェーデン",
+      "city": "ストックホルム",
+      "categories": [
+        "アート・文化",
+        "歴史・遺跡"
+      ],
+      "description": "1628年に沈没し、約333年後に引き揚げられた軍艦ヴァーサ号を展示する博物館。保存された船体と出土品を通して、17世紀スウェーデンの海事史を立体的に学べる。",
+      "coordinates": {
+        "latitude": 59.328,
+        "longitude": 18.0914
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=59.3280%2C18.0914",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ストックホルム・アーランダ空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ アーランダ空港 → 空港列車または通勤列車でストックホルム市内 → トラム7番でノルディスカ・ムセーエト／ヴァーサムセーエト停留所 → 徒歩",
+        "estimatedDuration": "約17〜21時間",
+        "transferCount": 1,
+        "localTransport": "ストックホルム中心部からトラム7番、バス67番、またはユールゴーデン島方面のフェリーを利用する。",
+        "note": "航空便、市内交通の工事・運休情報、博物館の入館時間を公式サイトで確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Stockholm_Sweden_Vasa-Museum-01.jpg/960px-Stockholm_Sweden_Vasa-Museum-01.jpg",
+        "alt": "ヴァーサ号博物館内に展示された17世紀の軍艦",
+        "width": 960,
+        "height": 540,
+        "author": "CEphoto, Uwe Aranas",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stockholm_Sweden_Vasa-Museum-01.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Visit the Vasa Museum",
+          "url": "https://www.vasamuseet.se/en/visit",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting to the Vasa Museum",
+          "url": "https://www.vasamuseet.se/en/visit/getting-here",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "royal-museum-fine-arts-antwerp",
+      "slug": "royal-museum-fine-arts-antwerp",
+      "name": "アントワープ王立美術館",
+      "internalEnglishName": "Royal Museum of Fine Arts Antwerp",
+      "region": "europe",
+      "country": "ベルギー",
+      "city": "アントワープ",
+      "categories": [
+        "アート・文化"
+      ],
+      "description": "フランドル美術を中心に、約7世紀にわたる作品を収蔵する美術館。ルーベンスなどの巨匠からジェームズ・アンソール、リック・ウォータースまで幅広いコレクションを鑑賞できる。",
+      "coordinates": {
+        "latitude": 51.20845,
+        "longitude": 4.39487
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=51.20845%2C4.39487",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ブリュッセル空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ ブリュッセル空港 → 鉄道でアントワープ中央駅 → トラムまたはバス → 徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "ブリュッセル空港から鉄道でアントワープ中央駅へ移動し、市内トラムまたはバスで美術館周辺へ向かう。",
+        "note": "航空便、ベルギー国鉄と市内交通の最新ダイヤ、美術館の予約・入館情報を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Antwerpen_KMSKA_exterior_2468.jpg/960px-Antwerpen_KMSKA_exterior_2468.jpg",
+        "alt": "アントワープ王立美術館の重厚な外観",
+        "width": 960,
+        "height": 640,
+        "author": "Dosseman",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antwerpen_KMSKA_exterior_2468.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "About KMSKA",
+          "url": "https://kmska.be/en/about-kmska",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "KMSKA Reachability",
+          "url": "https://kmska.be/en/reachability",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "cliffs-of-moher",
+      "slug": "cliffs-of-moher",
+      "name": "モハーの断崖",
+      "internalEnglishName": "Cliffs of Moher",
+      "region": "europe",
+      "country": "アイルランド",
+      "city": "リスカナー",
+      "categories": [
+        "自然・絶景"
+      ],
+      "description": "大西洋に沿ってそびえるアイルランド西海岸の断崖。指定された展望エリアから、海面へ切り立つ岩壁とアラン諸島方面まで続く雄大な景観を望める。",
+      "coordinates": {
+        "latitude": 52.9715,
+        "longitude": -9.4309
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.9715%2C-9.4309",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "シャノン空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ シャノン空港 → バスでエニス → 350番バスでモハーの断崖",
+        "estimatedDuration": "約21〜25時間",
+        "transferCount": 1,
+        "localTransport": "シャノン空港からエニスへ移動し、Bus Éireannの350番を利用する。ゴールウェイ側からはTFI Local Link 351番も選択肢。",
+        "note": "強風や悪天候で歩道・展望エリアが制限される場合がある。公式の安全情報とバス時刻を直前に確認し、指定ルートから外れない。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TheCliffs_of_Moher.jpg/960px-TheCliffs_of_Moher.jpg",
+        "alt": "大西洋に面して連なるモハーの断崖",
+        "width": 960,
+        "height": 636,
+        "author": "liamgrehan",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:TheCliffs_of_Moher.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "About the Cliffs of Moher",
+          "url": "https://www.cliffsofmoher.ie/about-the-cliffs-of-moher/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "How to get to the Cliffs of Moher",
+          "url": "https://www.cliffsofmoher.ie/your-visit/visiting-the-cliffs/how-to-get-here/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "TFI Local Link Route 351",
+          "url": "https://www.transportforireland.ie/wp-content/uploads/2025/07/TFI-LLR351_V8.pdf",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "wieliczka-salt-mine",
+      "slug": "wieliczka-salt-mine",
+      "name": "ヴィエリチカ岩塩坑",
+      "internalEnglishName": "Wieliczka Salt Mine",
+      "region": "europe",
+      "country": "ポーランド",
+      "city": "ヴィエリチカ",
+      "categories": [
+        "歴史・遺跡"
+      ],
+      "description": "クラクフ近郊に広がる歴史的な岩塩坑。観光ルートでは、地下の坑道や塩水湖、塩で彫られた装飾に包まれた聖キンガ礼拝堂を見学できる。",
+      "coordinates": {
+        "latitude": 49.983,
+        "longitude": 20.0554
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=49.9830%2C20.0554",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "クラクフ・バリツェ空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ クラクフ空港 → 空港列車でクラクフ中央駅 → 近郊列車でヴィエリチカ・リネク・コパルニャ駅 → 徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "クラクフ中央駅から近郊列車でヴィエリチカ・リネク・コパルニャ駅へ移動し、入場口まで歩く。",
+        "note": "坑内は階段が多く気温も地上と異なる。見学ルート、集合場所、列車ダイヤを公式サイトで事前確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Saint_Kinga_Chapel_in_Wieliczka_Salt_Mine.jpg/960px-Saint_Kinga_Chapel_in_Wieliczka_Salt_Mine.jpg",
+        "alt": "ヴィエリチカ岩塩坑の地下にある聖キンガ礼拝堂",
+        "width": 960,
+        "height": 723,
+        "author": "Андрей Романенко",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Kinga_Chapel_in_Wieliczka_Salt_Mine.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Tourist Route - Wieliczka Salt Mine",
+          "url": "https://www.wieliczka-saltmine.com/individual-tourist/tourist-route",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tourist Route Important Information",
+          "url": "https://www.wieliczka-saltmine.com/individual-tourist/useful-information/important-information/tourist-route",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Map and Access - Wieliczka Salt Mine",
+          "url": "https://www.wieliczka-saltmine.com/events/important-information/map-and-access",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "szechenyi-thermal-bath",
+      "slug": "szechenyi-thermal-bath",
+      "name": "セーチェーニ温泉",
+      "internalEnglishName": "Szechenyi Thermal Bath",
+      "region": "europe",
+      "country": "ハンガリー",
+      "city": "ブダペスト",
+      "categories": [
+        "ビーチ・リゾート",
+        "アクティビティ"
+      ],
+      "description": "ブダペストの市民公園にある大規模な温泉施設。ネオ・バロック様式の建物に囲まれた屋外浴場をはじめ、複数の温泉プールやサウナを楽しめる。",
+      "coordinates": {
+        "latitude": 47.5186,
+        "longitude": 19.0822
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.5186%2C19.0822",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ブダペスト・リスト・フェレンツ国際空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ ブダペスト空港 → 100E空港バスでデアーク・フェレンツ広場 → 地下鉄M1でセーチェーニ・フュルドー駅",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港から100E空港バスで中心部へ移動し、地下鉄M1でセーチェーニ・フュルドー駅へ。駅から施設はすぐ。",
+        "note": "航空便、BKKの運行情報、入浴ルール、チケットと営業時間を公式サイトで確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sz%C3%A9chenyi_Bath_in_Budapest.jpg/960px-Sz%C3%A9chenyi_Bath_in_Budapest.jpg",
+        "alt": "セーチェーニ温泉の黄色い建物に囲まれた屋外浴場",
+        "width": 960,
+        "height": 640,
+        "author": "Andorka",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sz%C3%A9chenyi_Bath_in_Budapest.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Szechenyi Baths and Pool",
+          "url": "https://www.szechenyibath.hu/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Tickets and passes - BKK",
+          "url": "https://bkk.hu/en/visiting-budapest/tickets-and-passes/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "nissi-beach",
+      "slug": "nissi-beach",
+      "name": "ニッシ・ビーチ",
+      "internalEnglishName": "Nissi Beach",
+      "region": "europe",
+      "country": "キプロス",
+      "city": "アヤナパ",
+      "categories": [
+        "ビーチ・リゾート",
+        "アクティビティ"
+      ],
+      "description": "アヤナパ西部にある、黄金色の砂と透明度の高い浅瀬で知られるビーチ。沖の小島へ向かって延びる砂州の景観と、海水浴やウォータースポーツを楽しめる。",
+      "coordinates": {
+        "latitude": 34.98829,
+        "longitude": 33.9712
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=34.98829%2C33.9712",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ラルナカ国際空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ ラルナカ空港 → 空港送迎または都市間バスでアヤナパ → OSEAバスでニッシ・ビーチ",
+        "estimatedDuration": "約19〜23時間",
+        "transferCount": 1,
+        "localTransport": "ラルナカ空港からアヤナパへ移動し、OSEAの101番、102番、または201番のニッシ・ビーチ停留所を利用する。",
+        "note": "航空便、空港・アヤナパ間の交通、OSEAの季節ダイヤ、海況とライフガード情報を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2022_03_Nissi_beach_1.jpg/960px-2022_03_Nissi_beach_1.jpg",
+        "alt": "ニッシ・ビーチの白い砂浜と透明な浅瀬",
+        "width": 960,
+        "height": 720,
+        "author": "Qasinka",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022_03_Nissi_beach_1.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Nissi Beach - Visit Cyprus",
+          "url": "https://www.visitcyprus.com/discover-cyprus/sun-sea/beaches/nissi-beach-blue-flag/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "OSEA Bus Routes",
+          "url": "https://osea.com.cy/en/bus-routes/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "blue-lagoon-comino",
+      "slug": "blue-lagoon-comino",
+      "name": "コミノ島ブルーラグーン",
+      "internalEnglishName": "Blue Lagoon Comino",
+      "region": "europe",
+      "country": "マルタ",
+      "city": "コミノ島",
+      "categories": [
+        "ビーチ・リゾート",
+        "自然・絶景",
+        "アクティビティ"
+      ],
+      "description": "マルタ本島とゴゾ島の間に浮かぶコミノ島の入り江。明るいターコイズ色の海と岩礁がつくる景観を、遊泳やボートから楽しめる。",
+      "coordinates": {
+        "latitude": 36.0142,
+        "longitude": 14.3236
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=36.0142%2C14.3236",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "マルタ国際空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ マルタ国際空港 → TD1空港バスでチルケッワ → 認可フェリーでコミノ島ブルーラグーン",
+        "estimatedDuration": "約20〜24時間",
+        "transferCount": 1,
+        "localTransport": "空港からTD1でチルケッワへ移動し、マルファまたはチルケッワ発の認可フェリーでブルーラグーンへ渡る。航海は運航会社の案内で約20分。",
+        "note": "フェリーに加え、ブルーラグーン上陸に必要な公式QRコード付き時間枠を事前に確認・予約する。海況による欠航にも注意する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blue_lagoon_-_Malta.jpg/960px-Blue_lagoon_-_Malta.jpg",
+        "alt": "コミノ島ブルーラグーンの透明なターコイズ色の海",
+        "width": 960,
+        "height": 720,
+        "author": "Ted Moravec",
+        "licenseName": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_lagoon_-_Malta.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Comino and the Blue Lagoon - Visit Malta",
+          "url": "https://www.visitmalta.com/en/info/comino-blue-lagoon-malta/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Airport Direct - Malta Public Transport",
+          "url": "https://www.publictransport.com.mt/other-services/airport-direct/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Comino Ferries Tickets",
+          "url": "https://cominoferries.com/buy-tickets-ferry/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Operation of passenger transport service to Blue Lagoon - Transport Malta",
+          "url": "https://www.transport.gov.mt/maritime/coastal-notices-to-mariners/local-notice-to-mariners/063-of-2025-operation-of-commercial-passenger-transport-service-to-blue-lagoon-comino-7267",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "riga-central-market",
+      "slug": "riga-central-market",
+      "name": "リガ中央市場",
+      "internalEnglishName": "Riga Central Market",
+      "region": "europe",
+      "country": "ラトビア",
+      "city": "リガ",
+      "categories": [
+        "グルメ・市場"
+      ],
+      "description": "リガ旧市街の近くに広がる、ラトビア最大級の市場。特徴的な大屋根のパビリオンに肉、魚、乳製品、青果などの売り場が並び、地域の日常の食文化に触れられる。",
+      "coordinates": {
+        "latitude": 56.94379,
+        "longitude": 24.11502
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=56.94379%2C24.11502",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "リガ国際空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ リガ国際空港 → 22番バスでリガ中心部 → 徒歩",
+        "estimatedDuration": "約17〜21時間",
+        "transferCount": 1,
+        "localTransport": "空港から22番バスで市内中心部へ移動し、リガ国際バスターミナル周辺から市場まで歩く。市内トラムやバスも利用できる。",
+        "note": "航空便、Rīgas satiksmeの最新ダイヤ、市場パビリオンの営業情報を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Riga_Central_Market.01.jpg/960px-Riga_Central_Market.01.jpg",
+        "alt": "夕暮れのリガ中央市場に並ぶ大屋根のパビリオン",
+        "width": 960,
+        "height": 640,
+        "author": "Nenea hartia",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riga_Central_Market.01.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Riga Central Market",
+          "url": "https://centraltirgus.lv/en/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Visit Riga Central Market",
+          "url": "https://centraltirgus.lv/en/visit-the-market/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Rīgas satiksme",
+          "url": "https://www.rigassatiksme.lv/en/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "mercado-do-bolhao",
+      "slug": "mercado-do-bolhao",
+      "name": "ボリャン市場",
+      "internalEnglishName": "Mercado do Bolhao",
+      "region": "europe",
+      "country": "ポルトガル",
+      "city": "ポルト",
+      "categories": [
+        "グルメ・市場"
+      ],
+      "description": "ポルト中心部で長く親しまれてきた歴史的な市場。開放的な中庭を囲む売り場に生鮮食品や花、地域の食材が並び、レストランでもポルトらしい味を楽しめる。",
+      "coordinates": {
+        "latitude": 41.14927,
+        "longitude": -8.60688
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.14927%2C-8.60688",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "フランシスコ・サ・カルネイロ空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ ポルト空港 → メトロE線でトリンダーデ駅 → メトロ乗換または徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港からメトロE線でトリンダーデ駅へ移動し、A・B・C・F線に乗り換えてボリャン駅へ。駅から市場へ直結している。",
+        "note": "航空便、Metro do Portoの最新運行情報、市場とレストランの営業情報を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1_Mercado_do_Bolh%C3%A3o.jpg/960px-1_Mercado_do_Bolh%C3%A3o.jpg",
+        "alt": "ポルトのボリャン市場の中庭と回廊",
+        "width": 960,
+        "height": 640,
+        "author": "Afsalgado",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_Mercado_do_Bolh%C3%A3o.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Mercado do Bolhão",
+          "url": "https://mercadobolhao.pt/en/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Mercado do Bolhão Contacts and Access",
+          "url": "https://mercadobolhao.pt/en/contacts/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "feskekorka",
+      "slug": "feskekorka",
+      "name": "フェスケショルカ",
+      "internalEnglishName": "Feskekorka",
+      "region": "europe",
+      "country": "スウェーデン",
+      "city": "ヨーテボリ",
+      "categories": [
+        "グルメ・市場"
+      ],
+      "description": "教会を思わせる外観から「魚の教会」と呼ばれる、1874年創業の魚市場。改修されたホールに鮮魚や魚介のデリ、レストランが集まり、スウェーデン西海岸の味を楽しめる。",
+      "coordinates": {
+        "latitude": 57.70058,
+        "longitude": 11.95824
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=57.70058%2C11.95824",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ヨーテボリ・ランドヴェッテル空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ ランドヴェッテル空港 → 空港バスでヨーテボリ中央駅周辺 → トラムまたはバス → 徒歩",
+        "estimatedDuration": "約17〜21時間",
+        "transferCount": 1,
+        "localTransport": "空港バスで中心部へ移動し、Västtrafikのトラムまたはバスでヤーン広場周辺へ。そこから運河沿いを歩く。",
+        "note": "航空便、空港バスとVästtrafikの最新運行情報、魚売り場と飲食店の営業日を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Feskek%C3%B4rka_July_2025_01.jpg/960px-Feskek%C3%B4rka_July_2025_01.jpg",
+        "alt": "運河沿いに立つ教会のような外観のフェスケショルカ",
+        "width": 960,
+        "height": 640,
+        "author": "ArildV",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Feskek%C3%B4rka_July_2025_01.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Feskekörka",
+          "url": "https://www.feskekorka.se/en",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Feskekörka - Gothenburg Official Visitor Guide",
+          "url": "https://www.goteborg.com/en/places/feskekorka",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Travel Planning - Västtrafik",
+          "url": "https://www.vasttrafik.se/en/travel-planning/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "munch-museum-oslo",
+      "slug": "munch-museum-oslo",
+      "name": "MUNCH（ムンク美術館）",
+      "internalEnglishName": "MUNCH Museum Oslo",
+      "region": "europe",
+      "country": "ノルウェー",
+      "city": "オスロ",
+      "categories": [
+        "アート・文化"
+      ],
+      "description": "オスロのビョルヴィカ地区に立つ、エドヴァルド・ムンクの作品を中心とした美術館。「叫び」を含む多彩な作品と企画展を、港を望む現代的な建物で鑑賞できる。",
+      "coordinates": {
+        "latitude": 59.90691,
+        "longitude": 10.75323
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=59.90691%2C10.75323",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "オスロ・ガーデモエン空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ オスロ・ガーデモエン空港 → 空港急行列車でオスロ中央駅 → 徒歩",
+        "estimatedDuration": "約16〜20時間",
+        "transferCount": 1,
+        "localTransport": "Flytoget空港急行列車でオスロ中央駅へ移動し、ビョルヴィカ方面へ約10分歩く。最寄りのトラム・バス停はBjørvika。",
+        "note": "航空便、Flytogetと市内交通の最新ダイヤ、時間指定券と展示情報を公式サイトで確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/MUNCH_Munch_Museum_Oslo_opened_22_October_2021.jpg/960px-MUNCH_Munch_Museum_Oslo_opened_22_October_2021.jpg",
+        "alt": "オスロ港の近くに立つ高層のMUNCH美術館",
+        "width": 960,
+        "height": 641,
+        "author": "Helge Høifødt",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MUNCH_Munch_Museum_Oslo_opened_22_October_2021.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Visit MUNCH",
+          "url": "https://www.munch.no/en/visit-us/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "The Airport Express - Flytoget",
+          "url": "https://flytoget.no/en/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "guggenheim-museum-bilbao",
+      "slug": "guggenheim-museum-bilbao",
+      "name": "グッゲンハイム美術館ビルバオ",
+      "internalEnglishName": "Guggenheim Museum Bilbao",
+      "region": "europe",
+      "country": "スペイン",
+      "city": "ビルバオ",
+      "categories": [
+        "アート・文化"
+      ],
+      "description": "ネルビオン川沿いに立つ現代美術館。フランク・ゲーリー設計の曲線的なチタン外装そのものがランドマークで、近現代美術のコレクションと大型作品を鑑賞できる。",
+      "coordinates": {
+        "latitude": 43.26867,
+        "longitude": -2.93401
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=43.26867%2C-2.93401",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ビルバオ空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ ビルバオ空港 → 空港バスでビルバオ市内 → トラムでグッゲンハイム停留所または徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港からバスでビルバオ市内へ移動し、トラムのGuggenheim停留所、地下鉄Moyua駅、または市内バスを利用する。",
+        "note": "航空便、空港バスと市内交通の最新ダイヤ、美術館の休館日・入館枠を公式サイトで確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bilbao_-_Guggenheim_aurore.jpg/960px-Bilbao_-_Guggenheim_aurore.jpg",
+        "alt": "夜明けの川辺に立つグッゲンハイム美術館ビルバオ",
+        "width": 960,
+        "height": 641,
+        "author": "PA",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bilbao_-_Guggenheim_aurore.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Guggenheim Museum Bilbao",
+          "url": "https://www.guggenheim-bilbao.eus/en",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting here - Guggenheim Museum Bilbao",
+          "url": "https://www.guggenheim-bilbao.eus/en/useful-information/getting-here",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "kumu-art-museum",
+      "slug": "kumu-art-museum",
+      "name": "Kumu美術館",
+      "internalEnglishName": "Kumu Art Museum",
+      "region": "europe",
+      "country": "エストニア",
+      "city": "タリン",
+      "categories": [
+        "アート・文化"
+      ],
+      "description": "カドリオルグ公園の丘に組み込まれた、エストニア美術館の主要館。18世紀以降のエストニア美術から現代作品までをたどり、同国の歴史と表現の変化を学べる。",
+      "coordinates": {
+        "latitude": 59.4362,
+        "longitude": 24.7961
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=59.4362%2C24.7961",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "タリン空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ タリン空港 → バスまたはトラムでタリン中心部 → 市内バスまたはトラム → 徒歩",
+        "estimatedDuration": "約17〜21時間",
+        "transferCount": 1,
+        "localTransport": "中心部から31・42・67番バスでKumu停留所へ向かうか、1・3番トラムでKadriorg終点へ行き、そこから約10分歩く。",
+        "note": "航空便、タリン市内交通の最新運行情報、美術館の休館日と展示入替情報を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/KUMU_Eesti_Kunstimuuseum_08.jpg/960px-KUMU_Eesti_Kunstimuuseum_08.jpg",
+        "alt": "カドリオルグ公園の斜面に沿って建つKumu美術館",
+        "width": 960,
+        "height": 640,
+        "author": "FrDr",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:KUMU_Eesti_Kunstimuuseum_08.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Kumu Art Museum",
+          "url": "https://kumu.ekm.ee/en/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting here - Kumu Art Museum",
+          "url": "https://kumu.ekm.ee/en/getting-here/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "zlatni-rat-beach",
+      "slug": "zlatni-rat-beach",
+      "name": "ズラトニ・ラット",
+      "internalEnglishName": "Zlatni Rat Beach",
+      "region": "europe",
+      "country": "クロアチア",
+      "city": "ボル",
+      "categories": [
+        "ビーチ・リゾート",
+        "自然・絶景",
+        "アクティビティ"
+      ],
+      "description": "ブラチ島南岸からアドリア海へ細長く突き出す小石の岬。風や潮流で先端の形が変わる独特の景観を持ち、透明な海での遊泳やウォータースポーツを楽しめる。",
+      "coordinates": {
+        "latitude": 43.25689,
+        "longitude": 16.634
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=43.25689%2C16.63400",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "スプリト空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ スプリト空港 → スプリト港 → フェリーでスペタル → 島内バスでボル → 徒歩",
+        "estimatedDuration": "約21〜25時間",
+        "transferCount": 1,
+        "localTransport": "スプリト港からJadrolinija 631便でスペタルへ渡り、島内バスでボルへ。ボル中心部から海沿いの遊歩道を約15分歩く。",
+        "note": "フェリーと島内バスは季節で本数が変わる。最新ダイヤ、風と海況、ビーチの安全情報を直前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Aerial_view_of_Zlatni_rat_%28Golden_Horn%29_Beach_in_Bol%2C_Croatia_%2848608813081%29.jpg/960px-Aerial_view_of_Zlatni_rat_%28Golden_Horn%29_Beach_in_Bol%2C_Croatia_%2848608813081%29.jpg",
+        "alt": "アドリア海へ細長く突き出すズラトニ・ラットの空撮",
+        "width": 960,
+        "height": 640,
+        "author": "dronepicr",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Zlatni_rat_(Golden_Horn)_Beach_in_Bol,_Croatia_(48608813081).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Golden Horn Beach Bol",
+          "url": "https://www.zlatniratbol.com/en/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Split - Supetar Ferry - Jadrolinija",
+          "url": "https://www.jadrolinija.hr/en/travel/split_-_supetar_brac",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "How to Reach Bol - Bol Tourist Board",
+          "url": "https://posluh.bol.hr/index.php?act=mlist&id=928&lang=en&opt=item",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "elafonisi-beach",
+      "slug": "elafonisi-beach",
+      "name": "エラフォニシ・ビーチ",
+      "internalEnglishName": "Elafonisi Beach",
+      "region": "europe",
+      "country": "ギリシャ",
+      "city": "キサモス",
+      "categories": [
+        "ビーチ・リゾート",
+        "自然・絶景"
+      ],
+      "description": "クレタ島南西端に広がる浅いラグーンと砂浜。青く透き通る海と淡いピンク色を帯びた砂がつくる景観が特徴で、穏やかな浅瀬を歩いて小島側へ渡れる。",
+      "coordinates": {
+        "latitude": 35.2714,
+        "longitude": 23.5412
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35.2714%2C23.5412",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ハニア国際空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ ハニア国際空港 → KTELバスでハニア市内 → 季節運行バスでエラフォニシ",
+        "estimatedDuration": "約22〜26時間",
+        "transferCount": 1,
+        "localTransport": "空港からKTELバスでハニアのバスターミナルへ移動し、運行期間中はハニア発エラフォニシ行きの公共バスを利用する。",
+        "note": "エラフォニシ行きバスは季節運行のため最新時刻を必ず確認する。保護された砂を持ち帰らず、海況と日差しにも備える。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aerial_view_of_Elafonisi_Beach_on_Crete%2C_Greece.jpg/960px-Aerial_view_of_Elafonisi_Beach_on_Crete%2C_Greece.jpg",
+        "alt": "クレタ島エラフォニシの浅いラグーンと砂州の空撮",
+        "width": 960,
+        "height": 640,
+        "author": "dronepicr",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Elafonisi_Beach_on_Crete,_Greece.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Elafonisi - Visit Chania",
+          "url": "https://visitchania.gr/en/places-to-visit/elafonisi/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "KTEL Chania-Rethymno Public Bus Services",
+          "url": "https://www.e-ktel.com/index.php/en/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "vianden-castle",
+      "slug": "vianden-castle",
+      "name": "ヴィアンデン城",
+      "internalEnglishName": "Vianden Castle",
+      "region": "europe",
+      "country": "ルクセンブルク",
+      "city": "ヴィアンデン",
+      "categories": [
+        "歴史・遺跡"
+      ],
+      "description": "ウール川を見下ろす岩山に立つ中世の城。ロマネスクとゴシックの要素を持つ城館が修復され、歴史展示と城内見学を通してヴィアンデン伯の時代をたどれる。",
+      "coordinates": {
+        "latitude": 49.93523,
+        "longitude": 6.20219
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=49.93523%2C6.20219",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ルクセンブルク空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ ルクセンブルク空港 → バスでルクセンブルク中央駅 → 鉄道でエテルブリュック駅 → 180番バス → 徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "ルクセンブルク中央駅から鉄道でエテルブリュックへ移動し、180番バスでVianden, Place Engelmann下車。坂道を城まで歩く。",
+        "note": "ルクセンブルク国内の公共交通は無料だが、接続時刻と工事情報、城への上り坂、入場時間を事前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/20200829_Vianden_castle_03.jpg/960px-20200829_Vianden_castle_03.jpg",
+        "alt": "ヴィアンデンの町を見下ろす岩山に立つヴィアンデン城",
+        "width": 960,
+        "height": 641,
+        "author": "Flocci Nivis",
+        "licenseName": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:20200829_Vianden_castle_03.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Visit Vianden Castle",
+          "url": "https://castle-vianden.lu/gb/besuch/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Visit Vianden FAQ",
+          "url": "https://www.visit-vianden.lu/en/faq/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Public Transport in Luxembourg",
+          "url": "https://luxembourg.public.lu/en/vivre/mobility/public-transport.html",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "peles-castle",
+      "slug": "peles-castle",
+      "name": "ペレシュ城",
+      "internalEnglishName": "Peles Castle",
+      "region": "europe",
+      "country": "ルーマニア",
+      "city": "シナイア",
+      "categories": [
+        "歴史・遺跡",
+        "アート・文化"
+      ],
+      "description": "カルパチア山脈の麓に建てられたルーマニア王室の旧離宮。木彫やステンドグラス、各国様式を取り入れた豪華な室内を見学し、近代王国期の美術と生活文化に触れられる。",
+      "coordinates": {
+        "latitude": 45.3599,
+        "longitude": 25.5426
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=45.3599%2C25.5426",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "アンリ・コアンダ国際空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ ブカレスト空港 → 空港列車でブカレスト北駅 → CFR列車でシナイア駅 → 徒歩またはタクシー",
+        "estimatedDuration": "約20〜24時間",
+        "transferCount": 1,
+        "localTransport": "ブカレスト北駅からCFR列車でシナイア駅へ移動し、城まで約30〜40分歩くか、駅前からタクシーを利用する。",
+        "note": "入場は時間枠と1日あたりの人数が制限される。公式券、休館日、CFRの最新ダイヤを事前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Castel_peles_2.jpg/960px-Castel_peles_2.jpg",
+        "alt": "庭園越しに見る装飾豊かなペレシュ城",
+        "width": 960,
+        "height": 1132,
+        "author": "Alexandru Baboș",
+        "licenseName": "CC BY-SA 3.0 RO",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castel_peles_2.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Peleș National Museum Visiting Schedule",
+          "url": "https://peles.ro/en/program-si-taxe/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Travel by Train on Holiday - CFR Călători",
+          "url": "https://www.cfrcalatori.ro/hai-cu-trenul-in-vacanta/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "jurmala-beach",
+      "slug": "jurmala-beach",
+      "name": "ユールマラ・ビーチ",
+      "internalEnglishName": "Jurmala Beach",
+      "region": "europe",
+      "country": "ラトビア",
+      "city": "ユールマラ",
+      "categories": [
+        "ビーチ・リゾート"
+      ],
+      "description": "リガ湾沿いに約25.6キロメートル続く白い石英砂の海岸。遠浅の海と松林を背景に、夏の海水浴から季節を問わない海辺の散策まで楽しめる。",
+      "coordinates": {
+        "latitude": 56.97477,
+        "longitude": 23.78659
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=56.97477%2C23.78659",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "リガ国際空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ リガ国際空港 → バスまたはタクシーでリガ中央駅 → Vivi列車でマヨリ駅 → 徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "リガ中央駅からトゥクムス、ケメリ、スロカ方面の列車でマヨリ駅へ移動し、駅から海岸まで約10〜15分歩く。",
+        "note": "列車の行先と停車駅、海水浴場の旗、当日の波や風の状況を出発前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jurmala_2017_05.jpg/960px-Jurmala_2017_05.jpg",
+        "alt": "青空の下に広がるユールマラの砂浜とリガ湾",
+        "width": 960,
+        "height": 720,
+        "author": "Trogain",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jurmala_2017_05.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Jurmala Beach - Visit Jurmala",
+          "url": "https://visitjurmala.lv/en/health-and-spa/sanatoriums-and-rehabilitation/jurmala-beach/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Getting to Jurmala - Visit Jurmala",
+          "url": "https://visitjurmala.lv/en/getting-to-jurmala/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "scheveningen-beach",
+      "slug": "scheveningen-beach",
+      "name": "スヘフェニンゲン・ビーチ",
+      "internalEnglishName": "Scheveningen Beach",
+      "region": "europe",
+      "country": "オランダ",
+      "city": "デン・ハーグ",
+      "categories": [
+        "ビーチ・リゾート"
+      ],
+      "description": "北海に面するデン・ハーグを代表する海浜リゾート。広い砂浜と長い遊歩道、桟橋や港が連なり、四季を通じて海辺の散策や食事を楽しめる。",
+      "coordinates": {
+        "latitude": 52.1163,
+        "longitude": 4.2804
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.1163%2C4.2804",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "アムステルダム・スキポール空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ スキポール空港 → NS列車でデン・ハーグ中央駅またはHS駅 → HTMトラム9番 → 徒歩",
+        "estimatedDuration": "約17〜21時間",
+        "transferCount": 1,
+        "localTransport": "デン・ハーグ中央駅またはHS駅からScheveningen Noord方面のトラム9番を利用し、海岸側の停留所から歩く。",
+        "note": "夏季や好天時は交通が混雑する。HTMの臨時Strandexpressを含む最新運行情報と遊泳情報を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Netherlands%2C_The_Hague_%28Scheveningen%29%2C_Pier_%282%29.jpg/960px-Netherlands%2C_The_Hague_%28Scheveningen%29%2C_Pier_%282%29.jpg",
+        "alt": "北海側から見たスヘフェニンゲンの桟橋と海岸",
+        "width": 960,
+        "height": 540,
+        "author": "Vincent van Zeijst",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Netherlands,_The_Hague_(Scheveningen),_Pier_(2).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Scheveningen - The Hague Tourist Information",
+          "url": "https://denhaag.com/en/do/beaches/scheveningen",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "How to Reach The Hague Beaches",
+          "url": "https://denhaag.com/en/how-to-reach-the-hague-beaches",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "HTM Strandexpress Tram 9",
+          "url": "https://www.htm.nl/en/timetable/tram-9s/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "dolac-market",
+      "slug": "dolac-market",
+      "name": "ドラツ市場",
+      "internalEnglishName": "Dolac Market",
+      "region": "europe",
+      "country": "クロアチア",
+      "city": "ザグレブ",
+      "categories": [
+        "グルメ・市場"
+      ],
+      "description": "ザグレブ中心部で1930年から親しまれる青空市場。赤いパラソルの下に近郊農家の野菜や果物が並び、屋内では肉や乳製品など地域の日常の味に触れられる。",
+      "coordinates": {
+        "latitude": 45.81452,
+        "longitude": 15.97763
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=45.81452%2C15.97763",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ザグレブ国際空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ ザグレブ国際空港 → ZET290番バスで市内 → トラムでイェラチッチ広場 → 徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港からZET290番バスで市内へ入り、トラムに乗り継いでTrg bana Jelačića停留所へ。広場から市場まで数分歩く。",
+        "note": "市場は午前中の訪問が適する。店舗ごとの営業日と時間、空港バスとトラムの最新ダイヤを確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Tr%C5%BEnica_Dolac_%28Farmers%E2%80%99_Market%29%2C_Zagreb%2C_Croatia.jpg/960px-Tr%C5%BEnica_Dolac_%28Farmers%E2%80%99_Market%29%2C_Zagreb%2C_Croatia.jpg",
+        "alt": "赤いパラソルの下に農産物が並ぶザグレブのドラツ市場",
+        "width": 960,
+        "height": 720,
+        "author": "Sharon Hahn Darlin",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tr%C5%BEnica_Dolac_(Farmers%E2%80%99_Market),_Zagreb,_Croatia.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Dolac Market: Flavours, Scents, and Rhythm of the City",
+          "url": "https://www.infozagreb.hr/en/news/dolac-market-flavours-scents-and-rhythm-of-the-city-en",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "ZET Zagreb Public Transport",
+          "url": "https://www.zet.hr/en",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "naschmarkt-vienna",
+      "slug": "naschmarkt-vienna",
+      "name": "ナッシュマルクト",
+      "internalEnglishName": "Naschmarkt Vienna",
+      "region": "europe",
+      "country": "オーストリア",
+      "city": "ウィーン",
+      "categories": [
+        "グルメ・市場"
+      ],
+      "description": "ウィーン中心部近くに約1.5キロメートル続く食品市場。青果や香辛料、各国の食材を扱う店と飲食店が集まり、街の多文化的な食の風景を歩いて味わえる。",
+      "coordinates": {
+        "latitude": 48.1989,
+        "longitude": 16.3636
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1989%2C16.3636",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ウィーン国際空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ ウィーン国際空港 → S-Bahnまたは空港鉄道で市内 → U4線Kettenbrückengasse駅 → 徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "空港から鉄道でウィーン市内へ移動し、地下鉄U4線Kettenbrückengasse駅で下車すると市場に隣接する。",
+        "note": "日曜は市場の多くの店舗が休みとなる。店ごとの営業時間、空港鉄道と地下鉄の運行情報を事前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wien%2C_Naschmarkt_--_2018_--_3109.jpg/960px-Wien%2C_Naschmarkt_--_2018_--_3109.jpg",
+        "alt": "ウィーンのナッシュマルクトに並ぶ店舗と買い物客",
+        "width": 960,
+        "height": 540,
+        "author": "Dietmar Rabich",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien,_Naschmarkt_--_2018_--_3109.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Naschmarkt - City of Vienna",
+          "url": "https://www.wien.gv.at/freizeit/einkaufen/maerkte/lebensmittel/naschmarkt/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Public Transport in Vienna",
+          "url": "https://www.wien.gv.at/en/transportation/public-transport",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "bratislava-castle",
+      "slug": "bratislava-castle",
+      "name": "ブラチスラバ城",
+      "internalEnglishName": "Bratislava Castle",
+      "region": "europe",
+      "country": "スロバキア",
+      "city": "ブラチスラバ",
+      "categories": [
+        "歴史・遺跡"
+      ],
+      "description": "ドナウ川とブラチスラバ旧市街を見下ろす丘上の城。四隅の塔を備えた白い城館にはスロバキア国立博物館の歴史展示が入り、城壁や庭園から市街を一望できる。",
+      "coordinates": {
+        "latitude": 48.14219,
+        "longitude": 17.09978
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.14219%2C17.09978",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ウィーン国際空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ ウィーン国際空港 → 国際バスでブラチスラバ市内 → トロリーバス44番または47番 → 徒歩",
+        "estimatedDuration": "約18〜22時間",
+        "transferCount": 1,
+        "localTransport": "ブラチスラバ中心部からトロリーバス44番または47番でHradまたはZámocká停留所へ向かい、城まで歩く。",
+        "note": "丘上まで坂道がある。博物館の開館日、ウィーン空港からの国際バス、現地交通の最新ダイヤを確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bratislavsk%C3%BD_hrad_%2842542448080%29.jpg/960px-Bratislavsk%C3%BD_hrad_%2842542448080%29.jpg",
+        "alt": "庭園越しに見た白い城館と四隅の塔を持つブラチスラバ城",
+        "width": 960,
+        "height": 720,
+        "author": "Janusz Jakubowski",
+        "licenseName": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bratislavsk%C3%BD_hrad_(42542448080).jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Bratislava Castle - Slovakia Travel",
+          "url": "https://slovakia.travel/en/bratislava-castle",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Bratislava Castle - Slovak National Museum",
+          "url": "https://snm-online.sk/en/bratislavsky-hrad/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "kiasma",
+      "slug": "kiasma",
+      "name": "キアズマ現代美術館",
+      "internalEnglishName": "Museum of Contemporary Art Kiasma",
+      "region": "europe",
+      "country": "フィンランド",
+      "city": "ヘルシンキ",
+      "categories": [
+        "アート・文化"
+      ],
+      "description": "ヘルシンキ中心部にあるフィンランド国立美術館の現代美術館。スティーヴン・ホール設計の曲線的な建築内で、フィンランドと周辺地域の現代表現に触れられる。",
+      "coordinates": {
+        "latitude": 60.1719,
+        "longitude": 24.9365
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=60.1719%2C24.9365",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "ヘルシンキ・ヴァンター空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ ヘルシンキ・ヴァンター空港 → HSL空港列車でヘルシンキ中央駅 → 徒歩",
+        "estimatedDuration": "約16〜20時間",
+        "transferCount": 1,
+        "localTransport": "空港地下駅からHSLのI列車またはP列車でヘルシンキ中央駅へ移動し、美術館まで約300メートル歩く。",
+        "note": "2026年夏は空港列車に減便・区間変更があるためJourney Plannerを確認する。休館日と展示入替も事前に確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museo_Kiasma%2C_Helsinki%2C_Finlandia%2C_2012-08-14%2C_DD_01.JPG/960px-Museo_Kiasma%2C_Helsinki%2C_Finlandia%2C_2012-08-14%2C_DD_01.JPG",
+        "alt": "ヘルシンキ中心部に立つ曲線的な外観のキアズマ現代美術館",
+        "width": 960,
+        "height": 450,
+        "author": "Diego Delso",
+        "licenseName": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museo_Kiasma,_Helsinki,_Finlandia,_2012-08-14,_DD_01.JPG"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Visitor Information - Kiasma",
+          "url": "https://kiasma.fi/en/visitor-information/",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Airport Train - HSL",
+          "url": "https://www.hsl.fi/en/travelling/visitors/airport-train",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "old-bridge-mostar",
+      "slug": "old-bridge-mostar",
+      "name": "モスタル旧橋",
+      "internalEnglishName": "Old Bridge of Mostar",
+      "region": "europe",
+      "country": "ボスニア・ヘルツェゴビナ",
+      "city": "モスタル",
+      "categories": [
+        "建築・街並み"
+      ],
+      "description": "ネレトヴァ川の両岸を結ぶオスマン時代由来の石造アーチ橋。破壊後に伝統技法で再建され、石畳の旧市街とともに和解と共存を象徴する世界遺産となっている。",
+      "coordinates": {
+        "latitude": 43.3373,
+        "longitude": 17.815
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=43.3373%2C17.8150",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "サラエボ国際空港",
+        "routeSummary": "成田空港 → 欧州または中東主要空港（1回乗継）→ サラエボ国際空港 → サラエボ駅 → ŽFBH列車でモスタル駅 → 徒歩またはタクシー",
+        "estimatedDuration": "約21〜25時間",
+        "transferCount": 1,
+        "localTransport": "サラエボ駅からチャプリナ方面のŽFBH列車でモスタル駅へ移動し、旧橋まで約20〜25分歩くかタクシーを利用する。",
+        "note": "サラエボ〜モスタル間は運休や時刻変更があり得る。ŽFBHの最新ダイヤと旧市街の石畳に適した靴を確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mostar_Old_Town_Panorama_2007.jpg/960px-Mostar_Old_Town_Panorama_2007.jpg",
+        "alt": "ネレトヴァ川とモスタル旧市街を結ぶ石造アーチの旧橋",
+        "width": 960,
+        "height": 643,
+        "author": "Ramirez",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Old Bridge Area of the Old City of Mostar - UNESCO",
+          "url": "https://whc.unesco.org/en/list/946",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Passenger Train Timetable - ŽFBH",
+          "url": "https://www.zfbh.ba/en/time-table/",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
+    },
+    {
+      "id": "krka-national-park",
+      "slug": "krka-national-park",
+      "name": "クルカ国立公園",
+      "internalEnglishName": "Krka National Park",
+      "region": "europe",
+      "country": "クロアチア",
+      "city": "スクラディン",
+      "categories": [
+        "自然・絶景"
+      ],
+      "description": "クルカ川沿いに滝と湖、峡谷が連なる国立公園。代表的なスクラディンスキ・ブクでは幾重もの石灰華段瀑を遊歩道から眺め、川辺の生態系や水車の文化をたどれる。",
+      "coordinates": {
+        "latitude": 43.80354,
+        "longitude": 15.9653
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=43.80354%2C15.96530",
+      "accessFromTokyo": {
+        "departureAirport": "成田空港",
+        "arrivalGateway": "スプリト空港",
+        "routeSummary": "成田空港 → 欧州主要空港（1回乗継）→ スプリト空港 → 空港バスでスプリト市内 → 長距離バスでシベニクまたはスクラディン → 公園船または徒歩",
+        "estimatedDuration": "約21〜25時間",
+        "transferCount": 1,
+        "localTransport": "スプリトからバスでシベニクまたはスクラディンへ移動する。運航期間中はスクラディン入口から公園船でスクラディンスキ・ブクへ向かえる。",
+        "note": "船とバスは季節で運行が変わる。入口別の開園状況、乗船時刻、遊泳規制、暑さへの備えを公式情報で確認する。"
+      },
+      "mainImage": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Skradinski_buk_waterfall_%E2%80%93_NP_Krka_%E2%80%93_2016.jpg/960px-Skradinski_buk_waterfall_%E2%80%93_NP_Krka_%E2%80%93_2016.jpg",
+        "alt": "緑に囲まれて幾重にも流れ落ちるクルカ国立公園のスクラディンスキ・ブク",
+        "width": 960,
+        "height": 640,
+        "author": "Skot",
+        "licenseName": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skradinski_buk_waterfall_%E2%80%93_NP_Krka_%E2%80%93_2016.jpg"
+      },
+      "additionalImages": [],
+      "sources": [
+        {
+          "title": "Krka National Park Visitor Brochure 2025",
+          "url": "https://www.npkrka.hr/wp-content/uploads/NPKrka_iBrosura_2025_EN.pdf",
+          "type": "official",
+          "checkedAt": "2026-07-14"
+        },
+        {
+          "title": "Discover Dalmatia by Bus - Arriva Croatia",
+          "url": "https://www.arriva.com.hr/en-us/dalmatia/split",
+          "type": "transport",
+          "checkedAt": "2026-07-14"
+        }
+      ],
+      "lastVerifiedAt": "2026-07-14"
     }
   ]
 }
