@@ -386,7 +386,9 @@ img {
   touch-action: none;
   user-select: none;
   transform-origin: 50% 100%;
-  transition: transform 150ms ease, opacity 150ms ease;
+  transition:
+    transform 150ms ease,
+    opacity 150ms ease;
 }
 
 .spot-card:active {
@@ -423,7 +425,7 @@ img {
 }
 
 .spot-card h2 {
-  margin: 0.15rem 0 0.5rem;
+  margin: 0.45rem 0 0.5rem;
   font-family: var(--font-bricolage), var(--font-noto-sans-jp), sans-serif;
   font-size: clamp(1.8rem, 7vw, 2.75rem);
   font-weight: 850;
@@ -496,42 +498,114 @@ img {
   opacity: 1;
 }
 
-.spot-card.drag-x-neg-1 { transform: translateX(-0.5rem) rotate(-0.4deg); }
-.spot-card.drag-x-neg-2 { transform: translateX(-1rem) rotate(-0.8deg); }
-.spot-card.drag-x-neg-3 { transform: translateX(-1.5rem) rotate(-1.2deg); }
-.spot-card.drag-x-neg-4 { transform: translateX(-2rem) rotate(-1.6deg); }
-.spot-card.drag-x-neg-5 { transform: translateX(-2.5rem) rotate(-2deg); }
-.spot-card.drag-x-neg-6 { transform: translateX(-3rem) rotate(-2.4deg); }
-.spot-card.drag-x-neg-7 { transform: translateX(-3.5rem) rotate(-2.8deg); }
-.spot-card.drag-x-neg-8 { transform: translateX(-4rem) rotate(-3.2deg); }
-.spot-card.drag-x-neg-9 { transform: translateX(-4.5rem) rotate(-3.6deg); }
-.spot-card.drag-x-neg-10 { transform: translateX(-5rem) rotate(-4deg); }
-.spot-card.drag-x-neg-11 { transform: translateX(-5.5rem) rotate(-4.4deg); }
-.spot-card.drag-x-neg-12 { transform: translateX(-6rem) rotate(-4.8deg); }
-.spot-card.drag-x-pos-1 { transform: translateX(0.5rem) rotate(0.4deg); }
-.spot-card.drag-x-pos-2 { transform: translateX(1rem) rotate(0.8deg); }
-.spot-card.drag-x-pos-3 { transform: translateX(1.5rem) rotate(1.2deg); }
-.spot-card.drag-x-pos-4 { transform: translateX(2rem) rotate(1.6deg); }
-.spot-card.drag-x-pos-5 { transform: translateX(2.5rem) rotate(2deg); }
-.spot-card.drag-x-pos-6 { transform: translateX(3rem) rotate(2.4deg); }
-.spot-card.drag-x-pos-7 { transform: translateX(3.5rem) rotate(2.8deg); }
-.spot-card.drag-x-pos-8 { transform: translateX(4rem) rotate(3.2deg); }
-.spot-card.drag-x-pos-9 { transform: translateX(4.5rem) rotate(3.6deg); }
-.spot-card.drag-x-pos-10 { transform: translateX(5rem) rotate(4deg); }
-.spot-card.drag-x-pos-11 { transform: translateX(5.5rem) rotate(4.4deg); }
-.spot-card.drag-x-pos-12 { transform: translateX(6rem) rotate(4.8deg); }
-.spot-card.drag-y-neg-1 { transform: translateY(-0.5rem); }
-.spot-card.drag-y-neg-2 { transform: translateY(-1rem); }
-.spot-card.drag-y-neg-3 { transform: translateY(-1.5rem); }
-.spot-card.drag-y-neg-4 { transform: translateY(-2rem); }
-.spot-card.drag-y-neg-5 { transform: translateY(-2.5rem); }
-.spot-card.drag-y-neg-6 { transform: translateY(-3rem); }
-.spot-card.drag-y-neg-7 { transform: translateY(-3.5rem); }
-.spot-card.drag-y-neg-8 { transform: translateY(-4rem); }
-.spot-card.drag-y-neg-9 { transform: translateY(-4.5rem); }
-.spot-card.drag-y-neg-10 { transform: translateY(-5rem); }
-.spot-card.drag-y-neg-11 { transform: translateY(-5.5rem); }
-.spot-card.drag-y-neg-12 { transform: translateY(-6rem); }
+.spot-card.drag-x-neg-1 {
+  transform: translateX(-0.5rem) rotate(-0.4deg);
+}
+.spot-card.drag-x-neg-2 {
+  transform: translateX(-1rem) rotate(-0.8deg);
+}
+.spot-card.drag-x-neg-3 {
+  transform: translateX(-1.5rem) rotate(-1.2deg);
+}
+.spot-card.drag-x-neg-4 {
+  transform: translateX(-2rem) rotate(-1.6deg);
+}
+.spot-card.drag-x-neg-5 {
+  transform: translateX(-2.5rem) rotate(-2deg);
+}
+.spot-card.drag-x-neg-6 {
+  transform: translateX(-3rem) rotate(-2.4deg);
+}
+.spot-card.drag-x-neg-7 {
+  transform: translateX(-3.5rem) rotate(-2.8deg);
+}
+.spot-card.drag-x-neg-8 {
+  transform: translateX(-4rem) rotate(-3.2deg);
+}
+.spot-card.drag-x-neg-9 {
+  transform: translateX(-4.5rem) rotate(-3.6deg);
+}
+.spot-card.drag-x-neg-10 {
+  transform: translateX(-5rem) rotate(-4deg);
+}
+.spot-card.drag-x-neg-11 {
+  transform: translateX(-5.5rem) rotate(-4.4deg);
+}
+.spot-card.drag-x-neg-12 {
+  transform: translateX(-6rem) rotate(-4.8deg);
+}
+.spot-card.drag-x-pos-1 {
+  transform: translateX(0.5rem) rotate(0.4deg);
+}
+.spot-card.drag-x-pos-2 {
+  transform: translateX(1rem) rotate(0.8deg);
+}
+.spot-card.drag-x-pos-3 {
+  transform: translateX(1.5rem) rotate(1.2deg);
+}
+.spot-card.drag-x-pos-4 {
+  transform: translateX(2rem) rotate(1.6deg);
+}
+.spot-card.drag-x-pos-5 {
+  transform: translateX(2.5rem) rotate(2deg);
+}
+.spot-card.drag-x-pos-6 {
+  transform: translateX(3rem) rotate(2.4deg);
+}
+.spot-card.drag-x-pos-7 {
+  transform: translateX(3.5rem) rotate(2.8deg);
+}
+.spot-card.drag-x-pos-8 {
+  transform: translateX(4rem) rotate(3.2deg);
+}
+.spot-card.drag-x-pos-9 {
+  transform: translateX(4.5rem) rotate(3.6deg);
+}
+.spot-card.drag-x-pos-10 {
+  transform: translateX(5rem) rotate(4deg);
+}
+.spot-card.drag-x-pos-11 {
+  transform: translateX(5.5rem) rotate(4.4deg);
+}
+.spot-card.drag-x-pos-12 {
+  transform: translateX(6rem) rotate(4.8deg);
+}
+.spot-card.drag-y-neg-1 {
+  transform: translateY(-0.5rem);
+}
+.spot-card.drag-y-neg-2 {
+  transform: translateY(-1rem);
+}
+.spot-card.drag-y-neg-3 {
+  transform: translateY(-1.5rem);
+}
+.spot-card.drag-y-neg-4 {
+  transform: translateY(-2rem);
+}
+.spot-card.drag-y-neg-5 {
+  transform: translateY(-2.5rem);
+}
+.spot-card.drag-y-neg-6 {
+  transform: translateY(-3rem);
+}
+.spot-card.drag-y-neg-7 {
+  transform: translateY(-3.5rem);
+}
+.spot-card.drag-y-neg-8 {
+  transform: translateY(-4rem);
+}
+.spot-card.drag-y-neg-9 {
+  transform: translateY(-4.5rem);
+}
+.spot-card.drag-y-neg-10 {
+  transform: translateY(-5rem);
+}
+.spot-card.drag-y-neg-11 {
+  transform: translateY(-5.5rem);
+}
+.spot-card.drag-y-neg-12 {
+  transform: translateY(-6rem);
+}
 
 .spot-card.is-exiting-left {
   transform: translateX(-120vw) rotate(-16deg);
@@ -570,10 +644,19 @@ img {
   cursor: pointer;
 }
 
-.discover-action--skip { background: var(--color-coral); }
-.discover-action--detail { background: var(--color-blue); color: #ffffff; }
-.discover-action--favorite { background: var(--color-green); }
-.discover-action--undo { background: var(--color-yellow); }
+.discover-action--skip {
+  background: var(--color-coral);
+}
+.discover-action--detail {
+  background: var(--color-blue);
+  color: #ffffff;
+}
+.discover-action--favorite {
+  background: var(--color-green);
+}
+.discover-action--undo {
+  background: var(--color-yellow);
+}
 
 .discover-action:disabled {
   background: #d2d2cc;
@@ -845,7 +928,7 @@ img {
 
 .spot-image {
   position: relative;
-  min-block-size: min(62dvh, 36rem);
+  aspect-ratio: 4 / 3;
   overflow: hidden;
   background: #d8d8d0;
   border: var(--border-strong);

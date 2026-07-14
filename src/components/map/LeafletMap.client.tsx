@@ -1,6 +1,6 @@
 "use client";
 
-import * as L from "leaflet";
+import L from "@/infrastructure/map/leaflet-global.client";
 import "leaflet.markercluster";
 import { useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
@@ -88,14 +88,11 @@ export function LeafletMap({ spots, favoriteSpotIds }: LeafletMapProps) {
     const removePopupListeners: Array<() => void> = [];
 
     for (const spot of spots) {
-      const marker = L.marker(
-        [spot.coordinates.latitude, spot.coordinates.longitude],
-        {
-          icon: createSpotIcon(favoriteSpotIdSet.has(spot.id)),
-          title: spot.name,
-          alt: `${spot.name}の地図ピン`,
-        },
-      );
+      const marker = L.marker([spot.coordinates.latitude, spot.coordinates.longitude], {
+        icon: createSpotIcon(favoriteSpotIdSet.has(spot.id)),
+        title: spot.name,
+        alt: `${spot.name}の地図ピン`,
+      });
       const popup = createSpotPopup(spot);
       const detailButton = popup.querySelector<HTMLButtonElement>("button");
 
@@ -131,11 +128,7 @@ export function LeafletMap({ spots, favoriteSpotIds }: LeafletMapProps) {
           地図タイルの一部を読み込めませんでした。ピンの概要と詳細ページは引き続き利用できます。
         </div>
       ) : null}
-      <div
-        ref={mapContainerRef}
-        className="leaflet-map"
-        aria-label="観光地を表示する世界地図"
-      />
+      <div ref={mapContainerRef} className="leaflet-map" aria-label="観光地を表示する世界地図" />
     </>
   );
 }
@@ -168,7 +161,7 @@ function createSpotPopup(spot: MapSpotSummary): HTMLDivElement {
     () => {
       image.src = "/images/spot-fallback.svg";
     },
-    { once: true },
+    { once: true }
   );
 
   const title = document.createElement("strong");
