@@ -19,6 +19,9 @@ const contentSecurityPolicy = [
 const nextConfig: NextConfig = {
   deploymentId,
   poweredByHeader: false,
+  experimental: {
+    viewTransition: true,
+  },
   turbopack: {
     root: process.cwd(),
   },

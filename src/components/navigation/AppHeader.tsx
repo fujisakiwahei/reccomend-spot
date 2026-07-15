@@ -26,19 +26,11 @@ export function AppHeader() {
       </Link>
 
       <nav className="desktop-navigation" aria-label="メイン">
-        <Link
-          className="desktop-navigation__link"
-          data-active={pathname === "/"}
-          href="/"
-        >
+        <Link className="desktop-navigation__link" data-active={pathname === "/"} href="/">
           <Compass aria-hidden="true" size={20} strokeWidth={2.5} />
           Discover
         </Link>
-        <Link
-          className="desktop-navigation__link"
-          data-active={pathname === "/map"}
-          href="/map"
-        >
+        <Link className="desktop-navigation__link" data-active={pathname === "/map"} href="/map">
           <Map aria-hidden="true" size={20} strokeWidth={2.5} />
           Map
         </Link>
@@ -53,6 +45,26 @@ export function AppHeader() {
             <MoreHorizontal aria-hidden="true" size={24} strokeWidth={2.5} />
           </summary>
           <div className="app-menu__panel">
+            <nav className="app-menu__nav" aria-label="メイン">
+              <Link
+                className="menu-action"
+                data-active={pathname === "/"}
+                href="/"
+                onClick={closeMenu}
+              >
+                <Compass aria-hidden="true" size={18} strokeWidth={2.5} />
+                Discover
+              </Link>
+              <Link
+                className="menu-action"
+                data-active={pathname === "/map"}
+                href="/map"
+                onClick={closeMenu}
+              >
+                <Map aria-hidden="true" size={18} strokeWidth={2.5} />
+                Map
+              </Link>
+            </nav>
             <p className="app-menu__title">端末内データ</p>
             <ConfirmationDialog
               dialogId="reset-history-dialog"

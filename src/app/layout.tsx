@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
+import { ViewTransition } from "react";
 import { Bricolage_Grotesque, Noto_Sans_JP } from "next/font/google";
 import { AppHeader } from "@/components/navigation/AppHeader";
-import { BottomNavigation } from "@/components/navigation/BottomNavigation";
 import { getSpotIds } from "@/domain/spots/repository";
 import { WanderStateProvider } from "@/providers/WanderStateProvider";
 import "./globals.css";
@@ -24,8 +24,7 @@ export const metadata: Metadata = {
     default: "WanderMatch | 世界の観光地と偶然出会う",
     template: "%s | WanderMatch",
   },
-  description:
-    "世界の観光地をカードで眺め、お気に入りを地図に保存できる個人向けWebアプリです。",
+  description: "世界の観光地をカードで眺め、お気に入りを地図に保存できる個人向けWebアプリです。",
 };
 
 export default function RootLayout({
@@ -39,6 +38,7 @@ export default function RootLayout({
     <html
       lang="ja"
       className={`${bricolageGrotesque.variable} ${notoSansJp.variable}`}
+      data-scroll-behavior="smooth"
     >
       <body>
         <a className="skip-link" href="#main-content">
@@ -48,9 +48,8 @@ export default function RootLayout({
           <div className="app-shell">
             <AppHeader />
             <main id="main-content" className="app-main" tabIndex={-1}>
-              {children}
+              <ViewTransition update="page-fade">{children}</ViewTransition>
             </main>
-            <BottomNavigation />
           </div>
         </WanderStateProvider>
       </body>
